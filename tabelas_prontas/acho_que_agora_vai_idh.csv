@@ -1,0 +1,294 @@
+,Município,IDHM,IDHM_E,IDHM_L,IDHM_R;;;;;,vice_presidencia
+0,Abdon Batista,0.694,0.625,0.812,0.66;;;;;,Centro-Oeste
+1,Abelardo Luz,0.696,0.578,0.852,0.684;;;;;,Oeste
+2,Agrolândia,0.725,0.633,0.827,0.727;;;;;,Alto Vale do Itajaí
+3,Agronômica,0.741,0.595,0.884,0.774;;;;;,Alto Vale do Itajaí
+4,Água Doce,0.698,0.574,0.82,0.724;;;;;,Centro-Oeste
+5,Águas de Chapecó,0.713,0.629,0.811,0.712;;;;;,Oeste
+6,Águas Frias,0.745,0.661,0.86,0.728;;;;;,Oeste
+7,Águas Mornas,0.723,0.606,0.853,0.731;;;;;,Sudeste
+8,Alfredo Wagner,0.668,0.481,0.882,0.702;;;;;,Sudeste
+9,Alto Bela Vista,0.755,0.664,0.882,0.734;;;;;,Alto Uruguai Catarinense
+10,Anchieta,0.699,0.608,0.8,0.703;;;;;,Extremo Oeste
+11,Angelina,0.687,0.581,0.797,0.699;;;;;,Sudeste
+12,Anita Garibaldi,0.688,0.592,0.826,0.667;;;;;,Serra Catarinense
+13,Anitápolis,0.674,0.524,0.836,0.699;;;;;,Sudeste
+14,Antônio Carlos,0.749,0.615,0.89,0.768;;;;;,Sudeste
+15,Apiúna,0.708,0.584,0.827,0.735;;;;;,Vale do Itajaí
+16,Arabutã,0.733,0.614,0.863,0.744;;;;;,Alto Uruguai Catarinense
+17,Araquari,0.703,0.602,0.83,0.696;;;;;,Norte-Nordeste
+18,Araranguá,0.76,0.691,0.853,0.745;;;;;,Sul
+19,Armazém,0.77,0.698,0.882,0.743;;;;;,Litoral Sul
+20,Arroio Trinta,0.764,0.653,0.873,0.781;;;;;,Centro-Norte
+21,Arvoredo,0.715,0.61,0.842,0.713;;;;;,Alto Uruguai Catarinense
+22,Ascurra,0.742,0.636,0.868,0.739;;;;;,Vale do Itajaí
+23,Atalanta,0.733,0.668,0.802,0.736;;;;;,Alto Vale do Itajaí
+24,Aurora,0.733,0.606,0.87,0.748;;;;;,Alto Vale do Itajaí
+25,Balneário Arroio do Silva,0.746,0.642,0.858,0.753;;;;;,Sul
+26,Balneário Barra do Sul,0.716,0.611,0.844,0.713;;;;;,Norte-Nordeste
+27,Balneário Camboriú,0.845,0.789,0.894,0.854;;;;;,Foz do Rio Itajaí
+28,Balneário Gaivota,0.728,0.622,0.844,0.734;;;;;,Sul
+29,Balneário Piçarras,0.756,0.668,0.869,0.745;;;;;,Foz do Rio Itajaí
+30,Bandeirante,0.672,0.565,0.795,0.675;;;;;,Extremo Oeste
+31,Barra Bonita,0.701,0.599,0.83,0.692;;;;;,Extremo Oeste
+32,Barra Velha,0.738,0.639,0.857,0.735;;;;;,Vale do Itapocu
+33,Bela Vista do Toldo,0.675,0.598,0.826,0.624;;;;;,Centro-Norte
+34,Belmonte,0.705,0.611,0.82,0.699;;;;;,Extremo Oeste
+35,Benedito Novo,0.74,0.645,0.868,0.723;;;;;,Vale do Itajaí
+36,Biguaçu,0.739,0.659,0.836,0.733;;;;;,Sudeste
+37,Blumenau,0.806,0.722,0.894,0.812;;;;;,Vale do Itajaí
+38,Bocaina do Sul,0.647,0.549,0.768,0.642;;;;;,Serra Catarinense
+39,Bom Jardim da Serra,0.696,0.568,0.835,0.71;;;;;,Serra Catarinense
+40,Bom Jesus,0.718,0.606,0.827,0.74;;;;;,Oeste
+41,Bom Jesus do Oeste,0.712,0.601,0.83,0.725;;;;;,Oeste
+42,Bom Retiro,0.699,0.559,0.869,0.704;;;;;,Serra Catarinense
+43,Bombinhas,0.781,0.732,0.864,0.753;;;;;,Foz do Rio Itajaí
+44,Botuverá,0.724,0.604,0.848,0.741;;;;;,Vale do Itajaí Mirim
+45,Braço do Norte,0.778,0.716,0.881,0.746;;;;;,Litoral Sul
+46,Braço do Trombudo,0.78,0.702,0.883,0.766;;;;;,Alto Vale do Itajaí
+47,Brunópolis,0.661,0.545,0.819,0.646;;;;;,Centro-Oeste
+48,Brusque,0.795,0.707,0.894,0.794;;;;;,Vale do Itajaí Mirim
+49,Caçador,0.735,0.62,0.878,0.728;;;;;,Centro-Norte
+50,Caibi,0.728,0.631,0.83,0.737;;;;;,Oeste
+51,Calmon,0.622,0.5,0.779,0.618;;;;;,Centro-Norte
+52,Camboriú,0.726,0.6,0.866,0.736;;;;;,Foz do Rio Itajaí
+53,Campo Alegre,0.714,0.636,0.845,0.677;;;;;,Planalto Norte
+54,Campo Belo do Sul,0.641,0.528,0.768,0.648;;;;;,Serra Catarinense
+55,Campo Erê,0.69,0.595,0.787,0.702;;;;;,Oeste
+56,Campos Novos,0.742,0.658,0.861,0.721;;;;;,Centro-Oeste
+57,Canelinha,0.697,0.542,0.865,0.723;;;;;,Sudeste
+58,Canoinhas,0.757,0.692,0.874,0.717;;;;;,Centro-Norte
+59,Capão Alto,0.654,0.516,0.796,0.68;;;;;,Serra Catarinense
+60,Capinzal,0.752,0.659,0.869,0.742;;;;;,Centro-Oeste
+61,Capivari de Baixo,0.767,0.716,0.87,0.724;;;;;,Litoral Sul
+62,Catanduvas,0.714,0.625,0.806,0.723;;;;;,Centro-Oeste
+63,Caxambu do Sul,0.691,0.523,0.87,0.725;;;;;,Oeste
+64,Celso Ramos,0.719,0.692,0.826,0.651;;;;;,Serra Catarinense
+65,Cerro Negro,0.621,0.455,0.829,0.634;;;;;,Serra Catarinense
+66,Chapadão do Lageado,0.704,0.616,0.833,0.68;;;;;,Alto Vale do Itajaí
+67,Chapecó,0.79,0.727,0.871,0.779;;;;;,Oeste
+68,Cocal do Sul,0.78,0.74,0.859,0.747;;;;;,Sul
+69,Concórdia,0.8,0.756,0.872,0.777;;;;;,Alto Uruguai Catarinense
+70,Cordilheira Alta,0.747,0.662,0.855,0.735;;;;;,Oeste
+71,Coronel Freitas,0.744,0.653,0.86,0.732;;;;;,Oeste
+72,Coronel Martins,0.696,0.609,0.816,0.678;;;;;,Oeste
+73,Correia Pinto,0.702,0.614,0.804,0.701;;;;;,Serra Catarinense
+74,Corupá,0.78,0.707,0.873,0.768;;;;;,Vale do Itapocu
+75,Criciúma,0.788,0.737,0.846,0.786;;;;;,Sul
+76,Cunha Porã,0.742,0.682,0.804,0.744;;;;;,Oeste
+77,Cunhataí,0.754,0.623,0.886,0.777;;;;;,Oeste
+78,Curitibanos,0.721,0.62,0.846,0.716;;;;;,Centro-Norte
+79,Descanso,0.743,0.647,0.854,0.741;;;;;,Extremo Oeste
+80,Dionísio Cerqueira,0.706,0.61,0.82,0.703;;;;;,Extremo Oeste
+81,Dona Emma,0.742,0.622,0.862,0.762;;;;;,Alto Vale do Itajaí
+82,Doutor Pedrinho,0.716,0.609,0.843,0.714;;;;;,Vale do Itajaí
+83,Entre Rios,0.657,0.55,0.808,0.638;;;;;,Oeste
+84,Ermo,0.726,0.67,0.808,0.708;;;;;,Sul
+85,Erval Velho,0.723,0.592,0.868,0.736;;;;;,Centro-Oeste
+86,Faxinal dos Guedes,0.758,0.676,0.863,0.746;;;;;,Oeste
+87,Flor do Sertão,0.708,0.608,0.792,0.736;;;;;,Oeste
+88,Florianópolis,0.847,0.8,0.873,0.87;;;;;,Sudeste
+89,Formosa do Sul,0.715,0.593,0.845,0.728;;;;;,Oeste
+90,Forquilhinha,0.753,0.657,0.861,0.754;;;;;,Sul
+91,Fraiburgo,0.731,0.637,0.86,0.712;;;;;,Centro-Norte
+92,Frei Rogério,0.682,0.588,0.812,0.664;;;;;,Centro-Norte
+93,Galvão,0.708,0.618,0.815,0.704;;;;;,Oeste
+94,Garopaba,0.753,0.668,0.868,0.737;;;;;,Sudeste
+95,Garuva,0.725,0.64,0.83,0.717;;;;;,Norte-Nordeste
+96,Gaspar,0.765,0.655,0.889,0.77;;;;;,Vale do Itajaí
+97,Governador Celso Ramos,0.747,0.651,0.87,0.737;;;;;,Sudeste
+98,Grão Pará,0.736,0.63,0.846,0.749;;;;;,Litoral Sul
+99,Gravatal,0.757,0.681,0.877,0.726;;;;;,Litoral Sul
+100,Guabiruba,0.754,0.653,0.876,0.75;;;;;,Vale do Itajaí Mirim
+101,Guaraciaba,0.751,0.646,0.871,0.754;;;;;,Extremo Oeste
+102,Guaramirim,0.751,0.641,0.885,0.748;;;;;,Vale do Itapocu
+103,Guarujá do Sul,0.73,0.639,0.833,0.732;;;;;,Extremo Oeste
+104,Guatambú,0.717,0.626,0.823,0.716;;;;;,Oeste
+105,Herval D'Oeste,0.758,0.684,0.859,0.74;;;;;,
+106,Ibiam,0.725,0.631,0.82,0.737;;;;;,Centro-Oeste
+107,Ibicaré,0.708,0.586,0.826,0.734;;;;;,Centro-Oeste
+108,Ibirama,0.737,0.63,0.848,0.749;;;;;,Alto Vale do Itajaí
+109,Içara,0.741,0.645,0.861,0.732;;;;;,Sul
+110,Ilhota,0.738,0.607,0.883,0.75;;;;;,Foz do Rio Itajaí
+111,Imaruí,0.667,0.53,0.834,0.67;;;;;,Litoral Sul
+112,Imbituba,0.765,0.703,0.868,0.734;;;;;,Litoral Sul
+113,Imbuia,0.713,0.602,0.84,0.716;;;;;,Vale do Itajaí Mirim
+114,Indaial,0.777,0.701,0.873,0.767;;;;;,Vale do Itajaí
+115,Iomerê,0.795,0.749,0.891,0.754;;;;;,Centro-Norte
+116,Ipira,0.736,0.657,0.838,0.724;;;;;,Alto Uruguai Catarinense
+117,Iporã do Oeste,0.759,0.695,0.847,0.743;;;;;,Extremo Oeste
+118,Ipuaçu,0.66,0.54,0.79,0.674;;;;;,Oeste
+119,Ipumirim,0.738,0.631,0.853,0.747;;;;;,Alto Uruguai Catarinense
+120,Iraceminha,0.722,0.628,0.845,0.71;;;;;,Oeste
+121,Irani,0.742,0.675,0.847,0.715;;;;;,Alto Uruguai Catarinense
+122,Irati,0.707,0.609,0.836,0.694;;;;;,Oeste
+123,Irineópolis,0.699,0.567,0.836,0.72;;;;;,Centro-Norte
+124,Itá,0.771,0.698,0.879,0.747;;;;;,Alto Uruguai Catarinense
+125,Itaiópolis,0.708,0.606,0.836,0.7;;;;;,Planalto Norte
+126,Itajaí,0.795,0.73,0.884,0.778;;;;;,Foz do Rio Itajaí
+127,Itapema,0.796,0.727,0.881,0.788;;;;;,Foz do Rio Itajaí
+128,Itapiranga,0.775,0.723,0.842,0.766;;;;;,Extremo Oeste
+129,Itapoá,0.761,0.682,0.874,0.739;;;;;,Norte-Nordeste
+130,Ituporanga,0.748,0.638,0.876,0.749;;;;;,Alto Vale do Itajaí
+131,Jaborá,0.732,0.657,0.801,0.746;;;;;,Alto Uruguai Catarinense
+132,Jacinto Machado,0.716,0.633,0.818,0.708;;;;;,Sul
+133,Jaguaruna,0.721,0.628,0.83,0.719;;;;;,Litoral Sul
+134,Jaraguá do Sul,0.803,0.755,0.865,0.793;;;;;,Vale do Itapocu
+135,Jardinópolis,0.709,0.611,0.823,0.708;;;;;,Oeste
+136,Joaçaba,0.827,0.771,0.891,0.823;;;;;,Centro-Oeste
+137,Joinville,0.809,0.749,0.889,0.795;;;;;,Norte-Nordeste
+138,José Boiteux,0.694,0.578,0.841,0.689;;;;;,Alto Vale do Itajaí
+139,Jupiá,0.719,0.61,0.862,0.708;;;;;,Oeste
+140,Lacerdópolis,0.781,0.708,0.883,0.763;;;;;,Centro-Oeste
+141,Lages,0.77,0.697,0.867,0.755;;;;;,Serra Catarinense
+142,Laguna,0.752,0.682,0.871,0.715;;;;;,Litoral Sul
+143,Lajeado Grande,0.771,0.712,0.858,0.75;;;;;,Oeste
+144,Laurentino,0.749,0.662,0.855,0.742;;;;;,Alto Vale do Itajaí
+145,Lauro Muller,0.735,0.677,0.822,0.714;;;;;,Sul
+146,Lebon Régis,0.649,0.537,0.806,0.632;;;;;,Centro-Norte
+147,Leoberto Leal,0.686,0.533,0.818,0.74;;;;;,Vale do Itajaí Mirim
+148,Lindóia do Sul,0.743,0.636,0.865,0.747;;;;;,Alto Uruguai Catarinense
+149,Lontras,0.704,0.579,0.82,0.735;;;;;,Alto Vale do Itajaí
+150,Luiz Alves,0.737,0.6,0.87,0.766;;;;;,Foz do Rio Itajaí
+151,Luzerna,0.789,0.718,0.877,0.781;;;;;,Centro-Oeste
+152,Macieira,0.662,0.533,0.806,0.675;;;;;,Centro-Norte
+153,Mafra,0.777,0.723,0.88,0.738;;;;;,Planalto Norte
+154,Major Gercino,0.698,0.563,0.818,0.738;;;;;,Vale do Itajaí Mirim
+155,Major Vieira,0.69,0.617,0.817,0.653;;;;;,Centro-Norte
+156,Maracajá,0.768,0.699,0.861,0.752;;;;;,Sul
+157,Maravilha,0.781,0.708,0.886,0.758;;;;;,Oeste
+158,Marema,0.743,0.636,0.862,0.748;;;;;,Oeste
+159,Massaranduba,0.774,0.714,0.867,0.749;;;;;,Vale do Itapocu
+160,Matos Costa,0.657,0.541,0.831,0.63;;;;;,Centro-Norte
+161,Meleiro,0.738,0.679,0.808,0.734;;;;;,Sul
+162,Mirim Doce,0.708,0.633,0.821,0.683;;;;;,Alto Vale do Itajaí
+163,Modelo,0.76,0.659,0.886,0.751;;;;;,Oeste
+164,Mondaí,0.748,0.657,0.875,0.728;;;;;,Extremo Oeste
+165,Monte Carlo,0.643,0.511,0.804,0.648;;;;;,Centro-Oeste
+166,Monte Castelo,0.675,0.581,0.826,0.641;;;;;,Planalto Norte
+167,Morro da Fumaça,0.738,0.665,0.825,0.732;;;;;,Sul
+168,Morro Grande,0.701,0.548,0.847,0.742;;;;;,Sul
+169,Navegantes,0.736,0.624,0.873,0.731;;;;;,Foz do Rio Itajaí
+170,Nova Erechim,0.765,0.686,0.851,0.767;;;;;,Oeste
+171,Nova Itaberaba,0.736,0.605,0.876,0.753;;;;;,Oeste
+172,Nova Trento,0.748,0.628,0.891,0.749;;;;;,Vale do Itajaí Mirim
+173,Nova Veneza,0.768,0.703,0.869,0.741;;;;;,Sul
+174,Novo Horizonte,0.706,0.594,0.846,0.7;;;;;,Oeste
+175,Orleans,0.755,0.657,0.873,0.749;;;;;,Sul
+176,Otacílio Costa,0.74,0.681,0.835,0.713;;;;;,Serra Catarinense
+177,Ouro,0.774,0.677,0.884,0.774;;;;;,Centro-Oeste
+178,Ouro Verde,0.695,0.611,0.79,0.696;;;;;,Oeste
+179,Paial,0.718,0.62,0.847,0.705;;;;;,Alto Uruguai Catarinense
+180,Painel,0.664,0.543,0.808,0.668;;;;;,Serra Catarinense
+181,Palhoça,0.757,0.672,0.859,0.752;;;;;,Sudeste
+182,Palma Sola,0.704,0.622,0.8,0.7;;;;;,Extremo Oeste
+183,Palmeira,0.671,0.557,0.827,0.655;;;;;,Serra Catarinense
+184,Palmitos,0.737,0.632,0.836,0.757;;;;;,Oeste
+185,Papanduva,0.704,0.603,0.836,0.691;;;;;,Planalto Norte
+186,Paraíso,0.7,0.565,0.833,0.728;;;;;,Extremo Oeste
+187,Passo de Torres,0.72,0.618,0.869,0.695;;;;;,Sul
+188,Passos Maia,0.659,0.547,0.808,0.648;;;;;,Oeste
+189,Paulo Lopes,0.716,0.6,0.865,0.707;;;;;,Sudeste
+190,Pedras Grandes,0.728,0.621,0.87,0.715;;;;;,Litoral Sul
+191,Penha,0.743,0.64,0.867,0.739;;;;;,Foz do Rio Itajaí
+192,Peritiba,0.766,0.669,0.882,0.762;;;;;,Alto Uruguai Catarinense
+193,Petrolândia,0.716,0.618,0.802,0.74;;;;;,Alto Vale do Itajaí
+194,Pinhalzinho,0.783,0.716,0.886,0.758;;;;;,Oeste
+195,Pinheiro Preto,0.777,0.712,0.866,0.762;;;;;,Centro-Norte
+196,Piratuba,0.758,0.714,0.829,0.736;;;;;,Alto Uruguai Catarinense
+197,Planalto Alegre,0.751,0.659,0.881,0.731;;;;;,Oeste
+198,Pomerode,0.78,0.687,0.886,0.78;;;;;,Vale do Itajaí
+199,Ponte Alta,0.673,0.568,0.804,0.666;;;;;,Serra Catarinense
+200,Ponte Alta do Norte,0.689,0.605,0.819,0.661;;;;;,Centro-Norte
+201,Ponte Serrada,0.693,0.61,0.79,0.69;;;;;,Oeste
+202,Porto Belo,0.76,0.66,0.886,0.75;;;;;,Foz do Rio Itajaí
+203,Porto União,0.786,0.724,0.891,0.752;;;;;,Centro-Norte
+204,Pouso Redondo,0.72,0.598,0.857,0.728;;;;;,Alto Vale do Itajaí
+205,Praia Grande,0.718,0.636,0.84,0.692;;;;;,Sul
+206,Presidente Castello Branco,0.77,0.637,0.883,0.813;;;;;,Alto Uruguai Catarinense
+207,Presidente Getúlio,0.759,0.654,0.874,0.764;;;;;,Alto Vale do Itajaí
+208,Presidente Nereu,0.737,0.609,0.861,0.765;;;;;,Vale do Itajaí Mirim
+209,Princesa,0.706,0.611,0.82,0.701;;;;;,Extremo Oeste
+210,Quilombo,0.73,0.656,0.832,0.712;;;;;,Oeste
+211,Rancho Queimado,0.753,0.644,0.893,0.743;;;;;,Sudeste
+212,Rio das Antas,0.697,0.569,0.82,0.727;;;;;,Centro-Norte
+213,Rio do Campo,0.729,0.65,0.803,0.741;;;;;,Alto Vale do Itajaí
+214,Rio do Oeste,0.754,0.625,0.892,0.769;;;;;,Alto Vale do Itajaí
+215,Rio do Sul,0.802,0.727,0.894,0.793;;;;;,Alto Vale do Itajaí
+216,Rio dos Cedros,0.729,0.634,0.827,0.739;;;;;,Vale do Itajaí
+217,Rio Fortuna,0.806,0.727,0.85,0.848;;;;;,Litoral Sul
+218,Rio Negrinho,0.738,0.668,0.848,0.71;;;;;,Planalto Norte
+219,Rio Rufino,0.653,0.53,0.806,0.652;;;;;,Serra Catarinense
+220,Riqueza,0.714,0.624,0.83,0.702;;;;;,Oeste
+221,Rodeio,0.754,0.626,0.889,0.769;;;;;,Vale do Itajaí
+222,Romelândia,0.692,0.561,0.8,0.738;;;;;,Oeste
+223,Salete,0.744,0.695,0.803,0.737;;;;;,Alto Vale do Itajaí
+224,Saltinho,0.654,0.551,0.795,0.639;;;;;,Oeste
+225,Salto Veloso,0.784,0.705,0.88,0.778;;;;;,Centro-Norte
+226,Sangão,0.7,0.554,0.853,0.725;;;;;,Litoral Sul
+227,Santa Cecília,0.698,0.597,0.819,0.697;;;;;,Centro-Norte
+228,Santa Helena,0.727,0.653,0.833,0.705;;;;;,Extremo Oeste
+229,Santa Rosa de Lima,0.757,0.71,0.843,0.726;;;;;,Litoral Sul
+230,Santa Rosa do Sul,0.705,0.618,0.806,0.702;;;;;,Sul
+231,Santa Terezinha,0.669,0.575,0.817,0.637;;;;;,Alto Vale do Itajaí
+232,Santa Terezinha do Progresso,0.682,0.585,0.791,0.686;;;;;,Oeste
+233,Santiago do Sul,0.728,0.652,0.811,0.731;;;;;,Oeste
+234,Santo Amaro da Imperatriz,0.781,0.71,0.89,0.753;;;;;,Sudeste
+235,São Bento do Sul,0.782,0.719,0.871,0.763;;;;;,Planalto Norte
+236,São Bernardino,0.677,0.577,0.822,0.653;;;;;,Oeste
+237,São Bonifácio,0.731,0.622,0.86,0.729;;;;;,Sudeste
+238,São Carlos,0.769,0.688,0.867,0.763;;;;;,Oeste
+239,São Cristovão do Sul,0.665,0.543,0.812,0.667;;;;;,Centro-Norte
+240,São Domingos,0.765,0.675,0.861,0.769;;;;;,Oeste
+241,São Francisco do Sul,0.762,0.699,0.856,0.74;;;;;,Norte-Nordeste
+242,São João Batista,0.74,0.634,0.865,0.739;;;;;,Sudeste
+243,São João do Itaperiú,0.738,0.645,0.873,0.714;;;;;,Vale do Itapocu
+244,São João do Oeste,0.761,0.668,0.873,0.756;;;;;,Extremo Oeste
+245,São João do Sul,0.695,0.587,0.84,0.682;;;;;,Sul
+246,São Joaquim,0.687,0.562,0.817,0.705;;;;;,Serra Catarinense
+247,São José,0.809,0.752,0.88,0.799;;;;;,Sudeste
+248,São José do Cedro,0.731,0.625,0.83,0.753;;;;;,Extremo Oeste
+249,São José do Cerrito,0.636,0.503,0.827,0.618;;;;;,Serra Catarinense
+250,São Lourenço do Oeste,0.749,0.695,0.807,0.748;;;;;,Oeste
+251,São Ludgero,0.755,0.683,0.834,0.756;;;;;,Litoral Sul
+252,São Martinho,0.742,0.654,0.83,0.754;;;;;,Litoral Sul
+253,São Miguel da Boa Vista,0.71,0.615,0.795,0.733;;;;;,Oeste
+254,São Miguel do Oeste,0.801,0.739,0.884,0.787;;;;;,Extremo Oeste
+255,São Pedro de Alcântara,0.734,0.618,0.846,0.757;;;;;,Sudeste
+256,Saudades,0.755,0.7,0.85,0.723;;;;;,Oeste
+257,Schroeder,0.769,0.71,0.855,0.75;;;;;,Vale do Itapocu
+258,Seara,0.779,0.674,0.872,0.804;;;;;,Alto Uruguai Catarinense
+259,Serra Alta,0.773,0.694,0.879,0.758;;;;;,Oeste
+260,Siderópolis,0.774,0.701,0.88,0.751;;;;;,Sul
+261,Sombrio,0.728,0.617,0.858,0.729;;;;;,Sul
+262,Sul Brasil,0.707,0.595,0.832,0.713;;;;;,Oeste
+263,Taió,0.761,0.67,0.879,0.749;;;;;,Alto Vale do Itajaí
+264,Tangará,0.737,0.617,0.867,0.748;;;;;,Centro-Oeste
+265,Tigrinhos,0.717,0.633,0.846,0.688;;;;;,Oeste
+266,Tijucas,0.76,0.672,0.873,0.747;;;;;,Sudeste
+267,Timbé do Sul,0.72,0.606,0.856,0.721;;;;;,Sul
+268,Timbó,0.784,0.697,0.856,0.807;;;;;,Vale do Itajaí
+269,Timbó Grande,0.659,0.565,0.798,0.634;;;;;,Centro-Norte
+270,Três Barras,0.706,0.639,0.814,0.677;;;;;,Centro-Norte
+271,Treviso,0.774,0.714,0.882,0.737;;;;;,Sul
+272,Treze de Maio,0.729,0.602,0.881,0.729;;;;;,Litoral Sul
+273,Treze Tílias,0.795,0.685,0.874,0.838;;;;;,Centro-Oeste
+274,Trombudo Central,0.775,0.696,0.88,0.76;;;;;,Alto Vale do Itajaí
+275,Tubarão,0.796,0.74,0.866,0.788;;;;;,Litoral Sul
+276,Tunápolis,0.752,0.704,0.83,0.728;;;;;,Extremo Oeste
+277,Turvo,0.74,0.631,0.867,0.742;;;;;,Sul
+278,União do Oeste,0.705,0.606,0.823,0.703;;;;;,Oeste
+279,Urubici,0.694,0.562,0.823,0.722;;;;;,Serra Catarinense
+280,Urupema,0.699,0.622,0.823,0.667;;;;;,Serra Catarinense
+281,Urussanga,0.772,0.695,0.876,0.756;;;;;,Sul
+282,Vargeão,0.686,0.551,0.827,0.708;;;;;,Oeste
+283,Vargem,0.629,0.495,0.79,0.636;;;;;,Centro-Oeste
+284,Vargem Bonita,0.718,0.656,0.801,0.705;;;;;,Centro-Oeste
+285,Vidal Ramos,0.7,0.588,0.802,0.728;;;;;,Vale do Itajaí Mirim
+286,Videira,0.764,0.675,0.857,0.772;;;;;,Centro-Norte
+287,Vitor Meireles,0.673,0.522,0.841,0.694;;;;;,Alto Vale do Itajaí
+288,Witmarsum,0.71,0.557,0.87,0.739;;;;;,Alto Vale do Itajaí
+289,Xanxerê,0.775,0.711,0.861,0.76;;;;;,Oeste
+290,Xavantina,0.749,0.632,0.861,0.772;;;;;,Alto Uruguai Catarinense
+291,Xaxim,0.752,0.662,0.871,0.737;;;;;,Oeste
+292,Zortéa,0.761,0.661,0.885,0.752;;;;;,Centro-Oeste

@@ -1,0 +1,3293 @@
+,Município,COD_SEC,saldo_202012,saldo_202102,vice_presidencia
+0,Abdon Batista,F,-1.0,7.0,Centro-Oeste
+1,Abdon Batista,G,,-2.0,Centro-Oeste
+2,Abdon Batista,H,,-1.0,Centro-Oeste
+3,Abdon Batista,J,,3.0,Centro-Oeste
+4,Abdon Batista,K,,2.0,Centro-Oeste
+5,Abdon Batista,M,-1.0,,Centro-Oeste
+6,Abdon Batista,S,,1.0,Centro-Oeste
+7,Abelardo Luz,A,2.0,5.0,Oeste
+8,Abelardo Luz,C,15.0,50.0,Oeste
+9,Abelardo Luz,D,,1.0,Oeste
+10,Abelardo Luz,E,1.0,,Oeste
+11,Abelardo Luz,F,3.0,22.0,Oeste
+12,Abelardo Luz,G,-6.0,6.0,Oeste
+13,Abelardo Luz,H,-1.0,-3.0,Oeste
+14,Abelardo Luz,I,1.0,1.0,Oeste
+15,Abelardo Luz,J,2.0,-1.0,Oeste
+16,Abelardo Luz,K,1.0,-2.0,Oeste
+17,Abelardo Luz,L,,-1.0,Oeste
+18,Abelardo Luz,M,-2.0,0.0,Oeste
+19,Abelardo Luz,N,-1.0,,Oeste
+20,Abelardo Luz,P,-1.0,-2.0,Oeste
+21,Abelardo Luz,Q,2.0,1.0,Oeste
+22,Abelardo Luz,R,-2.0,,Oeste
+23,Abelardo Luz,S,-1.0,1.0,Oeste
+24,Agrolândia,A,-1.0,1.0,Alto Vale do Itajaí
+25,Agrolândia,C,-29.0,74.0,Alto Vale do Itajaí
+26,Agrolândia,F,,6.0,Alto Vale do Itajaí
+27,Agrolândia,G,-4.0,7.0,Alto Vale do Itajaí
+28,Agrolândia,H,-2.0,-1.0,Alto Vale do Itajaí
+29,Agrolândia,I,,4.0,Alto Vale do Itajaí
+30,Agrolândia,J,-1.0,-1.0,Alto Vale do Itajaí
+31,Agrolândia,K,,-1.0,Alto Vale do Itajaí
+32,Agrolândia,M,0.0,2.0,Alto Vale do Itajaí
+33,Agrolândia,N,-2.0,,Alto Vale do Itajaí
+34,Agrolândia,O,,2.0,Alto Vale do Itajaí
+35,Agrolândia,Q,-1.0,2.0,Alto Vale do Itajaí
+36,Agrolândia,S,,1.0,Alto Vale do Itajaí
+37,Agronômica,C,-25.0,26.0,Alto Vale do Itajaí
+38,Agronômica,E,,1.0,Alto Vale do Itajaí
+39,Agronômica,F,0.0,1.0,Alto Vale do Itajaí
+40,Agronômica,G,1.0,6.0,Alto Vale do Itajaí
+41,Agronômica,H,0.0,-1.0,Alto Vale do Itajaí
+42,Agronômica,I,0.0,-2.0,Alto Vale do Itajaí
+43,Agronômica,J,,1.0,Alto Vale do Itajaí
+44,Agronômica,K,-1.0,,Alto Vale do Itajaí
+45,Agronômica,L,,2.0,Alto Vale do Itajaí
+46,Agronômica,P,,0.0,Alto Vale do Itajaí
+47,Agronômica,Q,,0.0,Alto Vale do Itajaí
+48,Agronômica,S,,-1.0,Alto Vale do Itajaí
+49,Água Doce,A,-62.0,1.0,Centro-Oeste
+50,Água Doce,C,-1.0,7.0,Centro-Oeste
+51,Água Doce,D,-1.0,-4.0,Centro-Oeste
+52,Água Doce,E,-3.0,0.0,Centro-Oeste
+53,Água Doce,F,-3.0,1.0,Centro-Oeste
+54,Água Doce,G,5.0,3.0,Centro-Oeste
+55,Água Doce,H,2.0,9.0,Centro-Oeste
+56,Água Doce,I,3.0,-2.0,Centro-Oeste
+57,Água Doce,J,,-1.0,Centro-Oeste
+58,Água Doce,L,,-1.0,Centro-Oeste
+59,Água Doce,M,,-1.0,Centro-Oeste
+60,Água Doce,N,,1.0,Centro-Oeste
+61,Água Doce,Q,-1.0,1.0,Centro-Oeste
+62,Água Doce,S,1.0,,Centro-Oeste
+63,Águas de Chapecó,C,-6.0,12.0,Oeste
+64,Águas de Chapecó,G,-1.0,4.0,Oeste
+65,Águas de Chapecó,H,,-1.0,Oeste
+66,Águas de Chapecó,K,,-1.0,Oeste
+67,Águas de Chapecó,P,,1.0,Oeste
+68,Águas de Chapecó,S,-1.0,-1.0,Oeste
+69,Águas Frias,C,-7.0,-6.0,Oeste
+70,Águas Frias,F,-1.0,5.0,Oeste
+71,Águas Frias,G,5.0,2.0,Oeste
+72,Águas Frias,H,-4.0,2.0,Oeste
+73,Águas Frias,M,-1.0,0.0,Oeste
+74,Águas Frias,O,-1.0,,Oeste
+75,Águas Frias,S,,1.0,Oeste
+76,Águas Mornas,A,,0.0,Sudeste
+77,Águas Mornas,B,-1.0,-1.0,Sudeste
+78,Águas Mornas,C,-1.0,-2.0,Sudeste
+79,Águas Mornas,F,-5.0,6.0,Sudeste
+80,Águas Mornas,G,2.0,10.0,Sudeste
+81,Águas Mornas,H,,-1.0,Sudeste
+82,Águas Mornas,I,1.0,3.0,Sudeste
+83,Águas Mornas,K,3.0,2.0,Sudeste
+84,Águas Mornas,S,,1.0,Sudeste
+85,Alfredo Wagner,A,2.0,-1.0,Sudeste
+86,Alfredo Wagner,C,-3.0,3.0,Sudeste
+87,Alfredo Wagner,F,,4.0,Sudeste
+88,Alfredo Wagner,G,6.0,-3.0,Sudeste
+89,Alfredo Wagner,H,-1.0,1.0,Sudeste
+90,Alfredo Wagner,I,0.0,3.0,Sudeste
+91,Alfredo Wagner,J,,1.0,Sudeste
+92,Alfredo Wagner,K,1.0,0.0,Sudeste
+93,Alfredo Wagner,M,-1.0,,Sudeste
+94,Alfredo Wagner,N,-1.0,1.0,Sudeste
+95,Alfredo Wagner,Q,1.0,3.0,Sudeste
+96,Alfredo Wagner,R,,-4.0,Sudeste
+97,Alfredo Wagner,S,1.0,1.0,Sudeste
+98,Alto Bela Vista,C,1.0,3.0,Alto Uruguai Catarinense
+99,Alto Bela Vista,F,,-1.0,Alto Uruguai Catarinense
+100,Alto Bela Vista,G,-4.0,0.0,Alto Uruguai Catarinense
+101,Alto Bela Vista,K,,1.0,Alto Uruguai Catarinense
+102,Alto Bela Vista,S,-1.0,,Alto Uruguai Catarinense
+103,Anchieta,C,-3.0,13.0,Extremo Oeste
+104,Anchieta,E,-1.0,2.0,Extremo Oeste
+105,Anchieta,F,,-1.0,Extremo Oeste
+106,Anchieta,G,3.0,4.0,Extremo Oeste
+107,Anchieta,H,2.0,3.0,Extremo Oeste
+108,Anchieta,I,0.0,1.0,Extremo Oeste
+109,Anchieta,M,1.0,4.0,Extremo Oeste
+110,Anchieta,P,-5.0,1.0,Extremo Oeste
+111,Anchieta,R,,1.0,Extremo Oeste
+112,Anchieta,S,,0.0,Extremo Oeste
+113,Angelina,A,-1.0,,Sudeste
+114,Angelina,C,-2.0,2.0,Sudeste
+115,Angelina,E,-1.0,2.0,Sudeste
+116,Angelina,F,-1.0,11.0,Sudeste
+117,Angelina,G,1.0,0.0,Sudeste
+118,Angelina,I,-7.0,-2.0,Sudeste
+119,Angelina,K,,-1.0,Sudeste
+120,Angelina,N,,0.0,Sudeste
+121,Angelina,P,1.0,3.0,Sudeste
+122,Angelina,Q,0.0,1.0,Sudeste
+123,Angelina,S,0.0,-1.0,Sudeste
+124,Anita Garibaldi,C,-9.0,46.0,Serra Catarinense
+125,Anita Garibaldi,F,-1.0,6.0,Serra Catarinense
+126,Anita Garibaldi,G,-3.0,7.0,Serra Catarinense
+127,Anita Garibaldi,H,0.0,0.0,Serra Catarinense
+128,Anita Garibaldi,I,2.0,,Serra Catarinense
+129,Anita Garibaldi,J,1.0,,Serra Catarinense
+130,Anita Garibaldi,M,-1.0,,Serra Catarinense
+131,Anita Garibaldi,N,-1.0,1.0,Serra Catarinense
+132,Anita Garibaldi,P,,2.0,Serra Catarinense
+133,Anita Garibaldi,Q,,1.0,Serra Catarinense
+134,Anita Garibaldi,S,,1.0,Serra Catarinense
+135,Anitápolis,A,-2.0,1.0,Sudeste
+136,Anitápolis,C,0.0,-1.0,Sudeste
+137,Anitápolis,G,0.0,4.0,Sudeste
+138,Anitápolis,H,,-1.0,Sudeste
+139,Anitápolis,I,1.0,,Sudeste
+140,Anitápolis,Q,0.0,2.0,Sudeste
+141,Anitápolis,S,-1.0,2.0,Sudeste
+142,Antônio Carlos,A,-1.0,3.0,Sudeste
+143,Antônio Carlos,B,1.0,1.0,Sudeste
+144,Antônio Carlos,C,9.0,22.0,Sudeste
+145,Antônio Carlos,F,-3.0,3.0,Sudeste
+146,Antônio Carlos,G,5.0,-1.0,Sudeste
+147,Antônio Carlos,H,3.0,3.0,Sudeste
+148,Antônio Carlos,I,5.0,2.0,Sudeste
+149,Antônio Carlos,J,,1.0,Sudeste
+150,Antônio Carlos,M,1.0,-1.0,Sudeste
+151,Antônio Carlos,N,-2.0,1.0,Sudeste
+152,Antônio Carlos,Q,2.0,1.0,Sudeste
+153,Antônio Carlos,R,0.0,,Sudeste
+154,Antônio Carlos,S,1.0,3.0,Sudeste
+155,Apiúna,A,,-1.0,Vale do Itajaí
+156,Apiúna,C,-66.0,70.0,Vale do Itajaí
+157,Apiúna,D,,-1.0,Vale do Itajaí
+158,Apiúna,F,0.0,2.0,Vale do Itajaí
+159,Apiúna,G,-1.0,9.0,Vale do Itajaí
+160,Apiúna,H,1.0,1.0,Vale do Itajaí
+161,Apiúna,I,-1.0,6.0,Vale do Itajaí
+162,Apiúna,K,1.0,3.0,Vale do Itajaí
+163,Apiúna,M,-2.0,0.0,Vale do Itajaí
+164,Apiúna,N,-1.0,-1.0,Vale do Itajaí
+165,Apiúna,O,-1.0,1.0,Vale do Itajaí
+166,Apiúna,P,-1.0,,Vale do Itajaí
+167,Apiúna,Q,,-1.0,Vale do Itajaí
+168,Apiúna,S,-1.0,1.0,Vale do Itajaí
+169,Arabutã,A,,2.0,Alto Uruguai Catarinense
+170,Arabutã,C,-1.0,1.0,Alto Uruguai Catarinense
+171,Arabutã,F,1.0,-1.0,Alto Uruguai Catarinense
+172,Arabutã,G,-3.0,-1.0,Alto Uruguai Catarinense
+173,Arabutã,H,0.0,2.0,Alto Uruguai Catarinense
+174,Arabutã,I,,0.0,Alto Uruguai Catarinense
+175,Arabutã,N,-1.0,,Alto Uruguai Catarinense
+176,Arabutã,P,1.0,,Alto Uruguai Catarinense
+177,Arabutã,S,1.0,1.0,Alto Uruguai Catarinense
+178,Araquari,A,-5.0,-2.0,Norte-Nordeste
+179,Araquari,B,-3.0,-2.0,Norte-Nordeste
+180,Araquari,C,-73.0,219.0,Norte-Nordeste
+181,Araquari,E,3.0,6.0,Norte-Nordeste
+182,Araquari,F,-76.0,-35.0,Norte-Nordeste
+183,Araquari,G,12.0,39.0,Norte-Nordeste
+184,Araquari,H,1.0,53.0,Norte-Nordeste
+185,Araquari,I,-1.0,-8.0,Norte-Nordeste
+186,Araquari,J,-1.0,2.0,Norte-Nordeste
+187,Araquari,L,0.0,-1.0,Norte-Nordeste
+188,Araquari,M,0.0,3.0,Norte-Nordeste
+189,Araquari,N,4.0,33.0,Norte-Nordeste
+190,Araquari,P,-2.0,5.0,Norte-Nordeste
+191,Araquari,Q,-2.0,5.0,Norte-Nordeste
+192,Araquari,R,-1.0,,Norte-Nordeste
+193,Araquari,S,-8.0,22.0,Norte-Nordeste
+194,Araquari,T,,1.0,Norte-Nordeste
+195,Araranguá,A,-3.0,-1.0,Sul
+196,Araranguá,B,-2.0,0.0,Sul
+197,Araranguá,C,49.0,249.0,Sul
+198,Araranguá,E,-1.0,1.0,Sul
+199,Araranguá,F,-3.0,15.0,Sul
+200,Araranguá,G,54.0,32.0,Sul
+201,Araranguá,H,31.0,11.0,Sul
+202,Araranguá,I,22.0,13.0,Sul
+203,Araranguá,J,0.0,-2.0,Sul
+204,Araranguá,K,0.0,-2.0,Sul
+205,Araranguá,L,3.0,2.0,Sul
+206,Araranguá,M,-4.0,24.0,Sul
+207,Araranguá,N,-18.0,12.0,Sul
+208,Araranguá,P,2.0,14.0,Sul
+209,Araranguá,Q,2.0,1.0,Sul
+210,Araranguá,R,2.0,3.0,Sul
+211,Araranguá,S,0.0,16.0,Sul
+212,Armazém,A,0.0,-1.0,Litoral Sul
+213,Armazém,C,-22.0,27.0,Litoral Sul
+214,Armazém,F,3.0,-4.0,Litoral Sul
+215,Armazém,G,-2.0,8.0,Litoral Sul
+216,Armazém,H,0.0,4.0,Litoral Sul
+217,Armazém,I,1.0,1.0,Litoral Sul
+218,Armazém,J,1.0,-1.0,Litoral Sul
+219,Armazém,K,,1.0,Litoral Sul
+220,Armazém,M,-2.0,1.0,Litoral Sul
+221,Armazém,P,-1.0,,Litoral Sul
+222,Armazém,Q,,4.0,Litoral Sul
+223,Armazém,R,,0.0,Litoral Sul
+224,Armazém,S,,1.0,Litoral Sul
+225,Arroio Trinta,A,-3.0,-1.0,Centro-Norte
+226,Arroio Trinta,C,-15.0,6.0,Centro-Norte
+227,Arroio Trinta,G,-4.0,3.0,Centro-Norte
+228,Arroio Trinta,H,1.0,-1.0,Centro-Norte
+229,Arroio Trinta,I,-1.0,1.0,Centro-Norte
+230,Arroio Trinta,J,-1.0,0.0,Centro-Norte
+231,Arroio Trinta,M,,1.0,Centro-Norte
+232,Arroio Trinta,Q,-1.0,1.0,Centro-Norte
+233,Arroio Trinta,R,,-3.0,Centro-Norte
+234,Arvoredo,A,6.0,14.0,Alto Uruguai Catarinense
+235,Arvoredo,C,-3.0,4.0,Alto Uruguai Catarinense
+236,Arvoredo,F,,-1.0,Alto Uruguai Catarinense
+237,Arvoredo,G,7.0,-1.0,Alto Uruguai Catarinense
+238,Arvoredo,H,4.0,-1.0,Alto Uruguai Catarinense
+239,Arvoredo,I,1.0,-1.0,Alto Uruguai Catarinense
+240,Arvoredo,S,-2.0,-2.0,Alto Uruguai Catarinense
+241,Ascurra,A,,1.0,Vale do Itajaí
+242,Ascurra,C,-27.0,22.0,Vale do Itajaí
+243,Ascurra,E,-3.0,8.0,Vale do Itajaí
+244,Ascurra,F,2.0,-2.0,Vale do Itajaí
+245,Ascurra,G,-14.0,-4.0,Vale do Itajaí
+246,Ascurra,H,-1.0,-1.0,Vale do Itajaí
+247,Ascurra,I,3.0,2.0,Vale do Itajaí
+248,Ascurra,J,,0.0,Vale do Itajaí
+249,Ascurra,K,,1.0,Vale do Itajaí
+250,Ascurra,M,-1.0,0.0,Vale do Itajaí
+251,Ascurra,N,,1.0,Vale do Itajaí
+252,Ascurra,Q,-1.0,,Vale do Itajaí
+253,Ascurra,S,-5.0,6.0,Vale do Itajaí
+254,Atalanta,A,3.0,-1.0,Alto Vale do Itajaí
+255,Atalanta,C,-3.0,10.0,Alto Vale do Itajaí
+256,Atalanta,E,0.0,1.0,Alto Vale do Itajaí
+257,Atalanta,G,-1.0,0.0,Alto Vale do Itajaí
+258,Atalanta,H,,1.0,Alto Vale do Itajaí
+259,Atalanta,M,,-1.0,Alto Vale do Itajaí
+260,Atalanta,S,-1.0,,Alto Vale do Itajaí
+261,Aurora,C,3.0,14.0,Alto Vale do Itajaí
+262,Aurora,F,-1.0,-1.0,Alto Vale do Itajaí
+263,Aurora,G,-1.0,-2.0,Alto Vale do Itajaí
+264,Aurora,H,-10.0,-3.0,Alto Vale do Itajaí
+265,Aurora,I,-1.0,-1.0,Alto Vale do Itajaí
+266,Aurora,J,,1.0,Alto Vale do Itajaí
+267,Aurora,N,2.0,-3.0,Alto Vale do Itajaí
+268,Aurora,Q,1.0,,Alto Vale do Itajaí
+269,Balneário Arroio do Silva,C,9.0,4.0,Sul
+270,Balneário Arroio do Silva,E,1.0,,Sul
+271,Balneário Arroio do Silva,F,2.0,-6.0,Sul
+272,Balneário Arroio do Silva,G,8.0,0.0,Sul
+273,Balneário Arroio do Silva,I,25.0,-11.0,Sul
+274,Balneário Arroio do Silva,J,6.0,-2.0,Sul
+275,Balneário Arroio do Silva,L,,0.0,Sul
+276,Balneário Arroio do Silva,N,9.0,19.0,Sul
+277,Balneário Arroio do Silva,P,,-1.0,Sul
+278,Balneário Arroio do Silva,Q,1.0,,Sul
+279,Balneário Arroio do Silva,R,,1.0,Sul
+280,Balneário Arroio do Silva,S,,1.0,Sul
+281,Balneário Barra do Sul,A,2.0,5.0,Norte-Nordeste
+282,Balneário Barra do Sul,B,-1.0,,Norte-Nordeste
+283,Balneário Barra do Sul,C,-3.0,-7.0,Norte-Nordeste
+284,Balneário Barra do Sul,F,0.0,1.0,Norte-Nordeste
+285,Balneário Barra do Sul,G,13.0,7.0,Norte-Nordeste
+286,Balneário Barra do Sul,H,-1.0,7.0,Norte-Nordeste
+287,Balneário Barra do Sul,I,4.0,4.0,Norte-Nordeste
+288,Balneário Barra do Sul,N,-1.0,4.0,Norte-Nordeste
+289,Balneário Barra do Sul,P,,0.0,Norte-Nordeste
+290,Balneário Camboriú,C,-18.0,52.0,Foz do Rio Itajaí
+291,Balneário Camboriú,E,-9.0,-1.0,Foz do Rio Itajaí
+292,Balneário Camboriú,F,-214.0,157.0,Foz do Rio Itajaí
+293,Balneário Camboriú,G,630.0,-244.0,Foz do Rio Itajaí
+294,Balneário Camboriú,H,17.0,-25.0,Foz do Rio Itajaí
+295,Balneário Camboriú,I,702.0,-157.0,Foz do Rio Itajaí
+296,Balneário Camboriú,J,4.0,9.0,Foz do Rio Itajaí
+297,Balneário Camboriú,K,-1.0,0.0,Foz do Rio Itajaí
+298,Balneário Camboriú,L,-6.0,0.0,Foz do Rio Itajaí
+299,Balneário Camboriú,M,-5.0,86.0,Foz do Rio Itajaí
+300,Balneário Camboriú,N,148.0,-23.0,Foz do Rio Itajaí
+301,Balneário Camboriú,O,-1.0,2.0,Foz do Rio Itajaí
+302,Balneário Camboriú,P,-55.0,108.0,Foz do Rio Itajaí
+303,Balneário Camboriú,Q,19.0,52.0,Foz do Rio Itajaí
+304,Balneário Camboriú,R,5.0,33.0,Foz do Rio Itajaí
+305,Balneário Camboriú,S,-3.0,6.0,Foz do Rio Itajaí
+306,Balneário Gaivota,A,,1.0,Sul
+307,Balneário Gaivota,B,1.0,,Sul
+308,Balneário Gaivota,C,2.0,5.0,Sul
+309,Balneário Gaivota,E,1.0,,Sul
+310,Balneário Gaivota,F,-4.0,1.0,Sul
+311,Balneário Gaivota,G,9.0,-1.0,Sul
+312,Balneário Gaivota,H,0.0,0.0,Sul
+313,Balneário Gaivota,I,1.0,-1.0,Sul
+314,Balneário Gaivota,J,2.0,0.0,Sul
+315,Balneário Gaivota,L,-1.0,2.0,Sul
+316,Balneário Gaivota,N,10.0,-1.0,Sul
+317,Balneário Gaivota,Q,2.0,,Sul
+318,Balneário Piçarras,A,,-1.0,Foz do Rio Itajaí
+319,Balneário Piçarras,C,-4.0,51.0,Foz do Rio Itajaí
+320,Balneário Piçarras,E,11.0,-2.0,Foz do Rio Itajaí
+321,Balneário Piçarras,F,-6.0,5.0,Foz do Rio Itajaí
+322,Balneário Piçarras,G,61.0,16.0,Foz do Rio Itajaí
+323,Balneário Piçarras,H,-2.0,2.0,Foz do Rio Itajaí
+324,Balneário Piçarras,I,26.0,-1.0,Foz do Rio Itajaí
+325,Balneário Piçarras,J,4.0,3.0,Foz do Rio Itajaí
+326,Balneário Piçarras,K,-1.0,,Foz do Rio Itajaí
+327,Balneário Piçarras,L,5.0,2.0,Foz do Rio Itajaí
+328,Balneário Piçarras,M,0.0,4.0,Foz do Rio Itajaí
+329,Balneário Piçarras,N,5.0,3.0,Foz do Rio Itajaí
+330,Balneário Piçarras,P,-1.0,6.0,Foz do Rio Itajaí
+331,Balneário Piçarras,Q,-1.0,7.0,Foz do Rio Itajaí
+332,Balneário Piçarras,R,3.0,-1.0,Foz do Rio Itajaí
+333,Balneário Piçarras,S,0.0,8.0,Foz do Rio Itajaí
+334,Balneário Rincão,B,,4.0,Sul
+335,Balneário Rincão,C,1.0,3.0,Sul
+336,Balneário Rincão,E,,2.0,Sul
+337,Balneário Rincão,F,0.0,-8.0,Sul
+338,Balneário Rincão,G,35.0,-31.0,Sul
+339,Balneário Rincão,H,0.0,1.0,Sul
+340,Balneário Rincão,I,3.0,11.0,Sul
+341,Balneário Rincão,J,1.0,,Sul
+342,Balneário Rincão,K,,-1.0,Sul
+343,Balneário Rincão,L,1.0,2.0,Sul
+344,Balneário Rincão,M,,1.0,Sul
+345,Balneário Rincão,N,10.0,-4.0,Sul
+346,Balneário Rincão,P,,89.0,Sul
+347,Balneário Rincão,S,,3.0,Sul
+348,Bandeirante,C,2.0,7.0,Extremo Oeste
+349,Bandeirante,F,-1.0,-1.0,Extremo Oeste
+350,Bandeirante,G,1.0,0.0,Extremo Oeste
+351,Bandeirante,H,,1.0,Extremo Oeste
+352,Barra Bonita,A,-2.0,,Extremo Oeste
+353,Barra Bonita,C,1.0,2.0,Extremo Oeste
+354,Barra Bonita,F,,1.0,Extremo Oeste
+355,Barra Bonita,G,1.0,-2.0,Extremo Oeste
+356,Barra Bonita,M,,1.0,Extremo Oeste
+357,Barra Velha,A,-1.0,-1.0,Vale do Itapocu
+358,Barra Velha,B,,-1.0,Vale do Itapocu
+359,Barra Velha,C,-13.0,55.0,Vale do Itapocu
+360,Barra Velha,E,4.0,2.0,Vale do Itapocu
+361,Barra Velha,F,-7.0,3.0,Vale do Itapocu
+362,Barra Velha,G,16.0,-24.0,Vale do Itapocu
+363,Barra Velha,H,-30.0,-34.0,Vale do Itapocu
+364,Barra Velha,I,30.0,-19.0,Vale do Itapocu
+365,Barra Velha,J,-1.0,0.0,Vale do Itapocu
+366,Barra Velha,K,-1.0,-1.0,Vale do Itapocu
+367,Barra Velha,L,,3.0,Vale do Itapocu
+368,Barra Velha,M,-4.0,1.0,Vale do Itapocu
+369,Barra Velha,N,2.0,8.0,Vale do Itapocu
+370,Barra Velha,P,-2.0,7.0,Vale do Itapocu
+371,Barra Velha,Q,-1.0,1.0,Vale do Itapocu
+372,Barra Velha,R,,0.0,Vale do Itapocu
+373,Barra Velha,S,-2.0,-2.0,Vale do Itapocu
+374,Bela Vista do Toldo,A,,2.0,Centro-Norte
+375,Bela Vista do Toldo,G,0.0,0.0,Centro-Norte
+376,Bela Vista do Toldo,H,-1.0,2.0,Centro-Norte
+377,Bela Vista do Toldo,I,1.0,,Centro-Norte
+378,Belmonte,F,,-1.0,Extremo Oeste
+379,Belmonte,G,-2.0,-1.0,Extremo Oeste
+380,Belmonte,H,-2.0,3.0,Extremo Oeste
+381,Benedito Novo,A,,-2.0,Vale do Itajaí
+382,Benedito Novo,C,-42.0,72.0,Vale do Itajaí
+383,Benedito Novo,E,-1.0,-1.0,Vale do Itajaí
+384,Benedito Novo,F,1.0,-3.0,Vale do Itajaí
+385,Benedito Novo,G,8.0,4.0,Vale do Itajaí
+386,Benedito Novo,H,,0.0,Vale do Itajaí
+387,Benedito Novo,I,1.0,,Vale do Itajaí
+388,Benedito Novo,M,-1.0,1.0,Vale do Itajaí
+389,Benedito Novo,N,,7.0,Vale do Itajaí
+390,Benedito Novo,P,1.0,1.0,Vale do Itajaí
+391,Benedito Novo,Q,1.0,-2.0,Vale do Itajaí
+392,Biguaçu,A,,0.0,Sudeste
+393,Biguaçu,B,-1.0,2.0,Sudeste
+394,Biguaçu,C,-62.0,63.0,Sudeste
+395,Biguaçu,D,1.0,4.0,Sudeste
+396,Biguaçu,E,1.0,-1.0,Sudeste
+397,Biguaçu,F,-42.0,154.0,Sudeste
+398,Biguaçu,G,24.0,41.0,Sudeste
+399,Biguaçu,H,-18.0,8.0,Sudeste
+400,Biguaçu,I,3.0,-4.0,Sudeste
+401,Biguaçu,J,-3.0,-5.0,Sudeste
+402,Biguaçu,K,1.0,-2.0,Sudeste
+403,Biguaçu,L,0.0,0.0,Sudeste
+404,Biguaçu,M,0.0,8.0,Sudeste
+405,Biguaçu,N,5.0,47.0,Sudeste
+406,Biguaçu,P,-3.0,22.0,Sudeste
+407,Biguaçu,Q,8.0,9.0,Sudeste
+408,Biguaçu,R,2.0,-1.0,Sudeste
+409,Biguaçu,S,7.0,17.0,Sudeste
+410,Blumenau,A,3.0,-1.0,Vale do Itajaí
+411,Blumenau,B,-2.0,,Vale do Itajaí
+412,Blumenau,C,-945.0,930.0,Vale do Itajaí
+413,Blumenau,D,,1.0,Vale do Itajaí
+414,Blumenau,E,9.0,2.0,Vale do Itajaí
+415,Blumenau,F,-193.0,70.0,Vale do Itajaí
+416,Blumenau,G,-71.0,178.0,Vale do Itajaí
+417,Blumenau,H,-3.0,-10.0,Vale do Itajaí
+418,Blumenau,I,18.0,465.0,Vale do Itajaí
+419,Blumenau,J,6.0,-29.0,Vale do Itajaí
+420,Blumenau,K,34.0,82.0,Vale do Itajaí
+421,Blumenau,L,-2.0,18.0,Vale do Itajaí
+422,Blumenau,M,-46.0,59.0,Vale do Itajaí
+423,Blumenau,N,-369.0,74.0,Vale do Itajaí
+424,Blumenau,O,-1327.0,1273.0,Vale do Itajaí
+425,Blumenau,P,-112.0,216.0,Vale do Itajaí
+426,Blumenau,Q,-61.0,48.0,Vale do Itajaí
+427,Blumenau,R,-14.0,34.0,Vale do Itajaí
+428,Blumenau,S,-8.0,17.0,Vale do Itajaí
+429,Blumenau,T,4.0,,Vale do Itajaí
+430,Bocaina do Sul,A,,-1.0,Serra Catarinense
+431,Bocaina do Sul,C,-7.0,-2.0,Serra Catarinense
+432,Bocaina do Sul,F,,-2.0,Serra Catarinense
+433,Bocaina do Sul,G,1.0,1.0,Serra Catarinense
+434,Bocaina do Sul,I,1.0,1.0,Serra Catarinense
+435,Bom Jardim da Serra,A,-24.0,18.0,Serra Catarinense
+436,Bom Jardim da Serra,C,,2.0,Serra Catarinense
+437,Bom Jardim da Serra,G,1.0,16.0,Serra Catarinense
+438,Bom Jardim da Serra,I,1.0,13.0,Serra Catarinense
+439,Bom Jardim da Serra,J,2.0,,Serra Catarinense
+440,Bom Jesus,A,1.0,2.0,Oeste
+441,Bom Jesus,C,-3.0,-1.0,Oeste
+442,Bom Jesus,F,-1.0,1.0,Oeste
+443,Bom Jesus,G,-2.0,3.0,Oeste
+444,Bom Jesus,H,-1.0,1.0,Oeste
+445,Bom Jesus,I,-1.0,,Oeste
+446,Bom Jesus,M,,0.0,Oeste
+447,Bom Jesus,N,-4.0,,Oeste
+448,Bom Jesus,Q,-2.0,,Oeste
+449,Bom Jesus do Oeste,C,0.0,3.0,Oeste
+450,Bom Jesus do Oeste,G,0.0,1.0,Oeste
+451,Bom Jesus do Oeste,H,,3.0,Oeste
+452,Bom Jesus do Oeste,I,,-1.0,Oeste
+453,Bom Retiro,A,-48.0,38.0,Serra Catarinense
+454,Bom Retiro,C,3.0,15.0,Serra Catarinense
+455,Bom Retiro,G,-8.0,7.0,Serra Catarinense
+456,Bom Retiro,H,,-2.0,Serra Catarinense
+457,Bom Retiro,I,-1.0,3.0,Serra Catarinense
+458,Bom Retiro,J,2.0,,Serra Catarinense
+459,Bom Retiro,K,-2.0,,Serra Catarinense
+460,Bom Retiro,L,0.0,1.0,Serra Catarinense
+461,Bom Retiro,M,2.0,1.0,Serra Catarinense
+462,Bom Retiro,N,,2.0,Serra Catarinense
+463,Bom Retiro,P,-7.0,16.0,Serra Catarinense
+464,Bom Retiro,Q,-2.0,1.0,Serra Catarinense
+465,Bom Retiro,S,,-2.0,Serra Catarinense
+466,Bombinhas,C,10.0,5.0,Foz do Rio Itajaí
+467,Bombinhas,E,-2.0,,Foz do Rio Itajaí
+468,Bombinhas,F,-5.0,45.0,Foz do Rio Itajaí
+469,Bombinhas,G,224.0,-121.0,Foz do Rio Itajaí
+470,Bombinhas,H,4.0,-7.0,Foz do Rio Itajaí
+471,Bombinhas,I,304.0,-109.0,Foz do Rio Itajaí
+472,Bombinhas,J,-2.0,-6.0,Foz do Rio Itajaí
+473,Bombinhas,K,1.0,1.0,Foz do Rio Itajaí
+474,Bombinhas,L,6.0,-3.0,Foz do Rio Itajaí
+475,Bombinhas,M,5.0,8.0,Foz do Rio Itajaí
+476,Bombinhas,N,22.0,2.0,Foz do Rio Itajaí
+477,Bombinhas,O,-1.0,-2.0,Foz do Rio Itajaí
+478,Bombinhas,P,0.0,3.0,Foz do Rio Itajaí
+479,Bombinhas,Q,7.0,-3.0,Foz do Rio Itajaí
+480,Bombinhas,R,2.0,2.0,Foz do Rio Itajaí
+481,Bombinhas,S,12.0,3.0,Foz do Rio Itajaí
+482,Botuverá,A,-1.0,2.0,Vale do Itajaí Mirim
+483,Botuverá,B,3.0,6.0,Vale do Itajaí Mirim
+484,Botuverá,C,4.0,17.0,Vale do Itajaí Mirim
+485,Botuverá,E,,2.0,Vale do Itajaí Mirim
+486,Botuverá,F,-1.0,,Vale do Itajaí Mirim
+487,Botuverá,G,-3.0,0.0,Vale do Itajaí Mirim
+488,Botuverá,H,-1.0,0.0,Vale do Itajaí Mirim
+489,Botuverá,I,-1.0,-1.0,Vale do Itajaí Mirim
+490,Botuverá,K,,1.0,Vale do Itajaí Mirim
+491,Botuverá,M,,0.0,Vale do Itajaí Mirim
+492,Botuverá,N,0.0,1.0,Vale do Itajaí Mirim
+493,Botuverá,O,-77.0,21.0,Vale do Itajaí Mirim
+494,Botuverá,S,,-1.0,Vale do Itajaí Mirim
+495,Braço do Norte,C,-63.0,90.0,Litoral Sul
+496,Braço do Norte,D,-2.0,0.0,Litoral Sul
+497,Braço do Norte,E,-2.0,-3.0,Litoral Sul
+498,Braço do Norte,F,-10.0,4.0,Litoral Sul
+499,Braço do Norte,G,-17.0,51.0,Litoral Sul
+500,Braço do Norte,H,-8.0,2.0,Litoral Sul
+501,Braço do Norte,I,-4.0,2.0,Litoral Sul
+502,Braço do Norte,J,1.0,-6.0,Litoral Sul
+503,Braço do Norte,K,1.0,4.0,Litoral Sul
+504,Braço do Norte,L,,-2.0,Litoral Sul
+505,Braço do Norte,M,-5.0,9.0,Litoral Sul
+506,Braço do Norte,N,52.0,-18.0,Litoral Sul
+507,Braço do Norte,O,-64.0,72.0,Litoral Sul
+508,Braço do Norte,P,-6.0,55.0,Litoral Sul
+509,Braço do Norte,Q,-10.0,4.0,Litoral Sul
+510,Braço do Norte,R,1.0,4.0,Litoral Sul
+511,Braço do Norte,S,20.0,0.0,Litoral Sul
+512,Braço do Trombudo,C,-6.0,28.0,Alto Vale do Itajaí
+513,Braço do Trombudo,F,,-9.0,Alto Vale do Itajaí
+514,Braço do Trombudo,G,-3.0,1.0,Alto Vale do Itajaí
+515,Braço do Trombudo,H,-1.0,-1.0,Alto Vale do Itajaí
+516,Braço do Trombudo,I,1.0,,Alto Vale do Itajaí
+517,Braço do Trombudo,K,,-1.0,Alto Vale do Itajaí
+518,Braço do Trombudo,M,-1.0,-1.0,Alto Vale do Itajaí
+519,Braço do Trombudo,Q,0.0,4.0,Alto Vale do Itajaí
+520,Braço do Trombudo,S,1.0,,Alto Vale do Itajaí
+521,Brunópolis,A,-2.0,2.0,Centro-Oeste
+522,Brunópolis,C,-4.0,-6.0,Centro-Oeste
+523,Brunópolis,G,-2.0,3.0,Centro-Oeste
+524,Brunópolis,N,,1.0,Centro-Oeste
+525,Brusque,A,-1.0,,Vale do Itajaí Mirim
+526,Brusque,B,1.0,0.0,Vale do Itajaí Mirim
+527,Brusque,C,-754.0,497.0,Vale do Itajaí Mirim
+528,Brusque,E,-11.0,11.0,Vale do Itajaí Mirim
+529,Brusque,F,-106.0,-36.0,Vale do Itajaí Mirim
+530,Brusque,G,72.0,45.0,Vale do Itajaí Mirim
+531,Brusque,H,-8.0,19.0,Vale do Itajaí Mirim
+532,Brusque,I,-16.0,21.0,Vale do Itajaí Mirim
+533,Brusque,J,-8.0,7.0,Vale do Itajaí Mirim
+534,Brusque,K,-3.0,4.0,Vale do Itajaí Mirim
+535,Brusque,L,-4.0,4.0,Vale do Itajaí Mirim
+536,Brusque,M,-13.0,27.0,Vale do Itajaí Mirim
+537,Brusque,N,5.0,32.0,Vale do Itajaí Mirim
+538,Brusque,O,1.0,40.0,Vale do Itajaí Mirim
+539,Brusque,P,-22.0,71.0,Vale do Itajaí Mirim
+540,Brusque,Q,13.0,33.0,Vale do Itajaí Mirim
+541,Brusque,R,-2.0,17.0,Vale do Itajaí Mirim
+542,Brusque,S,-3.0,43.0,Vale do Itajaí Mirim
+543,Caçador,A,34.0,25.0,Centro-Norte
+544,Caçador,B,-1.0,1.0,Centro-Norte
+545,Caçador,C,-332.0,207.0,Centro-Norte
+546,Caçador,E,1.0,3.0,Centro-Norte
+547,Caçador,F,-11.0,-4.0,Centro-Norte
+548,Caçador,G,4.0,-47.0,Centro-Norte
+549,Caçador,H,4.0,-15.0,Centro-Norte
+550,Caçador,I,11.0,9.0,Centro-Norte
+551,Caçador,J,-5.0,1.0,Centro-Norte
+552,Caçador,K,3.0,-1.0,Centro-Norte
+553,Caçador,L,-1.0,0.0,Centro-Norte
+554,Caçador,M,5.0,2.0,Centro-Norte
+555,Caçador,N,-4.0,8.0,Centro-Norte
+556,Caçador,P,-7.0,39.0,Centro-Norte
+557,Caçador,Q,-2.0,12.0,Centro-Norte
+558,Caçador,R,-1.0,15.0,Centro-Norte
+559,Caçador,S,-10.0,32.0,Centro-Norte
+560,Caibi,A,3.0,-1.0,Oeste
+561,Caibi,C,-16.0,13.0,Oeste
+562,Caibi,F,-2.0,0.0,Oeste
+563,Caibi,G,-6.0,7.0,Oeste
+564,Caibi,H,10.0,10.0,Oeste
+565,Caibi,I,,0.0,Oeste
+566,Caibi,J,-1.0,,Oeste
+567,Caibi,K,0.0,1.0,Oeste
+568,Caibi,L,,-1.0,Oeste
+569,Caibi,N,1.0,,Oeste
+570,Caibi,P,,0.0,Oeste
+571,Caibi,Q,-1.0,-1.0,Oeste
+572,Caibi,S,-4.0,1.0,Oeste
+573,Calmon,A,1.0,0.0,Centro-Norte
+574,Calmon,C,1.0,2.0,Centro-Norte
+575,Calmon,F,-2.0,-3.0,Centro-Norte
+576,Calmon,G,-2.0,-1.0,Centro-Norte
+577,Calmon,H,0.0,,Centro-Norte
+578,Calmon,I,-1.0,-1.0,Centro-Norte
+579,Calmon,J,1.0,,Centro-Norte
+580,Camboriú,A,,0.0,Foz do Rio Itajaí
+581,Camboriú,B,-1.0,2.0,Foz do Rio Itajaí
+582,Camboriú,C,-2.0,57.0,Foz do Rio Itajaí
+583,Camboriú,E,9.0,0.0,Foz do Rio Itajaí
+584,Camboriú,F,-49.0,70.0,Foz do Rio Itajaí
+585,Camboriú,G,21.0,42.0,Foz do Rio Itajaí
+586,Camboriú,H,11.0,-8.0,Foz do Rio Itajaí
+587,Camboriú,I,10.0,19.0,Foz do Rio Itajaí
+588,Camboriú,J,2.0,0.0,Foz do Rio Itajaí
+589,Camboriú,K,1.0,-2.0,Foz do Rio Itajaí
+590,Camboriú,L,-1.0,-3.0,Foz do Rio Itajaí
+591,Camboriú,M,-1.0,9.0,Foz do Rio Itajaí
+592,Camboriú,N,56.0,18.0,Foz do Rio Itajaí
+593,Camboriú,P,-6.0,35.0,Foz do Rio Itajaí
+594,Camboriú,Q,-1.0,5.0,Foz do Rio Itajaí
+595,Camboriú,R,-7.0,7.0,Foz do Rio Itajaí
+596,Camboriú,S,1.0,6.0,Foz do Rio Itajaí
+597,Camboriú,T,1.0,,Foz do Rio Itajaí
+598,Campo Alegre,A,,-1.0,Planalto Norte
+599,Campo Alegre,B,-1.0,-1.0,Planalto Norte
+600,Campo Alegre,C,59.0,205.0,Planalto Norte
+601,Campo Alegre,E,,1.0,Planalto Norte
+602,Campo Alegre,F,-1.0,2.0,Planalto Norte
+603,Campo Alegre,G,6.0,3.0,Planalto Norte
+604,Campo Alegre,H,2.0,-2.0,Planalto Norte
+605,Campo Alegre,I,4.0,7.0,Planalto Norte
+606,Campo Alegre,L,,1.0,Planalto Norte
+607,Campo Alegre,M,-4.0,,Planalto Norte
+608,Campo Alegre,N,1.0,,Planalto Norte
+609,Campo Alegre,P,,1.0,Planalto Norte
+610,Campo Alegre,Q,0.0,-1.0,Planalto Norte
+611,Campo Alegre,S,-1.0,1.0,Planalto Norte
+612,Campo Belo do Sul,A,-7.0,3.0,Serra Catarinense
+613,Campo Belo do Sul,C,-6.0,1.0,Serra Catarinense
+614,Campo Belo do Sul,F,,-1.0,Serra Catarinense
+615,Campo Belo do Sul,G,-3.0,2.0,Serra Catarinense
+616,Campo Belo do Sul,H,,1.0,Serra Catarinense
+617,Campo Belo do Sul,I,1.0,2.0,Serra Catarinense
+618,Campo Belo do Sul,K,,-1.0,Serra Catarinense
+619,Campo Belo do Sul,Q,,0.0,Serra Catarinense
+620,Campo Belo do Sul,R,,1.0,Serra Catarinense
+621,Campo Belo do Sul,S,1.0,1.0,Serra Catarinense
+622,Campo Erê,A,-2.0,4.0,Oeste
+623,Campo Erê,C,-27.0,25.0,Oeste
+624,Campo Erê,F,-3.0,-3.0,Oeste
+625,Campo Erê,G,-2.0,2.0,Oeste
+626,Campo Erê,H,-2.0,-4.0,Oeste
+627,Campo Erê,I,-1.0,1.0,Oeste
+628,Campo Erê,J,-1.0,0.0,Oeste
+629,Campo Erê,K,-1.0,,Oeste
+630,Campo Erê,M,,0.0,Oeste
+631,Campo Erê,N,1.0,-2.0,Oeste
+632,Campo Erê,P,-2.0,,Oeste
+633,Campo Erê,Q,-3.0,1.0,Oeste
+634,Campo Erê,S,-1.0,1.0,Oeste
+635,Campos Novos,A,-10.0,-2.0,Centro-Oeste
+636,Campos Novos,B,1.0,,Centro-Oeste
+637,Campos Novos,C,-66.0,59.0,Centro-Oeste
+638,Campos Novos,D,,4.0,Centro-Oeste
+639,Campos Novos,E,,2.0,Centro-Oeste
+640,Campos Novos,F,1.0,-7.0,Centro-Oeste
+641,Campos Novos,G,-13.0,19.0,Centro-Oeste
+642,Campos Novos,H,7.0,4.0,Centro-Oeste
+643,Campos Novos,I,-5.0,5.0,Centro-Oeste
+644,Campos Novos,J,,1.0,Centro-Oeste
+645,Campos Novos,K,-1.0,-1.0,Centro-Oeste
+646,Campos Novos,M,-6.0,8.0,Centro-Oeste
+647,Campos Novos,N,5.0,-1.0,Centro-Oeste
+648,Campos Novos,P,-2.0,10.0,Centro-Oeste
+649,Campos Novos,Q,4.0,-3.0,Centro-Oeste
+650,Campos Novos,R,-1.0,0.0,Centro-Oeste
+651,Campos Novos,S,-42.0,43.0,Centro-Oeste
+652,Canelinha,B,0.0,0.0,Sudeste
+653,Canelinha,C,-47.0,50.0,Sudeste
+654,Canelinha,F,-1.0,1.0,Sudeste
+655,Canelinha,G,-1.0,6.0,Sudeste
+656,Canelinha,H,2.0,1.0,Sudeste
+657,Canelinha,I,-1.0,1.0,Sudeste
+658,Canelinha,J,1.0,0.0,Sudeste
+659,Canelinha,L,,1.0,Sudeste
+660,Canelinha,N,0.0,,Sudeste
+661,Canelinha,O,-86.0,88.0,Sudeste
+662,Canelinha,P,-8.0,4.0,Sudeste
+663,Canelinha,Q,0.0,2.0,Sudeste
+664,Canelinha,S,,1.0,Sudeste
+665,Canoinhas,A,-6.0,18.0,Centro-Norte
+666,Canoinhas,B,-2.0,-1.0,Centro-Norte
+667,Canoinhas,C,-30.0,104.0,Centro-Norte
+668,Canoinhas,E,0.0,5.0,Centro-Norte
+669,Canoinhas,F,11.0,54.0,Centro-Norte
+670,Canoinhas,G,9.0,19.0,Centro-Norte
+671,Canoinhas,H,3.0,-2.0,Centro-Norte
+672,Canoinhas,I,-1.0,18.0,Centro-Norte
+673,Canoinhas,J,2.0,-1.0,Centro-Norte
+674,Canoinhas,K,5.0,1.0,Centro-Norte
+675,Canoinhas,L,-1.0,0.0,Centro-Norte
+676,Canoinhas,M,-6.0,-3.0,Centro-Norte
+677,Canoinhas,N,-8.0,10.0,Centro-Norte
+678,Canoinhas,O,,-2.0,Centro-Norte
+679,Canoinhas,P,-25.0,32.0,Centro-Norte
+680,Canoinhas,Q,4.0,0.0,Centro-Norte
+681,Canoinhas,R,,-1.0,Centro-Norte
+682,Canoinhas,S,-1.0,7.0,Centro-Norte
+683,Canoinhas,T,2.0,-1.0,Centro-Norte
+684,Capão Alto,A,1.0,,Serra Catarinense
+685,Capão Alto,B,1.0,-3.0,Serra Catarinense
+686,Capão Alto,C,0.0,3.0,Serra Catarinense
+687,Capão Alto,F,1.0,2.0,Serra Catarinense
+688,Capão Alto,G,-1.0,0.0,Serra Catarinense
+689,Capão Alto,H,-1.0,5.0,Serra Catarinense
+690,Capão Alto,I,1.0,4.0,Serra Catarinense
+691,Capinzal,A,-2.0,4.0,Centro-Oeste
+692,Capinzal,C,-11.0,105.0,Centro-Oeste
+693,Capinzal,F,-10.0,-4.0,Centro-Oeste
+694,Capinzal,G,-14.0,-3.0,Centro-Oeste
+695,Capinzal,H,-1.0,0.0,Centro-Oeste
+696,Capinzal,I,6.0,1.0,Centro-Oeste
+697,Capinzal,J,1.0,2.0,Centro-Oeste
+698,Capinzal,K,1.0,,Centro-Oeste
+699,Capinzal,L,,1.0,Centro-Oeste
+700,Capinzal,M,2.0,-1.0,Centro-Oeste
+701,Capinzal,N,5.0,-8.0,Centro-Oeste
+702,Capinzal,P,0.0,-2.0,Centro-Oeste
+703,Capinzal,Q,1.0,5.0,Centro-Oeste
+704,Capinzal,R,-2.0,0.0,Centro-Oeste
+705,Capinzal,S,1.0,1.0,Centro-Oeste
+706,Capivari de Baixo,A,-1.0,23.0,Litoral Sul
+707,Capivari de Baixo,C,-14.0,0.0,Litoral Sul
+708,Capivari de Baixo,D,,4.0,Litoral Sul
+709,Capivari de Baixo,F,-41.0,11.0,Litoral Sul
+710,Capivari de Baixo,G,15.0,-19.0,Litoral Sul
+711,Capivari de Baixo,H,-1.0,0.0,Litoral Sul
+712,Capivari de Baixo,I,3.0,5.0,Litoral Sul
+713,Capivari de Baixo,J,,0.0,Litoral Sul
+714,Capivari de Baixo,L,,3.0,Litoral Sul
+715,Capivari de Baixo,M,-1.0,2.0,Litoral Sul
+716,Capivari de Baixo,N,2.0,2.0,Litoral Sul
+717,Capivari de Baixo,P,1.0,17.0,Litoral Sul
+718,Capivari de Baixo,Q,0.0,1.0,Litoral Sul
+719,Capivari de Baixo,R,1.0,0.0,Litoral Sul
+720,Capivari de Baixo,S,-13.0,-2.0,Litoral Sul
+721,Catanduvas,A,-1.0,4.0,Centro-Oeste
+722,Catanduvas,C,-3.0,8.0,Centro-Oeste
+723,Catanduvas,F,,-1.0,Centro-Oeste
+724,Catanduvas,G,6.0,19.0,Centro-Oeste
+725,Catanduvas,H,-4.0,-1.0,Centro-Oeste
+726,Catanduvas,I,2.0,2.0,Centro-Oeste
+727,Catanduvas,J,1.0,1.0,Centro-Oeste
+728,Catanduvas,K,-1.0,0.0,Centro-Oeste
+729,Catanduvas,L,,-1.0,Centro-Oeste
+730,Catanduvas,M,0.0,3.0,Centro-Oeste
+731,Catanduvas,N,-1.0,-1.0,Centro-Oeste
+732,Catanduvas,P,-2.0,18.0,Centro-Oeste
+733,Catanduvas,Q,1.0,-2.0,Centro-Oeste
+734,Catanduvas,S,,6.0,Centro-Oeste
+735,Caxambu do Sul,A,1.0,0.0,Oeste
+736,Caxambu do Sul,C,-3.0,22.0,Oeste
+737,Caxambu do Sul,F,-1.0,,Oeste
+738,Caxambu do Sul,G,-3.0,0.0,Oeste
+739,Caxambu do Sul,H,0.0,0.0,Oeste
+740,Caxambu do Sul,K,-1.0,,Oeste
+741,Celso Ramos,C,-2.0,-1.0,Serra Catarinense
+742,Celso Ramos,E,3.0,,Serra Catarinense
+743,Celso Ramos,G,-2.0,2.0,Serra Catarinense
+744,Celso Ramos,H,1.0,0.0,Serra Catarinense
+745,Cerro Negro,A,,-1.0,Serra Catarinense
+746,Cerro Negro,C,,-1.0,Serra Catarinense
+747,Cerro Negro,G,-1.0,1.0,Serra Catarinense
+748,Cerro Negro,H,,2.0,Serra Catarinense
+749,Chapadão do Lageado,C,0.0,0.0,Alto Vale do Itajaí
+750,Chapadão do Lageado,F,1.0,2.0,Alto Vale do Itajaí
+751,Chapadão do Lageado,G,2.0,4.0,Alto Vale do Itajaí
+752,Chapadão do Lageado,H,1.0,1.0,Alto Vale do Itajaí
+753,Chapadão do Lageado,J,2.0,,Alto Vale do Itajaí
+754,Chapecó,A,-4.0,3.0,Oeste
+755,Chapecó,B,,-1.0,Oeste
+756,Chapecó,C,-289.0,366.0,Oeste
+757,Chapecó,D,-2.0,3.0,Oeste
+758,Chapecó,E,-6.0,12.0,Oeste
+759,Chapecó,F,-175.0,156.0,Oeste
+760,Chapecó,G,41.0,196.0,Oeste
+761,Chapecó,H,-14.0,47.0,Oeste
+762,Chapecó,I,4.0,40.0,Oeste
+763,Chapecó,J,-4.0,33.0,Oeste
+764,Chapecó,K,31.0,35.0,Oeste
+765,Chapecó,L,-7.0,14.0,Oeste
+766,Chapecó,M,-17.0,8.0,Oeste
+767,Chapecó,N,-65.0,145.0,Oeste
+768,Chapecó,O,1.0,-3.0,Oeste
+769,Chapecó,P,-89.0,78.0,Oeste
+770,Chapecó,Q,17.0,149.0,Oeste
+771,Chapecó,R,-10.0,6.0,Oeste
+772,Chapecó,S,-28.0,19.0,Oeste
+773,Chapecó,T,-1.0,6.0,Oeste
+774,Cocal do Sul,B,,3.0,Sul
+775,Cocal do Sul,C,16.0,38.0,Sul
+776,Cocal do Sul,D,,1.0,Sul
+777,Cocal do Sul,E,0.0,4.0,Sul
+778,Cocal do Sul,F,-2.0,-2.0,Sul
+779,Cocal do Sul,G,8.0,6.0,Sul
+780,Cocal do Sul,H,10.0,-4.0,Sul
+781,Cocal do Sul,I,-1.0,0.0,Sul
+782,Cocal do Sul,K,1.0,0.0,Sul
+783,Cocal do Sul,L,-1.0,,Sul
+784,Cocal do Sul,M,-2.0,-2.0,Sul
+785,Cocal do Sul,N,1.0,4.0,Sul
+786,Cocal do Sul,O,-2.0,,Sul
+787,Cocal do Sul,P,0.0,-3.0,Sul
+788,Cocal do Sul,Q,3.0,2.0,Sul
+789,Cocal do Sul,S,-2.0,7.0,Sul
+790,Concórdia,A,-2.0,0.0,Alto Uruguai Catarinense
+791,Concórdia,B,1.0,-1.0,Alto Uruguai Catarinense
+792,Concórdia,C,-223.0,69.0,Alto Uruguai Catarinense
+793,Concórdia,D,-2.0,1.0,Alto Uruguai Catarinense
+794,Concórdia,E,1.0,,Alto Uruguai Catarinense
+795,Concórdia,F,-43.0,79.0,Alto Uruguai Catarinense
+796,Concórdia,G,-21.0,61.0,Alto Uruguai Catarinense
+797,Concórdia,H,14.0,2.0,Alto Uruguai Catarinense
+798,Concórdia,I,-18.0,3.0,Alto Uruguai Catarinense
+799,Concórdia,J,-8.0,23.0,Alto Uruguai Catarinense
+800,Concórdia,K,-2.0,8.0,Alto Uruguai Catarinense
+801,Concórdia,L,0.0,-1.0,Alto Uruguai Catarinense
+802,Concórdia,M,-1.0,3.0,Alto Uruguai Catarinense
+803,Concórdia,N,-1.0,34.0,Alto Uruguai Catarinense
+804,Concórdia,O,-275.0,260.0,Alto Uruguai Catarinense
+805,Concórdia,P,-46.0,16.0,Alto Uruguai Catarinense
+806,Concórdia,Q,3.0,16.0,Alto Uruguai Catarinense
+807,Concórdia,R,24.0,2.0,Alto Uruguai Catarinense
+808,Concórdia,S,-14.0,-2.0,Alto Uruguai Catarinense
+809,Concórdia,T,1.0,,Alto Uruguai Catarinense
+810,Cordilheira Alta,A,-3.0,-1.0,Oeste
+811,Cordilheira Alta,B,1.0,,Oeste
+812,Cordilheira Alta,C,15.0,12.0,Oeste
+813,Cordilheira Alta,F,-6.0,-8.0,Oeste
+814,Cordilheira Alta,G,-3.0,6.0,Oeste
+815,Cordilheira Alta,H,2.0,-6.0,Oeste
+816,Cordilheira Alta,I,,1.0,Oeste
+817,Cordilheira Alta,K,-1.0,1.0,Oeste
+818,Cordilheira Alta,M,1.0,-2.0,Oeste
+819,Cordilheira Alta,N,1.0,2.0,Oeste
+820,Cordilheira Alta,S,,1.0,Oeste
+821,Coronel Freitas,A,0.0,4.0,Oeste
+822,Coronel Freitas,C,-35.0,-13.0,Oeste
+823,Coronel Freitas,F,-5.0,3.0,Oeste
+824,Coronel Freitas,G,1.0,4.0,Oeste
+825,Coronel Freitas,H,-2.0,1.0,Oeste
+826,Coronel Freitas,I,3.0,2.0,Oeste
+827,Coronel Freitas,J,0.0,2.0,Oeste
+828,Coronel Freitas,M,1.0,-2.0,Oeste
+829,Coronel Freitas,P,,-1.0,Oeste
+830,Coronel Freitas,Q,2.0,3.0,Oeste
+831,Coronel Freitas,S,3.0,2.0,Oeste
+832,Coronel Martins,G,,-1.0,Oeste
+833,Coronel Martins,H,1.0,1.0,Oeste
+834,Correia Pinto,A,-17.0,1.0,Serra Catarinense
+835,Correia Pinto,B,-1.0,,Serra Catarinense
+836,Correia Pinto,C,-163.0,40.0,Serra Catarinense
+837,Correia Pinto,F,8.0,2.0,Serra Catarinense
+838,Correia Pinto,G,10.0,-2.0,Serra Catarinense
+839,Correia Pinto,H,-1.0,2.0,Serra Catarinense
+840,Correia Pinto,I,-5.0,0.0,Serra Catarinense
+841,Correia Pinto,J,,1.0,Serra Catarinense
+842,Correia Pinto,M,-1.0,,Serra Catarinense
+843,Correia Pinto,N,0.0,,Serra Catarinense
+844,Correia Pinto,P,0.0,1.0,Serra Catarinense
+845,Correia Pinto,Q,,-1.0,Serra Catarinense
+846,Correia Pinto,R,-2.0,,Serra Catarinense
+847,Correia Pinto,S,,-1.0,Serra Catarinense
+848,Corupá,A,-2.0,1.0,Vale do Itapocu
+849,Corupá,C,-88.0,127.0,Vale do Itapocu
+850,Corupá,F,,-3.0,Vale do Itapocu
+851,Corupá,G,3.0,12.0,Vale do Itapocu
+852,Corupá,H,,2.0,Vale do Itapocu
+853,Corupá,I,2.0,3.0,Vale do Itapocu
+854,Corupá,J,,5.0,Vale do Itapocu
+855,Corupá,K,-1.0,,Vale do Itapocu
+856,Corupá,L,1.0,,Vale do Itapocu
+857,Corupá,M,-6.0,7.0,Vale do Itapocu
+858,Corupá,N,,-1.0,Vale do Itapocu
+859,Corupá,P,,4.0,Vale do Itapocu
+860,Corupá,Q,,1.0,Vale do Itapocu
+861,Corupá,R,-1.0,2.0,Vale do Itapocu
+862,Corupá,S,1.0,0.0,Vale do Itapocu
+863,Criciúma,A,-1.0,3.0,Sul
+864,Criciúma,B,-2.0,-2.0,Sul
+865,Criciúma,C,-28.0,234.0,Sul
+866,Criciúma,D,-2.0,3.0,Sul
+867,Criciúma,E,41.0,-21.0,Sul
+868,Criciúma,F,-154.0,-99.0,Sul
+869,Criciúma,G,112.0,119.0,Sul
+870,Criciúma,H,27.0,31.0,Sul
+871,Criciúma,I,32.0,299.0,Sul
+872,Criciúma,J,9.0,23.0,Sul
+873,Criciúma,K,4.0,-11.0,Sul
+874,Criciúma,L,1.0,4.0,Sul
+875,Criciúma,M,3.0,70.0,Sul
+876,Criciúma,N,40.0,16.0,Sul
+877,Criciúma,P,-41.0,93.0,Sul
+878,Criciúma,Q,117.0,61.0,Sul
+879,Criciúma,R,-32.0,26.0,Sul
+880,Criciúma,S,-14.0,18.0,Sul
+881,Cunha Porã,A,0.0,1.0,Oeste
+882,Cunha Porã,C,-18.0,19.0,Oeste
+883,Cunha Porã,F,-1.0,-5.0,Oeste
+884,Cunha Porã,G,14.0,8.0,Oeste
+885,Cunha Porã,H,-2.0,2.0,Oeste
+886,Cunha Porã,I,1.0,0.0,Oeste
+887,Cunha Porã,J,-1.0,1.0,Oeste
+888,Cunha Porã,K,2.0,-1.0,Oeste
+889,Cunha Porã,M,,2.0,Oeste
+890,Cunha Porã,N,-1.0,,Oeste
+891,Cunha Porã,P,-1.0,1.0,Oeste
+892,Cunha Porã,Q,2.0,-2.0,Oeste
+893,Cunha Porã,S,0.0,2.0,Oeste
+894,Cunhataí,A,1.0,,Oeste
+895,Cunhataí,C,,-1.0,Oeste
+896,Cunhataí,G,0.0,6.0,Oeste
+897,Cunhataí,H,-1.0,1.0,Oeste
+898,Cunhataí,S,1.0,,Oeste
+899,Curitibanos,A,-6.0,3.0,Centro-Norte
+900,Curitibanos,B,-3.0,0.0,Centro-Norte
+901,Curitibanos,C,0.0,47.0,Centro-Norte
+902,Curitibanos,E,2.0,2.0,Centro-Norte
+903,Curitibanos,F,3.0,14.0,Centro-Norte
+904,Curitibanos,G,25.0,27.0,Centro-Norte
+905,Curitibanos,H,5.0,5.0,Centro-Norte
+906,Curitibanos,I,0.0,-28.0,Centro-Norte
+907,Curitibanos,J,0.0,0.0,Centro-Norte
+908,Curitibanos,K,1.0,2.0,Centro-Norte
+909,Curitibanos,L,,0.0,Centro-Norte
+910,Curitibanos,M,-2.0,-2.0,Centro-Norte
+911,Curitibanos,N,4.0,3.0,Centro-Norte
+912,Curitibanos,P,-24.0,-3.0,Centro-Norte
+913,Curitibanos,Q,6.0,10.0,Centro-Norte
+914,Curitibanos,R,,-1.0,Centro-Norte
+915,Curitibanos,S,-3.0,4.0,Centro-Norte
+916,Descanso,A,1.0,0.0,Extremo Oeste
+917,Descanso,C,-5.0,2.0,Extremo Oeste
+918,Descanso,F,-6.0,1.0,Extremo Oeste
+919,Descanso,G,-2.0,8.0,Extremo Oeste
+920,Descanso,H,-1.0,-1.0,Extremo Oeste
+921,Descanso,I,2.0,1.0,Extremo Oeste
+922,Descanso,J,,1.0,Extremo Oeste
+923,Descanso,N,1.0,3.0,Extremo Oeste
+924,Descanso,P,,1.0,Extremo Oeste
+925,Descanso,Q,1.0,0.0,Extremo Oeste
+926,Descanso,R,,1.0,Extremo Oeste
+927,Descanso,S,-1.0,1.0,Extremo Oeste
+928,Dionísio Cerqueira,A,-1.0,1.0,Extremo Oeste
+929,Dionísio Cerqueira,B,2.0,,Extremo Oeste
+930,Dionísio Cerqueira,C,-4.0,-1.0,Extremo Oeste
+931,Dionísio Cerqueira,E,-1.0,,Extremo Oeste
+932,Dionísio Cerqueira,F,-2.0,0.0,Extremo Oeste
+933,Dionísio Cerqueira,G,-1.0,18.0,Extremo Oeste
+934,Dionísio Cerqueira,H,0.0,1.0,Extremo Oeste
+935,Dionísio Cerqueira,I,4.0,0.0,Extremo Oeste
+936,Dionísio Cerqueira,J,,1.0,Extremo Oeste
+937,Dionísio Cerqueira,M,-1.0,0.0,Extremo Oeste
+938,Dionísio Cerqueira,N,1.0,3.0,Extremo Oeste
+939,Dionísio Cerqueira,Q,-1.0,1.0,Extremo Oeste
+940,Dionísio Cerqueira,R,-1.0,,Extremo Oeste
+941,Dona Emma,A,,-1.0,Alto Vale do Itajaí
+942,Dona Emma,C,-33.0,24.0,Alto Vale do Itajaí
+943,Dona Emma,F,,2.0,Alto Vale do Itajaí
+944,Dona Emma,G,1.0,3.0,Alto Vale do Itajaí
+945,Dona Emma,H,0.0,0.0,Alto Vale do Itajaí
+946,Dona Emma,I,,0.0,Alto Vale do Itajaí
+947,Dona Emma,M,,0.0,Alto Vale do Itajaí
+948,Dona Emma,N,,1.0,Alto Vale do Itajaí
+949,Dona Emma,S,-3.0,-3.0,Alto Vale do Itajaí
+950,Doutor Pedrinho,C,-26.0,-8.0,Vale do Itajaí
+951,Doutor Pedrinho,G,-5.0,3.0,Vale do Itajaí
+952,Doutor Pedrinho,H,,1.0,Vale do Itajaí
+953,Doutor Pedrinho,I,0.0,0.0,Vale do Itajaí
+954,Doutor Pedrinho,O,-47.0,30.0,Vale do Itajaí
+955,Doutor Pedrinho,Q,,-1.0,Vale do Itajaí
+956,Doutor Pedrinho,R,,1.0,Vale do Itajaí
+957,Entre Rios,C,,-2.0,Oeste
+958,Entre Rios,G,-4.0,5.0,Oeste
+959,Entre Rios,N,1.0,1.0,Oeste
+960,Ermo,A,-1.0,-1.0,Sul
+961,Ermo,C,7.0,10.0,Sul
+962,Ermo,F,,-1.0,Sul
+963,Ermo,G,1.0,1.0,Sul
+964,Ermo,H,-2.0,3.0,Sul
+965,Ermo,S,,1.0,Sul
+966,Erval Velho,A,0.0,0.0,Centro-Oeste
+967,Erval Velho,C,-3.0,-3.0,Centro-Oeste
+968,Erval Velho,E,,-1.0,Centro-Oeste
+969,Erval Velho,F,,-1.0,Centro-Oeste
+970,Erval Velho,G,-5.0,13.0,Centro-Oeste
+971,Erval Velho,H,1.0,-4.0,Centro-Oeste
+972,Erval Velho,I,2.0,1.0,Centro-Oeste
+973,Erval Velho,N,-1.0,,Centro-Oeste
+974,Erval Velho,S,-2.0,,Centro-Oeste
+975,Faxinal dos Guedes,A,-4.0,13.0,Oeste
+976,Faxinal dos Guedes,C,-44.0,21.0,Oeste
+977,Faxinal dos Guedes,F,-3.0,-4.0,Oeste
+978,Faxinal dos Guedes,G,-4.0,10.0,Oeste
+979,Faxinal dos Guedes,H,7.0,1.0,Oeste
+980,Faxinal dos Guedes,I,-1.0,2.0,Oeste
+981,Faxinal dos Guedes,J,0.0,,Oeste
+982,Faxinal dos Guedes,K,,1.0,Oeste
+983,Faxinal dos Guedes,M,,-2.0,Oeste
+984,Faxinal dos Guedes,P,,0.0,Oeste
+985,Faxinal dos Guedes,Q,0.0,4.0,Oeste
+986,Flor do Sertão,A,,1.0,Oeste
+987,Flor do Sertão,C,-7.0,-2.0,Oeste
+988,Flor do Sertão,G,-1.0,3.0,Oeste
+989,Flor do Sertão,H,-1.0,-2.0,Oeste
+990,Florianópolis,A,-7.0,3.0,Sudeste
+991,Florianópolis,B,6.0,1.0,Sudeste
+992,Florianópolis,C,58.0,46.0,Sudeste
+993,Florianópolis,D,3.0,12.0,Sudeste
+994,Florianópolis,E,1.0,-9.0,Sudeste
+995,Florianópolis,F,-143.0,211.0,Sudeste
+996,Florianópolis,G,1000.0,-165.0,Sudeste
+997,Florianópolis,H,-6.0,28.0,Sudeste
+998,Florianópolis,I,1088.0,-163.0,Sudeste
+999,Florianópolis,J,-203.0,153.0,Sudeste
+1000,Florianópolis,K,17.0,32.0,Sudeste
+1001,Florianópolis,L,28.0,23.0,Sudeste
+1002,Florianópolis,M,6.0,165.0,Sudeste
+1003,Florianópolis,N,111.0,124.0,Sudeste
+1004,Florianópolis,O,-628.0,-25.0,Sudeste
+1005,Florianópolis,P,-118.0,383.0,Sudeste
+1006,Florianópolis,Q,32.0,138.0,Sudeste
+1007,Florianópolis,R,6.0,38.0,Sudeste
+1008,Florianópolis,S,-40.0,35.0,Sudeste
+1009,Florianópolis,U,,-1.0,Sudeste
+1010,Formosa do Sul,A,-1.0,-2.0,Oeste
+1011,Formosa do Sul,C,,0.0,Oeste
+1012,Formosa do Sul,F,,-2.0,Oeste
+1013,Formosa do Sul,G,0.0,1.0,Oeste
+1014,Formosa do Sul,H,-2.0,-1.0,Oeste
+1015,Formosa do Sul,I,-1.0,-2.0,Oeste
+1016,Formosa do Sul,J,1.0,0.0,Oeste
+1017,Formosa do Sul,N,,-1.0,Oeste
+1018,Formosa do Sul,Q,,-1.0,Oeste
+1019,Forquilhinha,A,-1.0,,Sul
+1020,Forquilhinha,B,-1.0,0.0,Sul
+1021,Forquilhinha,C,-4.0,106.0,Sul
+1022,Forquilhinha,E,2.0,3.0,Sul
+1023,Forquilhinha,F,0.0,13.0,Sul
+1024,Forquilhinha,G,-13.0,-6.0,Sul
+1025,Forquilhinha,H,-13.0,-4.0,Sul
+1026,Forquilhinha,I,-6.0,3.0,Sul
+1027,Forquilhinha,J,-1.0,-1.0,Sul
+1028,Forquilhinha,L,-1.0,,Sul
+1029,Forquilhinha,M,-3.0,-2.0,Sul
+1030,Forquilhinha,N,-4.0,-3.0,Sul
+1031,Forquilhinha,P,-7.0,1.0,Sul
+1032,Forquilhinha,Q,-1.0,1.0,Sul
+1033,Forquilhinha,R,,0.0,Sul
+1034,Forquilhinha,S,1.0,9.0,Sul
+1035,Fraiburgo,A,-416.0,-202.0,Centro-Norte
+1036,Fraiburgo,B,-1.0,,Centro-Norte
+1037,Fraiburgo,C,-48.0,19.0,Centro-Norte
+1038,Fraiburgo,E,-1.0,2.0,Centro-Norte
+1039,Fraiburgo,F,-17.0,-2.0,Centro-Norte
+1040,Fraiburgo,G,-24.0,0.0,Centro-Norte
+1041,Fraiburgo,H,-6.0,71.0,Centro-Norte
+1042,Fraiburgo,I,5.0,5.0,Centro-Norte
+1043,Fraiburgo,J,1.0,3.0,Centro-Norte
+1044,Fraiburgo,K,,2.0,Centro-Norte
+1045,Fraiburgo,L,-1.0,-1.0,Centro-Norte
+1046,Fraiburgo,M,-2.0,5.0,Centro-Norte
+1047,Fraiburgo,N,-3.0,4.0,Centro-Norte
+1048,Fraiburgo,P,-4.0,6.0,Centro-Norte
+1049,Fraiburgo,Q,-3.0,6.0,Centro-Norte
+1050,Fraiburgo,R,-1.0,,Centro-Norte
+1051,Fraiburgo,S,-1.0,7.0,Centro-Norte
+1052,Frei Rogério,C,1.0,0.0,Centro-Norte
+1053,Frei Rogério,G,-1.0,-5.0,Centro-Norte
+1054,Frei Rogério,K,1.0,-1.0,Centro-Norte
+1055,Galvão,C,0.0,0.0,Oeste
+1056,Galvão,G,1.0,-1.0,Oeste
+1057,Galvão,H,,-1.0,Oeste
+1058,Galvão,M,,1.0,Oeste
+1059,Galvão,Q,,1.0,Oeste
+1060,Garopaba,A,,1.0,Sudeste
+1061,Garopaba,C,11.0,24.0,Sudeste
+1062,Garopaba,E,-1.0,-1.0,Sudeste
+1063,Garopaba,F,1.0,-4.0,Sudeste
+1064,Garopaba,G,253.0,-119.0,Sudeste
+1065,Garopaba,H,0.0,-1.0,Sudeste
+1066,Garopaba,I,176.0,-80.0,Sudeste
+1067,Garopaba,J,0.0,3.0,Sudeste
+1068,Garopaba,K,0.0,-1.0,Sudeste
+1069,Garopaba,L,1.0,1.0,Sudeste
+1070,Garopaba,M,1.0,5.0,Sudeste
+1071,Garopaba,N,3.0,-4.0,Sudeste
+1072,Garopaba,P,-5.0,37.0,Sudeste
+1073,Garopaba,Q,4.0,6.0,Sudeste
+1074,Garopaba,R,-1.0,-3.0,Sudeste
+1075,Garopaba,S,8.0,0.0,Sudeste
+1076,Garuva,A,-1.0,3.0,Norte-Nordeste
+1077,Garuva,B,0.0,-1.0,Norte-Nordeste
+1078,Garuva,C,-14.0,12.0,Norte-Nordeste
+1079,Garuva,E,,1.0,Norte-Nordeste
+1080,Garuva,F,3.0,0.0,Norte-Nordeste
+1081,Garuva,G,-2.0,15.0,Norte-Nordeste
+1082,Garuva,H,-2.0,12.0,Norte-Nordeste
+1083,Garuva,I,-2.0,12.0,Norte-Nordeste
+1084,Garuva,J,1.0,1.0,Norte-Nordeste
+1085,Garuva,M,-1.0,0.0,Norte-Nordeste
+1086,Garuva,N,-1.0,-1.0,Norte-Nordeste
+1087,Garuva,P,1.0,2.0,Norte-Nordeste
+1088,Garuva,Q,,1.0,Norte-Nordeste
+1089,Garuva,R,0.0,2.0,Norte-Nordeste
+1090,Garuva,S,-2.0,-2.0,Norte-Nordeste
+1091,Gaspar,A,-1.0,-2.0,Vale do Itajaí
+1092,Gaspar,B,1.0,1.0,Vale do Itajaí
+1093,Gaspar,C,-337.0,410.0,Vale do Itajaí
+1094,Gaspar,E,5.0,2.0,Vale do Itajaí
+1095,Gaspar,F,-11.0,4.0,Vale do Itajaí
+1096,Gaspar,G,18.0,74.0,Vale do Itajaí
+1097,Gaspar,H,-34.0,1.0,Vale do Itajaí
+1098,Gaspar,I,-3.0,30.0,Vale do Itajaí
+1099,Gaspar,J,1.0,10.0,Vale do Itajaí
+1100,Gaspar,K,-1.0,1.0,Vale do Itajaí
+1101,Gaspar,L,-1.0,6.0,Vale do Itajaí
+1102,Gaspar,M,-13.0,-3.0,Vale do Itajaí
+1103,Gaspar,N,-8.0,19.0,Vale do Itajaí
+1104,Gaspar,O,-476.0,296.0,Vale do Itajaí
+1105,Gaspar,P,-3.0,21.0,Vale do Itajaí
+1106,Gaspar,Q,-1.0,2.0,Vale do Itajaí
+1107,Gaspar,R,-2.0,4.0,Vale do Itajaí
+1108,Gaspar,S,-3.0,0.0,Vale do Itajaí
+1109,Gaspar,T,,1.0,Vale do Itajaí
+1110,Governador Celso Ramos,A,-1.0,3.0,Sudeste
+1111,Governador Celso Ramos,C,4.0,-3.0,Sudeste
+1112,Governador Celso Ramos,F,-6.0,-5.0,Sudeste
+1113,Governador Celso Ramos,G,46.0,-15.0,Sudeste
+1114,Governador Celso Ramos,H,7.0,-3.0,Sudeste
+1115,Governador Celso Ramos,I,55.0,-9.0,Sudeste
+1116,Governador Celso Ramos,J,,1.0,Sudeste
+1117,Governador Celso Ramos,L,3.0,-2.0,Sudeste
+1118,Governador Celso Ramos,M,0.0,1.0,Sudeste
+1119,Governador Celso Ramos,N,17.0,-1.0,Sudeste
+1120,Governador Celso Ramos,R,0.0,,Sudeste
+1121,Governador Celso Ramos,S,-2.0,1.0,Sudeste
+1122,Grão Pará,A,-5.0,14.0,Litoral Sul
+1123,Grão Pará,C,-7.0,11.0,Litoral Sul
+1124,Grão Pará,D,-1.0,-1.0,Litoral Sul
+1125,Grão Pará,F,,-1.0,Litoral Sul
+1126,Grão Pará,G,-1.0,0.0,Litoral Sul
+1127,Grão Pará,H,-2.0,0.0,Litoral Sul
+1128,Grão Pará,I,,-1.0,Litoral Sul
+1129,Grão Pará,M,,1.0,Litoral Sul
+1130,Grão Pará,N,1.0,2.0,Litoral Sul
+1131,Grão Pará,S,1.0,,Litoral Sul
+1132,Gravatal,A,,-1.0,Litoral Sul
+1133,Gravatal,B,-1.0,3.0,Litoral Sul
+1134,Gravatal,C,-23.0,36.0,Litoral Sul
+1135,Gravatal,D,-2.0,0.0,Litoral Sul
+1136,Gravatal,E,2.0,,Litoral Sul
+1137,Gravatal,F,-5.0,5.0,Litoral Sul
+1138,Gravatal,G,6.0,1.0,Litoral Sul
+1139,Gravatal,H,0.0,8.0,Litoral Sul
+1140,Gravatal,I,13.0,8.0,Litoral Sul
+1141,Gravatal,L,,-1.0,Litoral Sul
+1142,Gravatal,M,-1.0,1.0,Litoral Sul
+1143,Gravatal,N,5.0,3.0,Litoral Sul
+1144,Gravatal,Q,-1.0,,Litoral Sul
+1145,Gravatal,R,-1.0,1.0,Litoral Sul
+1146,Gravatal,S,0.0,-2.0,Litoral Sul
+1147,Guabiruba,C,-112.0,142.0,Vale do Itajaí Mirim
+1148,Guabiruba,E,1.0,3.0,Vale do Itajaí Mirim
+1149,Guabiruba,F,-3.0,-9.0,Vale do Itajaí Mirim
+1150,Guabiruba,G,-2.0,-6.0,Vale do Itajaí Mirim
+1151,Guabiruba,H,-3.0,3.0,Vale do Itajaí Mirim
+1152,Guabiruba,I,-1.0,1.0,Vale do Itajaí Mirim
+1153,Guabiruba,L,,0.0,Vale do Itajaí Mirim
+1154,Guabiruba,M,-1.0,3.0,Vale do Itajaí Mirim
+1155,Guabiruba,N,-2.0,9.0,Vale do Itajaí Mirim
+1156,Guabiruba,P,-2.0,3.0,Vale do Itajaí Mirim
+1157,Guabiruba,Q,-1.0,-1.0,Vale do Itajaí Mirim
+1158,Guabiruba,S,,2.0,Vale do Itajaí Mirim
+1159,Guaraciaba,A,-1.0,3.0,Extremo Oeste
+1160,Guaraciaba,C,-30.0,7.0,Extremo Oeste
+1161,Guaraciaba,F,0.0,2.0,Extremo Oeste
+1162,Guaraciaba,G,0.0,2.0,Extremo Oeste
+1163,Guaraciaba,H,1.0,2.0,Extremo Oeste
+1164,Guaraciaba,I,1.0,3.0,Extremo Oeste
+1165,Guaraciaba,J,1.0,,Extremo Oeste
+1166,Guaraciaba,K,-1.0,1.0,Extremo Oeste
+1167,Guaraciaba,M,-1.0,,Extremo Oeste
+1168,Guaraciaba,N,,-1.0,Extremo Oeste
+1169,Guaraciaba,P,1.0,3.0,Extremo Oeste
+1170,Guaraciaba,Q,2.0,0.0,Extremo Oeste
+1171,Guaraciaba,R,,-2.0,Extremo Oeste
+1172,Guaramirim,A,1.0,-1.0,Vale do Itapocu
+1173,Guaramirim,B,-1.0,-1.0,Vale do Itapocu
+1174,Guaramirim,C,-185.0,215.0,Vale do Itapocu
+1175,Guaramirim,E,3.0,7.0,Vale do Itapocu
+1176,Guaramirim,F,-16.0,1.0,Vale do Itapocu
+1177,Guaramirim,G,5.0,28.0,Vale do Itapocu
+1178,Guaramirim,H,15.0,16.0,Vale do Itapocu
+1179,Guaramirim,I,0.0,22.0,Vale do Itapocu
+1180,Guaramirim,J,4.0,2.0,Vale do Itapocu
+1181,Guaramirim,K,-1.0,1.0,Vale do Itapocu
+1182,Guaramirim,L,-1.0,,Vale do Itapocu
+1183,Guaramirim,M,1.0,3.0,Vale do Itapocu
+1184,Guaramirim,N,-32.0,4.0,Vale do Itapocu
+1185,Guaramirim,O,-24.0,,Vale do Itapocu
+1186,Guaramirim,P,-4.0,4.0,Vale do Itapocu
+1187,Guaramirim,Q,3.0,5.0,Vale do Itapocu
+1188,Guaramirim,R,-2.0,-2.0,Vale do Itapocu
+1189,Guaramirim,S,1.0,-1.0,Vale do Itapocu
+1190,Guarujá do Sul,B,0.0,,Extremo Oeste
+1191,Guarujá do Sul,C,5.0,10.0,Extremo Oeste
+1192,Guarujá do Sul,F,-1.0,0.0,Extremo Oeste
+1193,Guarujá do Sul,G,-3.0,1.0,Extremo Oeste
+1194,Guarujá do Sul,H,-9.0,7.0,Extremo Oeste
+1195,Guarujá do Sul,I,0.0,,Extremo Oeste
+1196,Guarujá do Sul,J,,0.0,Extremo Oeste
+1197,Guarujá do Sul,M,-2.0,1.0,Extremo Oeste
+1198,Guarujá do Sul,N,,1.0,Extremo Oeste
+1199,Guatambú,A,3.0,0.0,Oeste
+1200,Guatambú,C,6.0,42.0,Oeste
+1201,Guatambú,F,-9.0,-15.0,Oeste
+1202,Guatambú,G,-2.0,2.0,Oeste
+1203,Guatambú,H,-5.0,-1.0,Oeste
+1204,Guatambú,I,-1.0,1.0,Oeste
+1205,Guatambú,N,-1.0,6.0,Oeste
+1206,Guatambú,S,,14.0,Oeste
+1207,Herval d'Oeste,A,-8.0,1.0,Centro-Oeste
+1208,Herval d'Oeste,C,-6.0,14.0,Centro-Oeste
+1209,Herval d'Oeste,F,-7.0,3.0,Centro-Oeste
+1210,Herval d'Oeste,G,3.0,18.0,Centro-Oeste
+1211,Herval d'Oeste,H,2.0,5.0,Centro-Oeste
+1212,Herval d'Oeste,I,1.0,-3.0,Centro-Oeste
+1213,Herval d'Oeste,J,2.0,2.0,Centro-Oeste
+1214,Herval d'Oeste,M,-1.0,1.0,Centro-Oeste
+1215,Herval d'Oeste,N,8.0,4.0,Centro-Oeste
+1216,Herval d'Oeste,P,0.0,3.0,Centro-Oeste
+1217,Herval d'Oeste,Q,,2.0,Centro-Oeste
+1218,Herval d'Oeste,R,,-1.0,Centro-Oeste
+1219,Herval d'Oeste,S,0.0,-1.0,Centro-Oeste
+1220,Ibiam,A,1.0,1.0,Centro-Oeste
+1221,Ibiam,C,2.0,-6.0,Centro-Oeste
+1222,Ibiam,F,-1.0,1.0,Centro-Oeste
+1223,Ibiam,G,,2.0,Centro-Oeste
+1224,Ibiam,H,3.0,,Centro-Oeste
+1225,Ibiam,K,,0.0,Centro-Oeste
+1226,Ibiam,M,,-1.0,Centro-Oeste
+1227,Ibiam,O,,-1.0,Centro-Oeste
+1228,Ibiam,S,1.0,1.0,Centro-Oeste
+1229,Ibicaré,A,-4.0,3.0,Centro-Oeste
+1230,Ibicaré,B,,-1.0,Centro-Oeste
+1231,Ibicaré,C,-5.0,1.0,Centro-Oeste
+1232,Ibicaré,F,-3.0,0.0,Centro-Oeste
+1233,Ibicaré,G,-2.0,1.0,Centro-Oeste
+1234,Ibicaré,H,2.0,0.0,Centro-Oeste
+1235,Ibicaré,J,,0.0,Centro-Oeste
+1236,Ibicaré,M,,-19.0,Centro-Oeste
+1237,Ibicaré,Q,,1.0,Centro-Oeste
+1238,Ibirama,C,-95.0,111.0,Alto Vale do Itajaí
+1239,Ibirama,F,4.0,7.0,Alto Vale do Itajaí
+1240,Ibirama,G,-2.0,14.0,Alto Vale do Itajaí
+1241,Ibirama,H,1.0,4.0,Alto Vale do Itajaí
+1242,Ibirama,I,0.0,3.0,Alto Vale do Itajaí
+1243,Ibirama,J,-1.0,1.0,Alto Vale do Itajaí
+1244,Ibirama,K,4.0,7.0,Alto Vale do Itajaí
+1245,Ibirama,L,,1.0,Alto Vale do Itajaí
+1246,Ibirama,M,-1.0,-1.0,Alto Vale do Itajaí
+1247,Ibirama,N,-1.0,-4.0,Alto Vale do Itajaí
+1248,Ibirama,P,-3.0,-3.0,Alto Vale do Itajaí
+1249,Ibirama,Q,-2.0,-1.0,Alto Vale do Itajaí
+1250,Ibirama,R,,-1.0,Alto Vale do Itajaí
+1251,Ibirama,S,-2.0,4.0,Alto Vale do Itajaí
+1252,Içara,A,-1.0,2.0,Sul
+1253,Içara,B,-3.0,6.0,Sul
+1254,Içara,C,-10.0,82.0,Sul
+1255,Içara,D,-1.0,4.0,Sul
+1256,Içara,E,1.0,-1.0,Sul
+1257,Içara,F,2.0,-2.0,Sul
+1258,Içara,G,-8.0,14.0,Sul
+1259,Içara,H,2.0,22.0,Sul
+1260,Içara,I,2.0,-6.0,Sul
+1261,Içara,J,2.0,2.0,Sul
+1262,Içara,K,0.0,0.0,Sul
+1263,Içara,L,-2.0,7.0,Sul
+1264,Içara,M,3.0,6.0,Sul
+1265,Içara,N,55.0,-27.0,Sul
+1266,Içara,O,4.0,1.0,Sul
+1267,Içara,P,-3.0,9.0,Sul
+1268,Içara,Q,4.0,17.0,Sul
+1269,Içara,R,0.0,2.0,Sul
+1270,Içara,S,-5.0,21.0,Sul
+1271,Ilhota,A,-2.0,,Foz do Rio Itajaí
+1272,Ilhota,C,-15.0,80.0,Foz do Rio Itajaí
+1273,Ilhota,F,-2.0,3.0,Foz do Rio Itajaí
+1274,Ilhota,G,12.0,19.0,Foz do Rio Itajaí
+1275,Ilhota,H,0.0,1.0,Foz do Rio Itajaí
+1276,Ilhota,I,3.0,2.0,Foz do Rio Itajaí
+1277,Ilhota,J,1.0,2.0,Foz do Rio Itajaí
+1278,Ilhota,M,-1.0,0.0,Foz do Rio Itajaí
+1279,Ilhota,N,-32.0,76.0,Foz do Rio Itajaí
+1280,Ilhota,Q,-1.0,-1.0,Foz do Rio Itajaí
+1281,Ilhota,S,1.0,,Foz do Rio Itajaí
+1282,Imaruí,C,-3.0,0.0,Litoral Sul
+1283,Imaruí,F,-11.0,8.0,Litoral Sul
+1284,Imaruí,G,4.0,2.0,Litoral Sul
+1285,Imaruí,H,-1.0,,Litoral Sul
+1286,Imaruí,J,,0.0,Litoral Sul
+1287,Imaruí,M,,-2.0,Litoral Sul
+1288,Imaruí,N,,1.0,Litoral Sul
+1289,Imaruí,Q,3.0,1.0,Litoral Sul
+1290,Imaruí,S,,0.0,Litoral Sul
+1291,Imbituba,A,,2.0,Litoral Sul
+1292,Imbituba,B,-11.0,1.0,Litoral Sul
+1293,Imbituba,C,-6.0,-8.0,Litoral Sul
+1294,Imbituba,E,2.0,1.0,Litoral Sul
+1295,Imbituba,F,-8.0,12.0,Litoral Sul
+1296,Imbituba,G,163.0,-3.0,Litoral Sul
+1297,Imbituba,H,-18.0,-13.0,Litoral Sul
+1298,Imbituba,I,175.0,-8.0,Litoral Sul
+1299,Imbituba,J,1.0,2.0,Litoral Sul
+1300,Imbituba,K,,0.0,Litoral Sul
+1301,Imbituba,L,0.0,,Litoral Sul
+1302,Imbituba,M,-3.0,9.0,Litoral Sul
+1303,Imbituba,N,0.0,-15.0,Litoral Sul
+1304,Imbituba,O,-201.0,67.0,Litoral Sul
+1305,Imbituba,P,-4.0,12.0,Litoral Sul
+1306,Imbituba,Q,-7.0,7.0,Litoral Sul
+1307,Imbituba,R,4.0,3.0,Litoral Sul
+1308,Imbituba,S,-1.0,8.0,Litoral Sul
+1309,Imbuia,C,12.0,4.0,Vale do Itajaí Mirim
+1310,Imbuia,E,,0.0,Vale do Itajaí Mirim
+1311,Imbuia,F,-13.0,,Vale do Itajaí Mirim
+1312,Imbuia,G,68.0,-2.0,Vale do Itajaí Mirim
+1313,Imbuia,H,1.0,2.0,Vale do Itajaí Mirim
+1314,Imbuia,K,-1.0,1.0,Vale do Itajaí Mirim
+1315,Imbuia,M,0.0,0.0,Vale do Itajaí Mirim
+1316,Imbuia,Q,-1.0,0.0,Vale do Itajaí Mirim
+1317,Imbuia,S,,0.0,Vale do Itajaí Mirim
+1318,Indaial,A,-7.0,6.0,Vale do Itajaí
+1319,Indaial,B,1.0,0.0,Vale do Itajaí
+1320,Indaial,C,-308.0,313.0,Vale do Itajaí
+1321,Indaial,E,-4.0,0.0,Vale do Itajaí
+1322,Indaial,F,4.0,83.0,Vale do Itajaí
+1323,Indaial,G,-22.0,17.0,Vale do Itajaí
+1324,Indaial,H,6.0,0.0,Vale do Itajaí
+1325,Indaial,I,-19.0,12.0,Vale do Itajaí
+1326,Indaial,J,-2.0,-3.0,Vale do Itajaí
+1327,Indaial,K,0.0,2.0,Vale do Itajaí
+1328,Indaial,L,0.0,1.0,Vale do Itajaí
+1329,Indaial,M,-6.0,8.0,Vale do Itajaí
+1330,Indaial,N,16.0,15.0,Vale do Itajaí
+1331,Indaial,O,-1.0,-1.0,Vale do Itajaí
+1332,Indaial,P,-42.0,-341.0,Vale do Itajaí
+1333,Indaial,Q,12.0,14.0,Vale do Itajaí
+1334,Indaial,R,,-1.0,Vale do Itajaí
+1335,Indaial,S,-1.0,7.0,Vale do Itajaí
+1336,Iomerê,A,-3.0,0.0,Centro-Norte
+1337,Iomerê,B,-1.0,-1.0,Centro-Norte
+1338,Iomerê,C,-2.0,5.0,Centro-Norte
+1339,Iomerê,G,-1.0,0.0,Centro-Norte
+1340,Iomerê,H,-19.0,1.0,Centro-Norte
+1341,Iomerê,N,2.0,1.0,Centro-Norte
+1342,Ipira,A,-1.0,,Alto Uruguai Catarinense
+1343,Ipira,C,-1.0,1.0,Alto Uruguai Catarinense
+1344,Ipira,F,0.0,-2.0,Alto Uruguai Catarinense
+1345,Ipira,G,1.0,1.0,Alto Uruguai Catarinense
+1346,Ipira,H,,1.0,Alto Uruguai Catarinense
+1347,Ipira,I,1.0,-2.0,Alto Uruguai Catarinense
+1348,Ipira,K,-1.0,,Alto Uruguai Catarinense
+1349,Ipira,N,0.0,,Alto Uruguai Catarinense
+1350,Ipira,Q,-1.0,1.0,Alto Uruguai Catarinense
+1351,Ipira,S,-1.0,,Alto Uruguai Catarinense
+1352,Iporã do Oeste,A,,2.0,Extremo Oeste
+1353,Iporã do Oeste,C,-7.0,-6.0,Extremo Oeste
+1354,Iporã do Oeste,F,3.0,0.0,Extremo Oeste
+1355,Iporã do Oeste,G,-3.0,13.0,Extremo Oeste
+1356,Iporã do Oeste,H,3.0,-2.0,Extremo Oeste
+1357,Iporã do Oeste,I,,0.0,Extremo Oeste
+1358,Iporã do Oeste,K,1.0,-1.0,Extremo Oeste
+1359,Iporã do Oeste,M,,2.0,Extremo Oeste
+1360,Iporã do Oeste,N,0.0,2.0,Extremo Oeste
+1361,Iporã do Oeste,P,0.0,-1.0,Extremo Oeste
+1362,Iporã do Oeste,Q,1.0,4.0,Extremo Oeste
+1363,Iporã do Oeste,S,-2.0,-1.0,Extremo Oeste
+1364,Ipuaçu,A,,1.0,Oeste
+1365,Ipuaçu,C,-3.0,-19.0,Oeste
+1366,Ipuaçu,G,3.0,-1.0,Oeste
+1367,Ipuaçu,H,1.0,-2.0,Oeste
+1368,Ipuaçu,I,,0.0,Oeste
+1369,Ipuaçu,K,1.0,,Oeste
+1370,Ipuaçu,M,,1.0,Oeste
+1371,Ipuaçu,Q,1.0,,Oeste
+1372,Ipumirim,A,7.0,-4.0,Alto Uruguai Catarinense
+1373,Ipumirim,C,-49.0,12.0,Alto Uruguai Catarinense
+1374,Ipumirim,E,-4.0,-3.0,Alto Uruguai Catarinense
+1375,Ipumirim,F,0.0,,Alto Uruguai Catarinense
+1376,Ipumirim,G,-1.0,-1.0,Alto Uruguai Catarinense
+1377,Ipumirim,H,-3.0,2.0,Alto Uruguai Catarinense
+1378,Ipumirim,I,,-1.0,Alto Uruguai Catarinense
+1379,Ipumirim,K,,-1.0,Alto Uruguai Catarinense
+1380,Ipumirim,Q,0.0,1.0,Alto Uruguai Catarinense
+1381,Ipumirim,S,1.0,3.0,Alto Uruguai Catarinense
+1382,Iraceminha,C,-1.0,0.0,Oeste
+1383,Iraceminha,F,-2.0,,Oeste
+1384,Iraceminha,G,-1.0,7.0,Oeste
+1385,Iraceminha,H,,1.0,Oeste
+1386,Iraceminha,I,,3.0,Oeste
+1387,Iraceminha,K,-1.0,,Oeste
+1388,Iraceminha,N,,1.0,Oeste
+1389,Iraceminha,S,2.0,4.0,Oeste
+1390,Irani,A,0.0,-1.0,Alto Uruguai Catarinense
+1391,Irani,C,-2.0,7.0,Alto Uruguai Catarinense
+1392,Irani,F,-5.0,11.0,Alto Uruguai Catarinense
+1393,Irani,G,0.0,1.0,Alto Uruguai Catarinense
+1394,Irani,H,2.0,12.0,Alto Uruguai Catarinense
+1395,Irani,I,1.0,0.0,Alto Uruguai Catarinense
+1396,Irani,K,-1.0,1.0,Alto Uruguai Catarinense
+1397,Irani,M,0.0,-2.0,Alto Uruguai Catarinense
+1398,Irani,N,1.0,4.0,Alto Uruguai Catarinense
+1399,Irani,P,,-2.0,Alto Uruguai Catarinense
+1400,Irani,Q,-2.0,-1.0,Alto Uruguai Catarinense
+1401,Irani,S,1.0,-1.0,Alto Uruguai Catarinense
+1402,Irati,C,-5.0,-10.0,Oeste
+1403,Irati,E,-2.0,-1.0,Oeste
+1404,Irati,F,-1.0,,Oeste
+1405,Irati,G,1.0,1.0,Oeste
+1406,Irati,H,0.0,1.0,Oeste
+1407,Irati,S,1.0,1.0,Oeste
+1408,Irineópolis,A,-1.0,2.0,Centro-Norte
+1409,Irineópolis,C,-1.0,6.0,Centro-Norte
+1410,Irineópolis,F,,2.0,Centro-Norte
+1411,Irineópolis,G,-4.0,0.0,Centro-Norte
+1412,Irineópolis,H,,5.0,Centro-Norte
+1413,Irineópolis,I,2.0,,Centro-Norte
+1414,Irineópolis,J,1.0,1.0,Centro-Norte
+1415,Irineópolis,K,,1.0,Centro-Norte
+1416,Irineópolis,M,,-1.0,Centro-Norte
+1417,Irineópolis,Q,,0.0,Centro-Norte
+1418,Irineópolis,S,,0.0,Centro-Norte
+1419,Itá,A,,-2.0,Alto Uruguai Catarinense
+1420,Itá,C,-12.0,2.0,Alto Uruguai Catarinense
+1421,Itá,E,-1.0,,Alto Uruguai Catarinense
+1422,Itá,F,-1.0,-2.0,Alto Uruguai Catarinense
+1423,Itá,G,-4.0,3.0,Alto Uruguai Catarinense
+1424,Itá,H,-2.0,-3.0,Alto Uruguai Catarinense
+1425,Itá,I,5.0,9.0,Alto Uruguai Catarinense
+1426,Itá,J,-3.0,,Alto Uruguai Catarinense
+1427,Itá,M,1.0,1.0,Alto Uruguai Catarinense
+1428,Itá,N,29.0,-5.0,Alto Uruguai Catarinense
+1429,Itá,P,3.0,2.0,Alto Uruguai Catarinense
+1430,Itá,Q,1.0,,Alto Uruguai Catarinense
+1431,Itá,R,3.0,-1.0,Alto Uruguai Catarinense
+1432,Itá,S,,3.0,Alto Uruguai Catarinense
+1433,Itaiópolis,A,-2.0,-3.0,Planalto Norte
+1434,Itaiópolis,C,4.0,-8.0,Planalto Norte
+1435,Itaiópolis,F,-1.0,2.0,Planalto Norte
+1436,Itaiópolis,G,17.0,18.0,Planalto Norte
+1437,Itaiópolis,H,4.0,-1.0,Planalto Norte
+1438,Itaiópolis,I,-4.0,1.0,Planalto Norte
+1439,Itaiópolis,J,,-1.0,Planalto Norte
+1440,Itaiópolis,K,-1.0,,Planalto Norte
+1441,Itaiópolis,M,,1.0,Planalto Norte
+1442,Itaiópolis,N,-1.0,0.0,Planalto Norte
+1443,Itaiópolis,P,-2.0,4.0,Planalto Norte
+1444,Itaiópolis,Q,,-1.0,Planalto Norte
+1445,Itaiópolis,S,-3.0,4.0,Planalto Norte
+1446,Itajaí,A,-25.0,85.0,Foz do Rio Itajaí
+1447,Itajaí,B,,7.0,Foz do Rio Itajaí
+1448,Itajaí,C,-148.0,280.0,Foz do Rio Itajaí
+1449,Itajaí,D,-2.0,2.0,Foz do Rio Itajaí
+1450,Itajaí,E,14.0,11.0,Foz do Rio Itajaí
+1451,Itajaí,F,-173.0,84.0,Foz do Rio Itajaí
+1452,Itajaí,G,126.0,220.0,Foz do Rio Itajaí
+1453,Itajaí,H,213.0,350.0,Foz do Rio Itajaí
+1454,Itajaí,I,86.0,73.0,Foz do Rio Itajaí
+1455,Itajaí,J,-2.0,34.0,Foz do Rio Itajaí
+1456,Itajaí,K,5.0,21.0,Foz do Rio Itajaí
+1457,Itajaí,L,-6.0,19.0,Foz do Rio Itajaí
+1458,Itajaí,M,49.0,40.0,Foz do Rio Itajaí
+1459,Itajaí,N,587.0,106.0,Foz do Rio Itajaí
+1460,Itajaí,O,-626.0,285.0,Foz do Rio Itajaí
+1461,Itajaí,P,-54.0,74.0,Foz do Rio Itajaí
+1462,Itajaí,Q,38.0,29.0,Foz do Rio Itajaí
+1463,Itajaí,R,4.0,7.0,Foz do Rio Itajaí
+1464,Itajaí,S,-74.0,21.0,Foz do Rio Itajaí
+1465,Itapema,C,3.0,20.0,Foz do Rio Itajaí
+1466,Itapema,E,5.0,-2.0,Foz do Rio Itajaí
+1467,Itapema,F,-200.0,238.0,Foz do Rio Itajaí
+1468,Itapema,G,266.0,-104.0,Foz do Rio Itajaí
+1469,Itapema,H,28.0,47.0,Foz do Rio Itajaí
+1470,Itapema,I,206.0,-34.0,Foz do Rio Itajaí
+1471,Itapema,J,6.0,4.0,Foz do Rio Itajaí
+1472,Itapema,K,4.0,8.0,Foz do Rio Itajaí
+1473,Itapema,L,9.0,-3.0,Foz do Rio Itajaí
+1474,Itapema,M,-4.0,18.0,Foz do Rio Itajaí
+1475,Itapema,N,102.0,106.0,Foz do Rio Itajaí
+1476,Itapema,P,-13.0,41.0,Foz do Rio Itajaí
+1477,Itapema,Q,12.0,7.0,Foz do Rio Itajaí
+1478,Itapema,R,0.0,7.0,Foz do Rio Itajaí
+1479,Itapema,S,4.0,10.0,Foz do Rio Itajaí
+1480,Itapiranga,A,0.0,-1.0,Extremo Oeste
+1481,Itapiranga,C,-17.0,63.0,Extremo Oeste
+1482,Itapiranga,E,5.0,,Extremo Oeste
+1483,Itapiranga,F,-6.0,2.0,Extremo Oeste
+1484,Itapiranga,G,4.0,10.0,Extremo Oeste
+1485,Itapiranga,H,4.0,-5.0,Extremo Oeste
+1486,Itapiranga,I,-1.0,-4.0,Extremo Oeste
+1487,Itapiranga,J,-1.0,0.0,Extremo Oeste
+1488,Itapiranga,K,4.0,-1.0,Extremo Oeste
+1489,Itapiranga,M,-1.0,4.0,Extremo Oeste
+1490,Itapiranga,N,-10.0,2.0,Extremo Oeste
+1491,Itapiranga,O,-1.0,,Extremo Oeste
+1492,Itapiranga,P,2.0,33.0,Extremo Oeste
+1493,Itapiranga,Q,0.0,0.0,Extremo Oeste
+1494,Itapiranga,S,-6.0,-1.0,Extremo Oeste
+1495,Itapoá,A,-1.0,2.0,Norte-Nordeste
+1496,Itapoá,C,11.0,11.0,Norte-Nordeste
+1497,Itapoá,E,0.0,0.0,Norte-Nordeste
+1498,Itapoá,F,6.0,14.0,Norte-Nordeste
+1499,Itapoá,G,32.0,-33.0,Norte-Nordeste
+1500,Itapoá,H,41.0,15.0,Norte-Nordeste
+1501,Itapoá,I,52.0,-7.0,Norte-Nordeste
+1502,Itapoá,J,2.0,4.0,Norte-Nordeste
+1503,Itapoá,K,-1.0,2.0,Norte-Nordeste
+1504,Itapoá,L,1.0,1.0,Norte-Nordeste
+1505,Itapoá,M,2.0,2.0,Norte-Nordeste
+1506,Itapoá,N,14.0,6.0,Norte-Nordeste
+1507,Itapoá,P,-3.0,7.0,Norte-Nordeste
+1508,Itapoá,Q,-2.0,2.0,Norte-Nordeste
+1509,Itapoá,R,-1.0,2.0,Norte-Nordeste
+1510,Itapoá,S,1.0,-1.0,Norte-Nordeste
+1511,Ituporanga,A,-8.0,-16.0,Alto Vale do Itajaí
+1512,Ituporanga,C,-80.0,57.0,Alto Vale do Itajaí
+1513,Ituporanga,F,-12.0,4.0,Alto Vale do Itajaí
+1514,Ituporanga,G,54.0,31.0,Alto Vale do Itajaí
+1515,Ituporanga,H,-18.0,-9.0,Alto Vale do Itajaí
+1516,Ituporanga,I,5.0,5.0,Alto Vale do Itajaí
+1517,Ituporanga,J,0.0,3.0,Alto Vale do Itajaí
+1518,Ituporanga,K,-2.0,,Alto Vale do Itajaí
+1519,Ituporanga,M,-2.0,-2.0,Alto Vale do Itajaí
+1520,Ituporanga,N,0.0,0.0,Alto Vale do Itajaí
+1521,Ituporanga,P,-6.0,10.0,Alto Vale do Itajaí
+1522,Ituporanga,Q,-1.0,5.0,Alto Vale do Itajaí
+1523,Ituporanga,R,0.0,2.0,Alto Vale do Itajaí
+1524,Ituporanga,S,-1.0,-3.0,Alto Vale do Itajaí
+1525,Jaborá,A,-1.0,1.0,Alto Uruguai Catarinense
+1526,Jaborá,C,-8.0,-2.0,Alto Uruguai Catarinense
+1527,Jaborá,F,2.0,-3.0,Alto Uruguai Catarinense
+1528,Jaborá,G,,-2.0,Alto Uruguai Catarinense
+1529,Jaborá,H,-1.0,0.0,Alto Uruguai Catarinense
+1530,Jaborá,I,1.0,1.0,Alto Uruguai Catarinense
+1531,Jaborá,K,-1.0,0.0,Alto Uruguai Catarinense
+1532,Jaborá,M,,-2.0,Alto Uruguai Catarinense
+1533,Jacinto Machado,C,-6.0,33.0,Sul
+1534,Jacinto Machado,F,4.0,0.0,Sul
+1535,Jacinto Machado,G,1.0,2.0,Sul
+1536,Jacinto Machado,H,2.0,4.0,Sul
+1537,Jacinto Machado,J,-1.0,2.0,Sul
+1538,Jacinto Machado,K,-1.0,2.0,Sul
+1539,Jacinto Machado,L,,1.0,Sul
+1540,Jacinto Machado,M,-2.0,-1.0,Sul
+1541,Jacinto Machado,N,-2.0,,Sul
+1542,Jacinto Machado,P,-1.0,,Sul
+1543,Jacinto Machado,Q,1.0,1.0,Sul
+1544,Jacinto Machado,S,,0.0,Sul
+1545,Jaguaruna,A,1.0,,Litoral Sul
+1546,Jaguaruna,B,1.0,,Litoral Sul
+1547,Jaguaruna,C,-18.0,37.0,Litoral Sul
+1548,Jaguaruna,E,6.0,-1.0,Litoral Sul
+1549,Jaguaruna,F,0.0,4.0,Litoral Sul
+1550,Jaguaruna,G,38.0,-18.0,Litoral Sul
+1551,Jaguaruna,H,4.0,5.0,Litoral Sul
+1552,Jaguaruna,I,3.0,5.0,Litoral Sul
+1553,Jaguaruna,J,4.0,-1.0,Litoral Sul
+1554,Jaguaruna,K,,-1.0,Litoral Sul
+1555,Jaguaruna,M,18.0,3.0,Litoral Sul
+1556,Jaguaruna,N,-7.0,12.0,Litoral Sul
+1557,Jaguaruna,P,1.0,2.0,Litoral Sul
+1558,Jaguaruna,Q,331.0,71.0,Litoral Sul
+1559,Jaguaruna,R,,1.0,Litoral Sul
+1560,Jaguaruna,S,2.0,5.0,Litoral Sul
+1561,Jaraguá do Sul,A,,-1.0,Vale do Itapocu
+1562,Jaraguá do Sul,B,,-3.0,Vale do Itapocu
+1563,Jaraguá do Sul,C,-829.0,784.0,Vale do Itapocu
+1564,Jaraguá do Sul,D,,1.0,Vale do Itapocu
+1565,Jaraguá do Sul,E,14.0,1.0,Vale do Itapocu
+1566,Jaraguá do Sul,F,-53.0,74.0,Vale do Itapocu
+1567,Jaraguá do Sul,G,42.0,8.0,Vale do Itapocu
+1568,Jaraguá do Sul,H,-18.0,-16.0,Vale do Itapocu
+1569,Jaraguá do Sul,I,4.0,28.0,Vale do Itapocu
+1570,Jaraguá do Sul,J,-8.0,17.0,Vale do Itapocu
+1571,Jaraguá do Sul,K,0.0,5.0,Vale do Itapocu
+1572,Jaraguá do Sul,L,-4.0,-4.0,Vale do Itapocu
+1573,Jaraguá do Sul,M,-28.0,21.0,Vale do Itapocu
+1574,Jaraguá do Sul,N,-3.0,63.0,Vale do Itapocu
+1575,Jaraguá do Sul,O,-205.0,289.0,Vale do Itapocu
+1576,Jaraguá do Sul,P,-48.0,72.0,Vale do Itapocu
+1577,Jaraguá do Sul,Q,57.0,26.0,Vale do Itapocu
+1578,Jaraguá do Sul,R,2.0,15.0,Vale do Itapocu
+1579,Jaraguá do Sul,S,-12.0,3.0,Vale do Itapocu
+1580,Jaraguá do Sul,T,-1.0,1.0,Vale do Itapocu
+1581,Jardinópolis,C,4.0,-1.0,Oeste
+1582,Jardinópolis,F,-1.0,,Oeste
+1583,Jardinópolis,G,,-1.0,Oeste
+1584,Jardinópolis,J,1.0,,Oeste
+1585,Joaçaba,A,0.0,-4.0,Centro-Oeste
+1586,Joaçaba,C,-35.0,130.0,Centro-Oeste
+1587,Joaçaba,D,,4.0,Centro-Oeste
+1588,Joaçaba,E,-2.0,-2.0,Centro-Oeste
+1589,Joaçaba,F,-19.0,21.0,Centro-Oeste
+1590,Joaçaba,G,61.0,-34.0,Centro-Oeste
+1591,Joaçaba,H,18.0,1.0,Centro-Oeste
+1592,Joaçaba,I,3.0,2.0,Centro-Oeste
+1593,Joaçaba,J,7.0,11.0,Centro-Oeste
+1594,Joaçaba,K,0.0,7.0,Centro-Oeste
+1595,Joaçaba,L,,1.0,Centro-Oeste
+1596,Joaçaba,M,-3.0,12.0,Centro-Oeste
+1597,Joaçaba,N,13.0,8.0,Centro-Oeste
+1598,Joaçaba,P,-46.0,31.0,Centro-Oeste
+1599,Joaçaba,Q,-8.0,20.0,Centro-Oeste
+1600,Joaçaba,R,-4.0,0.0,Centro-Oeste
+1601,Joaçaba,S,-14.0,12.0,Centro-Oeste
+1602,Joinville,A,0.0,3.0,Norte-Nordeste
+1603,Joinville,B,3.0,3.0,Norte-Nordeste
+1604,Joinville,C,315.0,991.0,Norte-Nordeste
+1605,Joinville,D,-1.0,7.0,Norte-Nordeste
+1606,Joinville,E,-51.0,-3.0,Norte-Nordeste
+1607,Joinville,F,-131.0,346.0,Norte-Nordeste
+1608,Joinville,G,-86.0,370.0,Norte-Nordeste
+1609,Joinville,H,73.0,51.0,Norte-Nordeste
+1610,Joinville,I,38.0,101.0,Norte-Nordeste
+1611,Joinville,J,-3.0,60.0,Norte-Nordeste
+1612,Joinville,K,2.0,14.0,Norte-Nordeste
+1613,Joinville,L,-8.0,7.0,Norte-Nordeste
+1614,Joinville,M,0.0,52.0,Norte-Nordeste
+1615,Joinville,N,-1031.0,604.0,Norte-Nordeste
+1616,Joinville,P,-212.0,259.0,Norte-Nordeste
+1617,Joinville,Q,31.0,83.0,Norte-Nordeste
+1618,Joinville,R,7.0,28.0,Norte-Nordeste
+1619,Joinville,S,-9.0,5.0,Norte-Nordeste
+1620,José Boiteux,C,-25.0,21.0,Alto Vale do Itajaí
+1621,José Boiteux,G,-2.0,-2.0,Alto Vale do Itajaí
+1622,José Boiteux,H,,-1.0,Alto Vale do Itajaí
+1623,José Boiteux,N,6.0,8.0,Alto Vale do Itajaí
+1624,José Boiteux,Q,,1.0,Alto Vale do Itajaí
+1625,Jupiá,C,3.0,0.0,Oeste
+1626,Jupiá,G,0.0,1.0,Oeste
+1627,Jupiá,H,1.0,-1.0,Oeste
+1628,Jupiá,N,-1.0,3.0,Oeste
+1629,Lacerdópolis,A,3.0,1.0,Centro-Oeste
+1630,Lacerdópolis,C,4.0,6.0,Centro-Oeste
+1631,Lacerdópolis,F,4.0,17.0,Centro-Oeste
+1632,Lacerdópolis,G,-1.0,-1.0,Centro-Oeste
+1633,Lacerdópolis,H,0.0,2.0,Centro-Oeste
+1634,Lages,A,4.0,106.0,Serra Catarinense
+1635,Lages,B,-3.0,,Serra Catarinense
+1636,Lages,C,-168.0,196.0,Serra Catarinense
+1637,Lages,D,0.0,0.0,Serra Catarinense
+1638,Lages,E,-12.0,-2.0,Serra Catarinense
+1639,Lages,F,-40.0,55.0,Serra Catarinense
+1640,Lages,G,97.0,30.0,Serra Catarinense
+1641,Lages,H,29.0,-13.0,Serra Catarinense
+1642,Lages,I,-9.0,23.0,Serra Catarinense
+1643,Lages,J,-1.0,-15.0,Serra Catarinense
+1644,Lages,K,-4.0,-2.0,Serra Catarinense
+1645,Lages,L,-2.0,4.0,Serra Catarinense
+1646,Lages,M,7.0,20.0,Serra Catarinense
+1647,Lages,N,39.0,-152.0,Serra Catarinense
+1648,Lages,P,-31.0,79.0,Serra Catarinense
+1649,Lages,Q,43.0,1.0,Serra Catarinense
+1650,Lages,R,-12.0,5.0,Serra Catarinense
+1651,Lages,S,-7.0,11.0,Serra Catarinense
+1652,Laguna,A,-8.0,1.0,Litoral Sul
+1653,Laguna,C,-22.0,34.0,Litoral Sul
+1654,Laguna,E,,1.0,Litoral Sul
+1655,Laguna,F,-1.0,-2.0,Litoral Sul
+1656,Laguna,G,79.0,-80.0,Litoral Sul
+1657,Laguna,H,-8.0,10.0,Litoral Sul
+1658,Laguna,I,42.0,-1.0,Litoral Sul
+1659,Laguna,J,0.0,-1.0,Litoral Sul
+1660,Laguna,K,-2.0,-1.0,Litoral Sul
+1661,Laguna,L,6.0,0.0,Litoral Sul
+1662,Laguna,M,-2.0,-1.0,Litoral Sul
+1663,Laguna,N,-6.0,8.0,Litoral Sul
+1664,Laguna,P,-4.0,4.0,Litoral Sul
+1665,Laguna,Q,-1.0,3.0,Litoral Sul
+1666,Laguna,S,3.0,1.0,Litoral Sul
+1667,Lajeado Grande,C,-1.0,-4.0,Oeste
+1668,Lajeado Grande,G,-2.0,-1.0,Oeste
+1669,Lajeado Grande,H,-2.0,,Oeste
+1670,Laurentino,A,2.0,1.0,Alto Vale do Itajaí
+1671,Laurentino,C,-21.0,26.0,Alto Vale do Itajaí
+1672,Laurentino,F,-2.0,0.0,Alto Vale do Itajaí
+1673,Laurentino,G,-2.0,11.0,Alto Vale do Itajaí
+1674,Laurentino,H,0.0,8.0,Alto Vale do Itajaí
+1675,Laurentino,I,-1.0,,Alto Vale do Itajaí
+1676,Laurentino,M,-1.0,4.0,Alto Vale do Itajaí
+1677,Laurentino,Q,,1.0,Alto Vale do Itajaí
+1678,Laurentino,S,,6.0,Alto Vale do Itajaí
+1679,Lauro Muller,A,-2.0,6.0,Sul
+1680,Lauro Muller,B,-2.0,-4.0,Sul
+1681,Lauro Muller,C,3.0,8.0,Sul
+1682,Lauro Muller,D,,1.0,Sul
+1683,Lauro Muller,F,-3.0,4.0,Sul
+1684,Lauro Muller,G,4.0,6.0,Sul
+1685,Lauro Muller,H,-9.0,4.0,Sul
+1686,Lauro Muller,I,2.0,0.0,Sul
+1687,Lauro Muller,J,,-1.0,Sul
+1688,Lauro Muller,M,0.0,-3.0,Sul
+1689,Lauro Muller,N,1.0,0.0,Sul
+1690,Lauro Muller,Q,,1.0,Sul
+1691,Lauro Muller,R,1.0,,Sul
+1692,Lauro Muller,S,-1.0,0.0,Sul
+1693,Lebon Régis,A,-18.0,-47.0,Centro-Norte
+1694,Lebon Régis,C,-5.0,22.0,Centro-Norte
+1695,Lebon Régis,D,-1.0,,Centro-Norte
+1696,Lebon Régis,F,-1.0,6.0,Centro-Norte
+1697,Lebon Régis,G,-2.0,7.0,Centro-Norte
+1698,Lebon Régis,H,,-1.0,Centro-Norte
+1699,Lebon Régis,I,-1.0,2.0,Centro-Norte
+1700,Lebon Régis,J,,-2.0,Centro-Norte
+1701,Lebon Régis,M,-1.0,2.0,Centro-Norte
+1702,Lebon Régis,N,1.0,,Centro-Norte
+1703,Lebon Régis,S,,2.0,Centro-Norte
+1704,Leoberto Leal,A,,1.0,Vale do Itajaí Mirim
+1705,Leoberto Leal,F,-1.0,,Vale do Itajaí Mirim
+1706,Leoberto Leal,G,4.0,9.0,Vale do Itajaí Mirim
+1707,Leoberto Leal,H,2.0,3.0,Vale do Itajaí Mirim
+1708,Leoberto Leal,I,,-1.0,Vale do Itajaí Mirim
+1709,Leoberto Leal,M,,0.0,Vale do Itajaí Mirim
+1710,Leoberto Leal,S,,-1.0,Vale do Itajaí Mirim
+1711,Lindóia do Sul,C,1.0,2.0,Alto Uruguai Catarinense
+1712,Lindóia do Sul,F,-1.0,0.0,Alto Uruguai Catarinense
+1713,Lindóia do Sul,G,2.0,-4.0,Alto Uruguai Catarinense
+1714,Lindóia do Sul,H,2.0,-2.0,Alto Uruguai Catarinense
+1715,Lindóia do Sul,M,-1.0,,Alto Uruguai Catarinense
+1716,Lindóia do Sul,N,-2.0,,Alto Uruguai Catarinense
+1717,Lindóia do Sul,S,,1.0,Alto Uruguai Catarinense
+1718,Lontras,A,,-1.0,Alto Vale do Itajaí
+1719,Lontras,B,2.0,,Alto Vale do Itajaí
+1720,Lontras,C,-57.0,31.0,Alto Vale do Itajaí
+1721,Lontras,F,-3.0,-22.0,Alto Vale do Itajaí
+1722,Lontras,G,-1.0,13.0,Alto Vale do Itajaí
+1723,Lontras,H,0.0,9.0,Alto Vale do Itajaí
+1724,Lontras,I,1.0,3.0,Alto Vale do Itajaí
+1725,Lontras,K,-1.0,-1.0,Alto Vale do Itajaí
+1726,Lontras,L,,2.0,Alto Vale do Itajaí
+1727,Lontras,M,3.0,0.0,Alto Vale do Itajaí
+1728,Lontras,N,3.0,3.0,Alto Vale do Itajaí
+1729,Lontras,P,-1.0,3.0,Alto Vale do Itajaí
+1730,Lontras,Q,1.0,1.0,Alto Vale do Itajaí
+1731,Luiz Alves,A,1.0,0.0,Foz do Rio Itajaí
+1732,Luiz Alves,C,-161.0,102.0,Foz do Rio Itajaí
+1733,Luiz Alves,F,2.0,0.0,Foz do Rio Itajaí
+1734,Luiz Alves,G,1.0,8.0,Foz do Rio Itajaí
+1735,Luiz Alves,H,0.0,12.0,Foz do Rio Itajaí
+1736,Luiz Alves,I,0.0,5.0,Foz do Rio Itajaí
+1737,Luiz Alves,J,,2.0,Foz do Rio Itajaí
+1738,Luiz Alves,K,-1.0,,Foz do Rio Itajaí
+1739,Luiz Alves,M,-1.0,0.0,Foz do Rio Itajaí
+1740,Luiz Alves,N,-2.0,-3.0,Foz do Rio Itajaí
+1741,Luiz Alves,O,-71.0,85.0,Foz do Rio Itajaí
+1742,Luiz Alves,P,-1.0,-1.0,Foz do Rio Itajaí
+1743,Luiz Alves,Q,-1.0,-2.0,Foz do Rio Itajaí
+1744,Luiz Alves,R,-1.0,3.0,Foz do Rio Itajaí
+1745,Luiz Alves,S,0.0,2.0,Foz do Rio Itajaí
+1746,Luzerna,A,1.0,1.0,Centro-Oeste
+1747,Luzerna,C,-24.0,10.0,Centro-Oeste
+1748,Luzerna,F,1.0,3.0,Centro-Oeste
+1749,Luzerna,G,1.0,-3.0,Centro-Oeste
+1750,Luzerna,H,1.0,-4.0,Centro-Oeste
+1751,Luzerna,I,-1.0,1.0,Centro-Oeste
+1752,Luzerna,J,1.0,-1.0,Centro-Oeste
+1753,Luzerna,K,,-1.0,Centro-Oeste
+1754,Luzerna,N,3.0,2.0,Centro-Oeste
+1755,Luzerna,P,-2.0,0.0,Centro-Oeste
+1756,Luzerna,Q,-2.0,5.0,Centro-Oeste
+1757,Luzerna,S,,-1.0,Centro-Oeste
+1758,Macieira,A,4.0,-3.0,Centro-Norte
+1759,Macieira,C,-2.0,0.0,Centro-Norte
+1760,Macieira,H,,-1.0,Centro-Norte
+1761,Macieira,M,-1.0,,Centro-Norte
+1762,Mafra,A,9.0,-35.0,Planalto Norte
+1763,Mafra,B,-2.0,,Planalto Norte
+1764,Mafra,C,-15.0,161.0,Planalto Norte
+1765,Mafra,D,-1.0,5.0,Planalto Norte
+1766,Mafra,E,0.0,0.0,Planalto Norte
+1767,Mafra,F,-11.0,-4.0,Planalto Norte
+1768,Mafra,G,12.0,-6.0,Planalto Norte
+1769,Mafra,H,-15.0,-2.0,Planalto Norte
+1770,Mafra,I,13.0,13.0,Planalto Norte
+1771,Mafra,J,6.0,2.0,Planalto Norte
+1772,Mafra,K,0.0,7.0,Planalto Norte
+1773,Mafra,L,-1.0,1.0,Planalto Norte
+1774,Mafra,M,2.0,9.0,Planalto Norte
+1775,Mafra,N,-1.0,-5.0,Planalto Norte
+1776,Mafra,O,-116.0,166.0,Planalto Norte
+1777,Mafra,P,-25.0,8.0,Planalto Norte
+1778,Mafra,Q,16.0,-2.0,Planalto Norte
+1779,Mafra,R,-3.0,1.0,Planalto Norte
+1780,Mafra,S,-1.0,3.0,Planalto Norte
+1781,Major Gercino,A,-1.0,3.0,Vale do Itajaí Mirim
+1782,Major Gercino,C,1.0,0.0,Vale do Itajaí Mirim
+1783,Major Gercino,F,-2.0,9.0,Vale do Itajaí Mirim
+1784,Major Gercino,G,-1.0,2.0,Vale do Itajaí Mirim
+1785,Major Gercino,O,,2.0,Vale do Itajaí Mirim
+1786,Major Gercino,Q,,-1.0,Vale do Itajaí Mirim
+1787,Major Gercino,S,,0.0,Vale do Itajaí Mirim
+1788,Major Vieira,A,-5.0,,Centro-Norte
+1789,Major Vieira,C,-9.0,2.0,Centro-Norte
+1790,Major Vieira,G,2.0,2.0,Centro-Norte
+1791,Major Vieira,I,0.0,1.0,Centro-Norte
+1792,Major Vieira,J,1.0,-1.0,Centro-Norte
+1793,Major Vieira,Q,-1.0,,Centro-Norte
+1794,Major Vieira,S,-1.0,1.0,Centro-Norte
+1795,Maracajá,B,1.0,2.0,Sul
+1796,Maracajá,C,-24.0,10.0,Sul
+1797,Maracajá,E,,1.0,Sul
+1798,Maracajá,F,-5.0,1.0,Sul
+1799,Maracajá,G,5.0,7.0,Sul
+1800,Maracajá,H,6.0,8.0,Sul
+1801,Maracajá,I,0.0,3.0,Sul
+1802,Maracajá,M,3.0,1.0,Sul
+1803,Maracajá,N,6.0,5.0,Sul
+1804,Maracajá,P,,1.0,Sul
+1805,Maracajá,Q,1.0,1.0,Sul
+1806,Maracajá,S,,-1.0,Sul
+1807,Maravilha,A,2.0,-1.0,Oeste
+1808,Maravilha,C,-45.0,84.0,Oeste
+1809,Maravilha,E,0.0,6.0,Oeste
+1810,Maravilha,F,-16.0,-15.0,Oeste
+1811,Maravilha,G,-11.0,37.0,Oeste
+1812,Maravilha,H,11.0,7.0,Oeste
+1813,Maravilha,I,2.0,8.0,Oeste
+1814,Maravilha,J,1.0,-4.0,Oeste
+1815,Maravilha,K,1.0,0.0,Oeste
+1816,Maravilha,L,-1.0,,Oeste
+1817,Maravilha,M,-3.0,15.0,Oeste
+1818,Maravilha,N,1.0,4.0,Oeste
+1819,Maravilha,P,-7.0,-2.0,Oeste
+1820,Maravilha,Q,1.0,10.0,Oeste
+1821,Maravilha,R,,2.0,Oeste
+1822,Maravilha,S,-1.0,4.0,Oeste
+1823,Maravilha,T,,2.0,Oeste
+1824,Marema,C,-1.0,1.0,Oeste
+1825,Marema,G,-1.0,0.0,Oeste
+1826,Marema,M,-1.0,,Oeste
+1827,Massaranduba,A,3.0,0.0,Vale do Itapocu
+1828,Massaranduba,C,-57.0,92.0,Vale do Itapocu
+1829,Massaranduba,F,,2.0,Vale do Itapocu
+1830,Massaranduba,G,-26.0,11.0,Vale do Itapocu
+1831,Massaranduba,H,-2.0,-2.0,Vale do Itapocu
+1832,Massaranduba,I,4.0,0.0,Vale do Itapocu
+1833,Massaranduba,J,-5.0,1.0,Vale do Itapocu
+1834,Massaranduba,M,-3.0,-2.0,Vale do Itapocu
+1835,Massaranduba,N,,1.0,Vale do Itapocu
+1836,Massaranduba,P,-1.0,0.0,Vale do Itapocu
+1837,Massaranduba,Q,1.0,-3.0,Vale do Itapocu
+1838,Massaranduba,S,-2.0,-1.0,Vale do Itapocu
+1839,Matos Costa,A,-2.0,-5.0,Centro-Norte
+1840,Matos Costa,C,1.0,3.0,Centro-Norte
+1841,Matos Costa,G,-1.0,0.0,Centro-Norte
+1842,Matos Costa,H,,1.0,Centro-Norte
+1843,Matos Costa,N,,2.0,Centro-Norte
+1844,Meleiro,C,-6.0,2.0,Sul
+1845,Meleiro,F,,2.0,Sul
+1846,Meleiro,G,1.0,0.0,Sul
+1847,Meleiro,H,10.0,-5.0,Sul
+1848,Meleiro,I,1.0,0.0,Sul
+1849,Meleiro,J,0.0,,Sul
+1850,Meleiro,L,,-1.0,Sul
+1851,Meleiro,M,,-2.0,Sul
+1852,Meleiro,N,-2.0,-2.0,Sul
+1853,Meleiro,P,1.0,,Sul
+1854,Meleiro,Q,0.0,,Sul
+1855,Meleiro,R,,1.0,Sul
+1856,Meleiro,S,-1.0,1.0,Sul
+1857,Mirim Doce,A,-2.0,1.0,Alto Vale do Itajaí
+1858,Mirim Doce,C,-8.0,-2.0,Alto Vale do Itajaí
+1859,Mirim Doce,G,1.0,-3.0,Alto Vale do Itajaí
+1860,Mirim Doce,K,1.0,,Alto Vale do Itajaí
+1861,Mirim Doce,O,-4.0,,Alto Vale do Itajaí
+1862,Modelo,A,,-2.0,Oeste
+1863,Modelo,C,-17.0,13.0,Oeste
+1864,Modelo,E,,1.0,Oeste
+1865,Modelo,F,-1.0,-1.0,Oeste
+1866,Modelo,G,-1.0,2.0,Oeste
+1867,Modelo,H,0.0,1.0,Oeste
+1868,Modelo,I,-1.0,,Oeste
+1869,Modelo,M,-2.0,0.0,Oeste
+1870,Modelo,N,-1.0,,Oeste
+1871,Modelo,P,0.0,1.0,Oeste
+1872,Modelo,Q,0.0,1.0,Oeste
+1873,Modelo,S,1.0,,Oeste
+1874,Mondaí,A,2.0,-1.0,Extremo Oeste
+1875,Mondaí,B,,0.0,Extremo Oeste
+1876,Mondaí,C,-64.0,10.0,Extremo Oeste
+1877,Mondaí,F,-3.0,0.0,Extremo Oeste
+1878,Mondaí,G,5.0,3.0,Extremo Oeste
+1879,Mondaí,H,1.0,0.0,Extremo Oeste
+1880,Mondaí,I,-1.0,2.0,Extremo Oeste
+1881,Mondaí,J,,-1.0,Extremo Oeste
+1882,Mondaí,K,1.0,,Extremo Oeste
+1883,Mondaí,M,,2.0,Extremo Oeste
+1884,Mondaí,N,-1.0,,Extremo Oeste
+1885,Mondaí,Q,0.0,3.0,Extremo Oeste
+1886,Mondaí,S,,-2.0,Extremo Oeste
+1887,Monte Carlo,A,-62.0,-139.0,Centro-Oeste
+1888,Monte Carlo,C,-8.0,6.0,Centro-Oeste
+1889,Monte Carlo,F,1.0,3.0,Centro-Oeste
+1890,Monte Carlo,G,-6.0,6.0,Centro-Oeste
+1891,Monte Carlo,H,-4.0,1.0,Centro-Oeste
+1892,Monte Carlo,I,-2.0,,Centro-Oeste
+1893,Monte Carlo,M,2.0,1.0,Centro-Oeste
+1894,Monte Carlo,N,-2.0,6.0,Centro-Oeste
+1895,Monte Carlo,Q,,1.0,Centro-Oeste
+1896,Monte Carlo,S,,3.0,Centro-Oeste
+1897,Monte Castelo,A,-2.0,-10.0,Planalto Norte
+1898,Monte Castelo,C,9.0,1.0,Planalto Norte
+1899,Monte Castelo,F,4.0,-2.0,Planalto Norte
+1900,Monte Castelo,G,-2.0,-9.0,Planalto Norte
+1901,Monte Castelo,H,2.0,-1.0,Planalto Norte
+1902,Monte Castelo,I,0.0,1.0,Planalto Norte
+1903,Monte Castelo,M,-1.0,,Planalto Norte
+1904,Monte Castelo,N,-2.0,-2.0,Planalto Norte
+1905,Monte Castelo,Q,-1.0,,Planalto Norte
+1906,Monte Castelo,S,,2.0,Planalto Norte
+1907,Morro da Fumaça,B,3.0,6.0,Sul
+1908,Morro da Fumaça,C,-35.0,78.0,Sul
+1909,Morro da Fumaça,D,-1.0,0.0,Sul
+1910,Morro da Fumaça,F,3.0,0.0,Sul
+1911,Morro da Fumaça,G,16.0,28.0,Sul
+1912,Morro da Fumaça,H,-1.0,9.0,Sul
+1913,Morro da Fumaça,I,0.0,5.0,Sul
+1914,Morro da Fumaça,K,,1.0,Sul
+1915,Morro da Fumaça,L,1.0,2.0,Sul
+1916,Morro da Fumaça,M,-1.0,1.0,Sul
+1917,Morro da Fumaça,N,4.0,0.0,Sul
+1918,Morro da Fumaça,P,-17.0,18.0,Sul
+1919,Morro da Fumaça,Q,4.0,2.0,Sul
+1920,Morro da Fumaça,R,-1.0,5.0,Sul
+1921,Morro da Fumaça,S,-2.0,-3.0,Sul
+1922,Morro Grande,C,2.0,5.0,Sul
+1923,Morro Grande,G,0.0,-4.0,Sul
+1924,Morro Grande,H,0.0,-1.0,Sul
+1925,Navegantes,A,2.0,1.0,Foz do Rio Itajaí
+1926,Navegantes,B,-1.0,1.0,Foz do Rio Itajaí
+1927,Navegantes,C,-144.0,-73.0,Foz do Rio Itajaí
+1928,Navegantes,E,7.0,-4.0,Foz do Rio Itajaí
+1929,Navegantes,F,-20.0,27.0,Foz do Rio Itajaí
+1930,Navegantes,G,120.0,15.0,Foz do Rio Itajaí
+1931,Navegantes,H,-19.0,12.0,Foz do Rio Itajaí
+1932,Navegantes,I,21.0,20.0,Foz do Rio Itajaí
+1933,Navegantes,J,4.0,-2.0,Foz do Rio Itajaí
+1934,Navegantes,K,0.0,5.0,Foz do Rio Itajaí
+1935,Navegantes,L,0.0,4.0,Foz do Rio Itajaí
+1936,Navegantes,M,9.0,8.0,Foz do Rio Itajaí
+1937,Navegantes,N,54.0,16.0,Foz do Rio Itajaí
+1938,Navegantes,P,-3.0,10.0,Foz do Rio Itajaí
+1939,Navegantes,Q,6.0,8.0,Foz do Rio Itajaí
+1940,Navegantes,R,-1.0,2.0,Foz do Rio Itajaí
+1941,Navegantes,S,2.0,8.0,Foz do Rio Itajaí
+1942,Nova Erechim,A,0.0,3.0,Oeste
+1943,Nova Erechim,C,-17.0,26.0,Oeste
+1944,Nova Erechim,F,-2.0,-6.0,Oeste
+1945,Nova Erechim,G,1.0,1.0,Oeste
+1946,Nova Erechim,H,1.0,0.0,Oeste
+1947,Nova Erechim,I,-2.0,0.0,Oeste
+1948,Nova Erechim,L,,1.0,Oeste
+1949,Nova Erechim,Q,2.0,3.0,Oeste
+1950,Nova Erechim,R,,1.0,Oeste
+1951,Nova Erechim,S,,1.0,Oeste
+1952,Nova Itaberaba,C,-1.0,9.0,Oeste
+1953,Nova Itaberaba,F,-10.0,-2.0,Oeste
+1954,Nova Itaberaba,G,1.0,0.0,Oeste
+1955,Nova Itaberaba,H,1.0,,Oeste
+1956,Nova Itaberaba,I,,1.0,Oeste
+1957,Nova Itaberaba,M,,0.0,Oeste
+1958,Nova Itaberaba,Q,,1.0,Oeste
+1959,Nova Trento,A,,1.0,Vale do Itajaí Mirim
+1960,Nova Trento,C,-63.0,93.0,Vale do Itajaí Mirim
+1961,Nova Trento,E,4.0,5.0,Vale do Itajaí Mirim
+1962,Nova Trento,F,-83.0,130.0,Vale do Itajaí Mirim
+1963,Nova Trento,G,-7.0,19.0,Vale do Itajaí Mirim
+1964,Nova Trento,H,-2.0,0.0,Vale do Itajaí Mirim
+1965,Nova Trento,I,2.0,0.0,Vale do Itajaí Mirim
+1966,Nova Trento,J,-4.0,,Vale do Itajaí Mirim
+1967,Nova Trento,K,-2.0,-1.0,Vale do Itajaí Mirim
+1968,Nova Trento,M,,3.0,Vale do Itajaí Mirim
+1969,Nova Trento,N,1.0,,Vale do Itajaí Mirim
+1970,Nova Trento,P,-3.0,1.0,Vale do Itajaí Mirim
+1971,Nova Trento,Q,-2.0,-1.0,Vale do Itajaí Mirim
+1972,Nova Trento,R,-1.0,1.0,Vale do Itajaí Mirim
+1973,Nova Trento,S,-2.0,3.0,Vale do Itajaí Mirim
+1974,Nova Veneza,A,-1.0,,Sul
+1975,Nova Veneza,B,1.0,-4.0,Sul
+1976,Nova Veneza,C,-32.0,101.0,Sul
+1977,Nova Veneza,F,0.0,-3.0,Sul
+1978,Nova Veneza,G,-1.0,9.0,Sul
+1979,Nova Veneza,H,-1.0,1.0,Sul
+1980,Nova Veneza,I,-1.0,9.0,Sul
+1981,Nova Veneza,J,1.0,2.0,Sul
+1982,Nova Veneza,M,7.0,,Sul
+1983,Nova Veneza,N,0.0,11.0,Sul
+1984,Nova Veneza,P,,1.0,Sul
+1985,Nova Veneza,Q,-9.0,0.0,Sul
+1986,Nova Veneza,S,-1.0,5.0,Sul
+1987,Novo Horizonte,C,-1.0,3.0,Oeste
+1988,Novo Horizonte,G,0.0,1.0,Oeste
+1989,Novo Horizonte,J,,1.0,Oeste
+1990,Orleans,A,-1.0,,Sul
+1991,Orleans,B,-2.0,1.0,Sul
+1992,Orleans,C,-23.0,54.0,Sul
+1993,Orleans,E,2.0,3.0,Sul
+1994,Orleans,F,9.0,7.0,Sul
+1995,Orleans,G,3.0,8.0,Sul
+1996,Orleans,H,6.0,0.0,Sul
+1997,Orleans,I,-6.0,2.0,Sul
+1998,Orleans,J,1.0,3.0,Sul
+1999,Orleans,M,0.0,3.0,Sul
+2000,Orleans,N,1.0,3.0,Sul
+2001,Orleans,P,-19.0,9.0,Sul
+2002,Orleans,Q,0.0,10.0,Sul
+2003,Orleans,R,5.0,1.0,Sul
+2004,Orleans,S,1.0,1.0,Sul
+2005,Otacílio Costa,A,-4.0,2.0,Serra Catarinense
+2006,Otacílio Costa,C,-65.0,90.0,Serra Catarinense
+2007,Otacílio Costa,E,2.0,1.0,Serra Catarinense
+2008,Otacílio Costa,F,-10.0,-2.0,Serra Catarinense
+2009,Otacílio Costa,G,-6.0,13.0,Serra Catarinense
+2010,Otacílio Costa,H,-8.0,0.0,Serra Catarinense
+2011,Otacílio Costa,I,0.0,4.0,Serra Catarinense
+2012,Otacílio Costa,J,,-1.0,Serra Catarinense
+2013,Otacílio Costa,L,,1.0,Serra Catarinense
+2014,Otacílio Costa,M,0.0,1.0,Serra Catarinense
+2015,Otacílio Costa,N,7.0,1.0,Serra Catarinense
+2016,Otacílio Costa,P,0.0,-1.0,Serra Catarinense
+2017,Otacílio Costa,Q,-3.0,7.0,Serra Catarinense
+2018,Otacílio Costa,R,1.0,-1.0,Serra Catarinense
+2019,Otacílio Costa,S,-1.0,,Serra Catarinense
+2020,Ouro,C,-3.0,3.0,Centro-Oeste
+2021,Ouro,F,-2.0,2.0,Centro-Oeste
+2022,Ouro,G,2.0,20.0,Centro-Oeste
+2023,Ouro,H,-1.0,4.0,Centro-Oeste
+2024,Ouro,I,-1.0,-3.0,Centro-Oeste
+2025,Ouro,K,0.0,0.0,Centro-Oeste
+2026,Ouro,N,2.0,,Centro-Oeste
+2027,Ouro,O,-41.0,48.0,Centro-Oeste
+2028,Ouro,P,,-1.0,Centro-Oeste
+2029,Ouro,R,1.0,,Centro-Oeste
+2030,Ouro,S,,1.0,Centro-Oeste
+2031,Ouro Verde,A,3.0,-3.0,Oeste
+2032,Ouro Verde,G,1.0,-1.0,Oeste
+2033,Ouro Verde,N,-1.0,,Oeste
+2034,Paial,C,1.0,5.0,Alto Uruguai Catarinense
+2035,Paial,F,1.0,-1.0,Alto Uruguai Catarinense
+2036,Paial,G,-3.0,3.0,Alto Uruguai Catarinense
+2037,Paial,N,1.0,,Alto Uruguai Catarinense
+2038,Paial,S,,1.0,Alto Uruguai Catarinense
+2039,Painel,A,-1.0,-17.0,Serra Catarinense
+2040,Painel,G,,-1.0,Serra Catarinense
+2041,Painel,I,,1.0,Serra Catarinense
+2042,Palhoça,A,,-1.0,Sudeste
+2043,Palhoça,B,-7.0,12.0,Sudeste
+2044,Palhoça,C,-7.0,159.0,Sudeste
+2045,Palhoça,E,-5.0,-1.0,Sudeste
+2046,Palhoça,F,-137.0,106.0,Sudeste
+2047,Palhoça,G,305.0,-9.0,Sudeste
+2048,Palhoça,H,-37.0,68.0,Sudeste
+2049,Palhoça,I,86.0,29.0,Sudeste
+2050,Palhoça,J,1.0,1.0,Sudeste
+2051,Palhoça,K,7.0,9.0,Sudeste
+2052,Palhoça,L,5.0,2.0,Sudeste
+2053,Palhoça,M,-11.0,9.0,Sudeste
+2054,Palhoça,N,122.0,140.0,Sudeste
+2055,Palhoça,P,-34.0,115.0,Sudeste
+2056,Palhoça,Q,0.0,8.0,Sudeste
+2057,Palhoça,R,-13.0,6.0,Sudeste
+2058,Palhoça,S,0.0,13.0,Sudeste
+2059,Palma Sola,A,3.0,0.0,Extremo Oeste
+2060,Palma Sola,B,1.0,,Extremo Oeste
+2061,Palma Sola,C,-24.0,6.0,Extremo Oeste
+2062,Palma Sola,D,0.0,-1.0,Extremo Oeste
+2063,Palma Sola,G,0.0,0.0,Extremo Oeste
+2064,Palma Sola,H,-1.0,0.0,Extremo Oeste
+2065,Palma Sola,I,-1.0,-1.0,Extremo Oeste
+2066,Palma Sola,J,,1.0,Extremo Oeste
+2067,Palma Sola,K,1.0,,Extremo Oeste
+2068,Palma Sola,M,-1.0,,Extremo Oeste
+2069,Palma Sola,N,3.0,,Extremo Oeste
+2070,Palma Sola,Q,-1.0,0.0,Extremo Oeste
+2071,Palma Sola,S,,1.0,Extremo Oeste
+2072,Palmeira,B,0.0,,Serra Catarinense
+2073,Palmeira,C,-5.0,-3.0,Serra Catarinense
+2074,Palmeira,G,5.0,7.0,Serra Catarinense
+2075,Palmeira,H,-1.0,3.0,Serra Catarinense
+2076,Palmeira,I,,1.0,Serra Catarinense
+2077,Palmitos,C,-16.0,3.0,Oeste
+2078,Palmitos,E,1.0,,Oeste
+2079,Palmitos,F,-6.0,-1.0,Oeste
+2080,Palmitos,G,6.0,16.0,Oeste
+2081,Palmitos,H,6.0,31.0,Oeste
+2082,Palmitos,I,0.0,2.0,Oeste
+2083,Palmitos,J,-18.0,0.0,Oeste
+2084,Palmitos,K,3.0,1.0,Oeste
+2085,Palmitos,M,-1.0,2.0,Oeste
+2086,Palmitos,N,2.0,0.0,Oeste
+2087,Palmitos,O,,-1.0,Oeste
+2088,Palmitos,P,-2.0,0.0,Oeste
+2089,Palmitos,Q,1.0,0.0,Oeste
+2090,Palmitos,S,0.0,2.0,Oeste
+2091,Papanduva,A,4.0,0.0,Planalto Norte
+2092,Papanduva,B,-1.0,1.0,Planalto Norte
+2093,Papanduva,C,-23.0,4.0,Planalto Norte
+2094,Papanduva,E,-9.0,-1.0,Planalto Norte
+2095,Papanduva,F,3.0,-9.0,Planalto Norte
+2096,Papanduva,G,15.0,8.0,Planalto Norte
+2097,Papanduva,H,-4.0,4.0,Planalto Norte
+2098,Papanduva,I,3.0,-4.0,Planalto Norte
+2099,Papanduva,J,-1.0,,Planalto Norte
+2100,Papanduva,K,1.0,8.0,Planalto Norte
+2101,Papanduva,M,-1.0,0.0,Planalto Norte
+2102,Papanduva,N,1.0,2.0,Planalto Norte
+2103,Papanduva,O,,1.0,Planalto Norte
+2104,Papanduva,P,,2.0,Planalto Norte
+2105,Papanduva,Q,3.0,-2.0,Planalto Norte
+2106,Papanduva,S,-8.0,-4.0,Planalto Norte
+2107,Paraíso,A,,1.0,Extremo Oeste
+2108,Paraíso,C,4.0,5.0,Extremo Oeste
+2109,Paraíso,D,,1.0,Extremo Oeste
+2110,Paraíso,F,,1.0,Extremo Oeste
+2111,Paraíso,G,0.0,10.0,Extremo Oeste
+2112,Paraíso,H,-1.0,-1.0,Extremo Oeste
+2113,Paraíso,M,-1.0,-1.0,Extremo Oeste
+2114,Passo de Torres,C,6.0,-2.0,Sul
+2115,Passo de Torres,E,1.0,,Sul
+2116,Passo de Torres,F,5.0,6.0,Sul
+2117,Passo de Torres,G,38.0,7.0,Sul
+2118,Passo de Torres,H,2.0,-1.0,Sul
+2119,Passo de Torres,I,2.0,4.0,Sul
+2120,Passo de Torres,K,,1.0,Sul
+2121,Passo de Torres,L,,1.0,Sul
+2122,Passo de Torres,M,-2.0,2.0,Sul
+2123,Passo de Torres,N,7.0,1.0,Sul
+2124,Passo de Torres,P,,1.0,Sul
+2125,Passo de Torres,Q,,0.0,Sul
+2126,Passo de Torres,R,,-1.0,Sul
+2127,Passo de Torres,S,-1.0,0.0,Sul
+2128,Passos Maia,A,-1.0,-2.0,Oeste
+2129,Passos Maia,C,0.0,-8.0,Oeste
+2130,Passos Maia,F,-1.0,,Oeste
+2131,Passos Maia,G,-7.0,-5.0,Oeste
+2132,Passos Maia,J,-1.0,,Oeste
+2133,Passos Maia,K,-4.0,2.0,Oeste
+2134,Passos Maia,M,,1.0,Oeste
+2135,Paulo Lopes,B,-1.0,2.0,Sudeste
+2136,Paulo Lopes,C,7.0,0.0,Sudeste
+2137,Paulo Lopes,D,-2.0,1.0,Sudeste
+2138,Paulo Lopes,F,-5.0,4.0,Sudeste
+2139,Paulo Lopes,G,12.0,-3.0,Sudeste
+2140,Paulo Lopes,H,1.0,4.0,Sudeste
+2141,Paulo Lopes,I,7.0,4.0,Sudeste
+2142,Paulo Lopes,J,4.0,4.0,Sudeste
+2143,Paulo Lopes,K,,0.0,Sudeste
+2144,Paulo Lopes,M,-1.0,1.0,Sudeste
+2145,Paulo Lopes,N,1.0,12.0,Sudeste
+2146,Pedras Grandes,A,-2.0,2.0,Litoral Sul
+2147,Pedras Grandes,B,1.0,1.0,Litoral Sul
+2148,Pedras Grandes,C,-1.0,-10.0,Litoral Sul
+2149,Pedras Grandes,E,2.0,2.0,Litoral Sul
+2150,Pedras Grandes,F,,-3.0,Litoral Sul
+2151,Pedras Grandes,G,3.0,3.0,Litoral Sul
+2152,Pedras Grandes,H,0.0,1.0,Litoral Sul
+2153,Pedras Grandes,I,,1.0,Litoral Sul
+2154,Pedras Grandes,K,-1.0,,Litoral Sul
+2155,Penha,C,-24.0,30.0,Foz do Rio Itajaí
+2156,Penha,E,9.0,-4.0,Foz do Rio Itajaí
+2157,Penha,F,-8.0,24.0,Foz do Rio Itajaí
+2158,Penha,G,35.0,-1.0,Foz do Rio Itajaí
+2159,Penha,H,3.0,29.0,Foz do Rio Itajaí
+2160,Penha,I,77.0,16.0,Foz do Rio Itajaí
+2161,Penha,K,,-1.0,Foz do Rio Itajaí
+2162,Penha,L,-3.0,1.0,Foz do Rio Itajaí
+2163,Penha,M,3.0,1.0,Foz do Rio Itajaí
+2164,Penha,N,17.0,3.0,Foz do Rio Itajaí
+2165,Penha,P,,0.0,Foz do Rio Itajaí
+2166,Penha,Q,2.0,0.0,Foz do Rio Itajaí
+2167,Penha,R,3.0,0.0,Foz do Rio Itajaí
+2168,Penha,S,-1.0,-2.0,Foz do Rio Itajaí
+2169,Peritiba,C,0.0,5.0,Alto Uruguai Catarinense
+2170,Peritiba,F,,-1.0,Alto Uruguai Catarinense
+2171,Peritiba,G,-3.0,-5.0,Alto Uruguai Catarinense
+2172,Peritiba,H,-1.0,3.0,Alto Uruguai Catarinense
+2173,Peritiba,J,-1.0,2.0,Alto Uruguai Catarinense
+2174,Peritiba,M,0.0,1.0,Alto Uruguai Catarinense
+2175,Peritiba,N,0.0,,Alto Uruguai Catarinense
+2176,Pescaria Brava,C,1.0,-2.0,Litoral Sul
+2177,Pescaria Brava,E,0.0,0.0,Litoral Sul
+2178,Pescaria Brava,F,-1.0,1.0,Litoral Sul
+2179,Pescaria Brava,G,6.0,12.0,Litoral Sul
+2180,Pescaria Brava,H,-2.0,4.0,Litoral Sul
+2181,Pescaria Brava,I,-1.0,,Litoral Sul
+2182,Pescaria Brava,L,,-1.0,Litoral Sul
+2183,Pescaria Brava,M,,-1.0,Litoral Sul
+2184,Pescaria Brava,N,1.0,0.0,Litoral Sul
+2185,Pescaria Brava,P,1.0,-1.0,Litoral Sul
+2186,Petrolândia,A,1.0,2.0,Alto Vale do Itajaí
+2187,Petrolândia,C,0.0,17.0,Alto Vale do Itajaí
+2188,Petrolândia,E,0.0,2.0,Alto Vale do Itajaí
+2189,Petrolândia,F,,4.0,Alto Vale do Itajaí
+2190,Petrolândia,G,0.0,-5.0,Alto Vale do Itajaí
+2191,Petrolândia,H,0.0,2.0,Alto Vale do Itajaí
+2192,Petrolândia,I,-1.0,1.0,Alto Vale do Itajaí
+2193,Petrolândia,Q,-1.0,-1.0,Alto Vale do Itajaí
+2194,Pinhalzinho,A,1.0,0.0,Oeste
+2195,Pinhalzinho,B,,-2.0,Oeste
+2196,Pinhalzinho,C,-85.0,59.0,Oeste
+2197,Pinhalzinho,F,-4.0,0.0,Oeste
+2198,Pinhalzinho,G,11.0,9.0,Oeste
+2199,Pinhalzinho,H,11.0,15.0,Oeste
+2200,Pinhalzinho,I,-1.0,6.0,Oeste
+2201,Pinhalzinho,J,-2.0,2.0,Oeste
+2202,Pinhalzinho,K,-2.0,3.0,Oeste
+2203,Pinhalzinho,L,1.0,1.0,Oeste
+2204,Pinhalzinho,M,-1.0,7.0,Oeste
+2205,Pinhalzinho,N,-3.0,2.0,Oeste
+2206,Pinhalzinho,P,-15.0,11.0,Oeste
+2207,Pinhalzinho,Q,-1.0,-2.0,Oeste
+2208,Pinhalzinho,R,3.0,0.0,Oeste
+2209,Pinhalzinho,S,0.0,1.0,Oeste
+2210,Pinheiro Preto,A,-1.0,-1.0,Centro-Norte
+2211,Pinheiro Preto,C,-31.0,-6.0,Centro-Norte
+2212,Pinheiro Preto,F,,-1.0,Centro-Norte
+2213,Pinheiro Preto,G,1.0,0.0,Centro-Norte
+2214,Pinheiro Preto,H,-2.0,13.0,Centro-Norte
+2215,Pinheiro Preto,K,-1.0,2.0,Centro-Norte
+2216,Pinheiro Preto,N,,5.0,Centro-Norte
+2217,Piratuba,C,3.0,1.0,Alto Uruguai Catarinense
+2218,Piratuba,E,3.0,,Alto Uruguai Catarinense
+2219,Piratuba,F,0.0,-1.0,Alto Uruguai Catarinense
+2220,Piratuba,G,7.0,3.0,Alto Uruguai Catarinense
+2221,Piratuba,H,2.0,-1.0,Alto Uruguai Catarinense
+2222,Piratuba,I,14.0,-9.0,Alto Uruguai Catarinense
+2223,Piratuba,J,1.0,,Alto Uruguai Catarinense
+2224,Piratuba,M,3.0,2.0,Alto Uruguai Catarinense
+2225,Piratuba,Q,,-1.0,Alto Uruguai Catarinense
+2226,Piratuba,S,-1.0,-1.0,Alto Uruguai Catarinense
+2227,Planalto Alegre,A,2.0,,Oeste
+2228,Planalto Alegre,C,-5.0,11.0,Oeste
+2229,Planalto Alegre,F,-4.0,-1.0,Oeste
+2230,Planalto Alegre,G,-1.0,1.0,Oeste
+2231,Planalto Alegre,H,0.0,-1.0,Oeste
+2232,Planalto Alegre,M,1.0,,Oeste
+2233,Planalto Alegre,N,0.0,,Oeste
+2234,Planalto Alegre,Q,,1.0,Oeste
+2235,Pomerode,A,,1.0,Vale do Itajaí
+2236,Pomerode,B,-1.0,2.0,Vale do Itajaí
+2237,Pomerode,C,-224.0,183.0,Vale do Itajaí
+2238,Pomerode,E,,-1.0,Vale do Itajaí
+2239,Pomerode,F,-7.0,2.0,Vale do Itajaí
+2240,Pomerode,G,-4.0,32.0,Vale do Itajaí
+2241,Pomerode,H,3.0,7.0,Vale do Itajaí
+2242,Pomerode,I,9.0,12.0,Vale do Itajaí
+2243,Pomerode,J,,4.0,Vale do Itajaí
+2244,Pomerode,K,,1.0,Vale do Itajaí
+2245,Pomerode,M,-2.0,2.0,Vale do Itajaí
+2246,Pomerode,N,0.0,3.0,Vale do Itajaí
+2247,Pomerode,P,-2.0,2.0,Vale do Itajaí
+2248,Pomerode,Q,-4.0,3.0,Vale do Itajaí
+2249,Pomerode,R,,-1.0,Vale do Itajaí
+2250,Pomerode,S,-1.0,1.0,Vale do Itajaí
+2251,Ponte Alta,A,1.0,-2.0,Serra Catarinense
+2252,Ponte Alta,B,-1.0,0.0,Serra Catarinense
+2253,Ponte Alta,C,10.0,-1.0,Serra Catarinense
+2254,Ponte Alta,G,2.0,7.0,Serra Catarinense
+2255,Ponte Alta,H,,1.0,Serra Catarinense
+2256,Ponte Alta,I,-1.0,1.0,Serra Catarinense
+2257,Ponte Alta,N,,1.0,Serra Catarinense
+2258,Ponte Alta,P,,0.0,Serra Catarinense
+2259,Ponte Alta,S,,1.0,Serra Catarinense
+2260,Ponte Alta do Norte,A,2.0,-2.0,Centro-Norte
+2261,Ponte Alta do Norte,C,-3.0,16.0,Centro-Norte
+2262,Ponte Alta do Norte,G,-1.0,-1.0,Centro-Norte
+2263,Ponte Alta do Norte,H,-1.0,1.0,Centro-Norte
+2264,Ponte Alta do Norte,I,-1.0,,Centro-Norte
+2265,Ponte Alta do Norte,Q,-1.0,,Centro-Norte
+2266,Ponte Serrada,A,4.0,12.0,Oeste
+2267,Ponte Serrada,C,-1.0,0.0,Oeste
+2268,Ponte Serrada,D,,1.0,Oeste
+2269,Ponte Serrada,F,-2.0,-1.0,Oeste
+2270,Ponte Serrada,G,15.0,10.0,Oeste
+2271,Ponte Serrada,H,8.0,4.0,Oeste
+2272,Ponte Serrada,I,0.0,8.0,Oeste
+2273,Ponte Serrada,J,-2.0,-1.0,Oeste
+2274,Ponte Serrada,M,1.0,3.0,Oeste
+2275,Ponte Serrada,N,,-2.0,Oeste
+2276,Ponte Serrada,Q,3.0,1.0,Oeste
+2277,Ponte Serrada,R,-1.0,,Oeste
+2278,Ponte Serrada,S,1.0,1.0,Oeste
+2279,Porto Belo,A,,18.0,Foz do Rio Itajaí
+2280,Porto Belo,C,-4.0,6.0,Foz do Rio Itajaí
+2281,Porto Belo,E,1.0,4.0,Foz do Rio Itajaí
+2282,Porto Belo,F,-3.0,46.0,Foz do Rio Itajaí
+2283,Porto Belo,G,155.0,-36.0,Foz do Rio Itajaí
+2284,Porto Belo,H,27.0,-14.0,Foz do Rio Itajaí
+2285,Porto Belo,I,52.0,-5.0,Foz do Rio Itajaí
+2286,Porto Belo,J,1.0,2.0,Foz do Rio Itajaí
+2287,Porto Belo,K,1.0,1.0,Foz do Rio Itajaí
+2288,Porto Belo,L,0.0,-2.0,Foz do Rio Itajaí
+2289,Porto Belo,M,,1.0,Foz do Rio Itajaí
+2290,Porto Belo,N,11.0,15.0,Foz do Rio Itajaí
+2291,Porto Belo,P,-16.0,27.0,Foz do Rio Itajaí
+2292,Porto Belo,Q,1.0,1.0,Foz do Rio Itajaí
+2293,Porto Belo,R,4.0,1.0,Foz do Rio Itajaí
+2294,Porto Belo,S,2.0,0.0,Foz do Rio Itajaí
+2295,Porto União,A,-1.0,3.0,Centro-Norte
+2296,Porto União,B,2.0,1.0,Centro-Norte
+2297,Porto União,C,-27.0,62.0,Centro-Norte
+2298,Porto União,F,-12.0,-6.0,Centro-Norte
+2299,Porto União,G,32.0,-12.0,Centro-Norte
+2300,Porto União,H,-2.0,11.0,Centro-Norte
+2301,Porto União,I,3.0,12.0,Centro-Norte
+2302,Porto União,J,1.0,-5.0,Centro-Norte
+2303,Porto União,K,1.0,1.0,Centro-Norte
+2304,Porto União,M,-1.0,-3.0,Centro-Norte
+2305,Porto União,N,32.0,-13.0,Centro-Norte
+2306,Porto União,O,,0.0,Centro-Norte
+2307,Porto União,P,-3.0,10.0,Centro-Norte
+2308,Porto União,Q,-1.0,4.0,Centro-Norte
+2309,Porto União,R,-1.0,1.0,Centro-Norte
+2310,Porto União,S,1.0,-1.0,Centro-Norte
+2311,Pouso Redondo,A,2.0,-2.0,Alto Vale do Itajaí
+2312,Pouso Redondo,B,,1.0,Alto Vale do Itajaí
+2313,Pouso Redondo,C,-66.0,53.0,Alto Vale do Itajaí
+2314,Pouso Redondo,F,-11.0,-2.0,Alto Vale do Itajaí
+2315,Pouso Redondo,G,5.0,16.0,Alto Vale do Itajaí
+2316,Pouso Redondo,H,-8.0,1.0,Alto Vale do Itajaí
+2317,Pouso Redondo,I,1.0,2.0,Alto Vale do Itajaí
+2318,Pouso Redondo,J,1.0,,Alto Vale do Itajaí
+2319,Pouso Redondo,K,,2.0,Alto Vale do Itajaí
+2320,Pouso Redondo,M,-2.0,1.0,Alto Vale do Itajaí
+2321,Pouso Redondo,N,,3.0,Alto Vale do Itajaí
+2322,Pouso Redondo,P,-2.0,,Alto Vale do Itajaí
+2323,Pouso Redondo,Q,2.0,-3.0,Alto Vale do Itajaí
+2324,Pouso Redondo,S,-1.0,1.0,Alto Vale do Itajaí
+2325,Praia Grande,C,11.0,23.0,Sul
+2326,Praia Grande,D,-3.0,-1.0,Sul
+2327,Praia Grande,F,,-1.0,Sul
+2328,Praia Grande,G,12.0,11.0,Sul
+2329,Praia Grande,H,,1.0,Sul
+2330,Praia Grande,I,4.0,2.0,Sul
+2331,Praia Grande,J,,1.0,Sul
+2332,Praia Grande,N,-1.0,-1.0,Sul
+2333,Praia Grande,P,,1.0,Sul
+2334,Praia Grande,Q,0.0,3.0,Sul
+2335,Praia Grande,S,,2.0,Sul
+2336,Presidente Castello Branco,A,,-3.0,Alto Uruguai Catarinense
+2337,Presidente Castello Branco,G,-2.0,0.0,Alto Uruguai Catarinense
+2338,Presidente Castello Branco,H,-3.0,2.0,Alto Uruguai Catarinense
+2339,Presidente Castello Branco,I,,2.0,Alto Uruguai Catarinense
+2340,Presidente Castello Branco,N,3.0,1.0,Alto Uruguai Catarinense
+2341,Presidente Getúlio,A,-1.0,,Alto Vale do Itajaí
+2342,Presidente Getúlio,C,-131.0,95.0,Alto Vale do Itajaí
+2343,Presidente Getúlio,F,-1.0,3.0,Alto Vale do Itajaí
+2344,Presidente Getúlio,G,-7.0,13.0,Alto Vale do Itajaí
+2345,Presidente Getúlio,H,-3.0,-3.0,Alto Vale do Itajaí
+2346,Presidente Getúlio,I,-8.0,7.0,Alto Vale do Itajaí
+2347,Presidente Getúlio,J,-3.0,0.0,Alto Vale do Itajaí
+2348,Presidente Getúlio,K,1.0,-2.0,Alto Vale do Itajaí
+2349,Presidente Getúlio,L,-2.0,1.0,Alto Vale do Itajaí
+2350,Presidente Getúlio,M,-4.0,0.0,Alto Vale do Itajaí
+2351,Presidente Getúlio,N,-1.0,2.0,Alto Vale do Itajaí
+2352,Presidente Getúlio,P,4.0,-3.0,Alto Vale do Itajaí
+2353,Presidente Getúlio,Q,,2.0,Alto Vale do Itajaí
+2354,Presidente Getúlio,R,-1.0,,Alto Vale do Itajaí
+2355,Presidente Getúlio,S,-1.0,-2.0,Alto Vale do Itajaí
+2356,Presidente Nereu,A,-2.0,,Vale do Itajaí Mirim
+2357,Presidente Nereu,C,-5.0,1.0,Vale do Itajaí Mirim
+2358,Presidente Nereu,G,0.0,,Vale do Itajaí Mirim
+2359,Princesa,A,,0.0,Extremo Oeste
+2360,Princesa,C,-15.0,10.0,Extremo Oeste
+2361,Princesa,D,1.0,,Extremo Oeste
+2362,Princesa,G,2.0,0.0,Extremo Oeste
+2363,Princesa,H,0.0,1.0,Extremo Oeste
+2364,Princesa,J,,1.0,Extremo Oeste
+2365,Princesa,S,,1.0,Extremo Oeste
+2366,Quilombo,A,0.0,-3.0,Oeste
+2367,Quilombo,C,16.0,5.0,Oeste
+2368,Quilombo,F,0.0,-4.0,Oeste
+2369,Quilombo,G,1.0,2.0,Oeste
+2370,Quilombo,H,4.0,5.0,Oeste
+2371,Quilombo,I,-2.0,,Oeste
+2372,Quilombo,J,,-1.0,Oeste
+2373,Quilombo,K,0.0,,Oeste
+2374,Quilombo,L,,0.0,Oeste
+2375,Quilombo,M,-1.0,3.0,Oeste
+2376,Quilombo,N,-1.0,-2.0,Oeste
+2377,Quilombo,Q,2.0,5.0,Oeste
+2378,Quilombo,S,1.0,1.0,Oeste
+2379,Rancho Queimado,C,-1.0,-1.0,Sudeste
+2380,Rancho Queimado,F,,1.0,Sudeste
+2381,Rancho Queimado,G,-1.0,2.0,Sudeste
+2382,Rancho Queimado,H,0.0,0.0,Sudeste
+2383,Rancho Queimado,I,-2.0,1.0,Sudeste
+2384,Rancho Queimado,N,,-1.0,Sudeste
+2385,Rancho Queimado,P,-1.0,1.0,Sudeste
+2386,Rancho Queimado,S,-1.0,,Sudeste
+2387,Rio das Antas,A,-1.0,-2.0,Centro-Norte
+2388,Rio das Antas,C,1.0,9.0,Centro-Norte
+2389,Rio das Antas,E,-2.0,-5.0,Centro-Norte
+2390,Rio das Antas,F,-1.0,-1.0,Centro-Norte
+2391,Rio das Antas,G,-2.0,1.0,Centro-Norte
+2392,Rio das Antas,H,,-1.0,Centro-Norte
+2393,Rio das Antas,I,,1.0,Centro-Norte
+2394,Rio das Antas,K,1.0,,Centro-Norte
+2395,Rio das Antas,Q,,1.0,Centro-Norte
+2396,Rio do Campo,A,-2.0,3.0,Alto Vale do Itajaí
+2397,Rio do Campo,C,-10.0,9.0,Alto Vale do Itajaí
+2398,Rio do Campo,F,-1.0,3.0,Alto Vale do Itajaí
+2399,Rio do Campo,G,-5.0,4.0,Alto Vale do Itajaí
+2400,Rio do Campo,H,,-1.0,Alto Vale do Itajaí
+2401,Rio do Campo,I,0.0,,Alto Vale do Itajaí
+2402,Rio do Campo,N,0.0,-1.0,Alto Vale do Itajaí
+2403,Rio do Campo,O,,0.0,Alto Vale do Itajaí
+2404,Rio do Campo,P,,-1.0,Alto Vale do Itajaí
+2405,Rio do Campo,Q,0.0,,Alto Vale do Itajaí
+2406,Rio do Campo,R,1.0,,Alto Vale do Itajaí
+2407,Rio do Campo,S,1.0,0.0,Alto Vale do Itajaí
+2408,Rio do Oeste,A,-2.0,1.0,Alto Vale do Itajaí
+2409,Rio do Oeste,C,-14.0,29.0,Alto Vale do Itajaí
+2410,Rio do Oeste,E,-6.0,-3.0,Alto Vale do Itajaí
+2411,Rio do Oeste,F,2.0,1.0,Alto Vale do Itajaí
+2412,Rio do Oeste,G,2.0,3.0,Alto Vale do Itajaí
+2413,Rio do Oeste,H,,0.0,Alto Vale do Itajaí
+2414,Rio do Oeste,I,1.0,1.0,Alto Vale do Itajaí
+2415,Rio do Oeste,K,,1.0,Alto Vale do Itajaí
+2416,Rio do Oeste,L,,-1.0,Alto Vale do Itajaí
+2417,Rio do Oeste,M,,0.0,Alto Vale do Itajaí
+2418,Rio do Oeste,N,2.0,8.0,Alto Vale do Itajaí
+2419,Rio do Oeste,Q,0.0,-1.0,Alto Vale do Itajaí
+2420,Rio do Oeste,S,1.0,,Alto Vale do Itajaí
+2421,Rio do Sul,A,,-1.0,Alto Vale do Itajaí
+2422,Rio do Sul,C,-133.0,138.0,Alto Vale do Itajaí
+2423,Rio do Sul,D,-1.0,1.0,Alto Vale do Itajaí
+2424,Rio do Sul,E,,5.0,Alto Vale do Itajaí
+2425,Rio do Sul,F,-19.0,26.0,Alto Vale do Itajaí
+2426,Rio do Sul,G,-29.0,45.0,Alto Vale do Itajaí
+2427,Rio do Sul,H,-5.0,14.0,Alto Vale do Itajaí
+2428,Rio do Sul,I,-23.0,34.0,Alto Vale do Itajaí
+2429,Rio do Sul,J,11.0,26.0,Alto Vale do Itajaí
+2430,Rio do Sul,K,7.0,5.0,Alto Vale do Itajaí
+2431,Rio do Sul,L,,0.0,Alto Vale do Itajaí
+2432,Rio do Sul,M,-19.0,-5.0,Alto Vale do Itajaí
+2433,Rio do Sul,N,8.0,15.0,Alto Vale do Itajaí
+2434,Rio do Sul,O,,1.0,Alto Vale do Itajaí
+2435,Rio do Sul,P,-26.0,99.0,Alto Vale do Itajaí
+2436,Rio do Sul,Q,-3.0,22.0,Alto Vale do Itajaí
+2437,Rio do Sul,R,-4.0,-4.0,Alto Vale do Itajaí
+2438,Rio do Sul,S,-18.0,16.0,Alto Vale do Itajaí
+2439,Rio dos Cedros,A,-1.0,,Vale do Itajaí
+2440,Rio dos Cedros,C,-107.0,25.0,Vale do Itajaí
+2441,Rio dos Cedros,E,,1.0,Vale do Itajaí
+2442,Rio dos Cedros,F,-11.0,-5.0,Vale do Itajaí
+2443,Rio dos Cedros,G,-1.0,1.0,Vale do Itajaí
+2444,Rio dos Cedros,H,-2.0,3.0,Vale do Itajaí
+2445,Rio dos Cedros,I,-1.0,2.0,Vale do Itajaí
+2446,Rio dos Cedros,K,,-1.0,Vale do Itajaí
+2447,Rio dos Cedros,M,4.0,3.0,Vale do Itajaí
+2448,Rio dos Cedros,N,,3.0,Vale do Itajaí
+2449,Rio dos Cedros,Q,2.0,0.0,Vale do Itajaí
+2450,Rio dos Cedros,R,,0.0,Vale do Itajaí
+2451,Rio dos Cedros,S,1.0,4.0,Vale do Itajaí
+2452,Rio Fortuna,C,0.0,1.0,Litoral Sul
+2453,Rio Fortuna,F,-2.0,-1.0,Litoral Sul
+2454,Rio Fortuna,G,-5.0,10.0,Litoral Sul
+2455,Rio Fortuna,H,,1.0,Litoral Sul
+2456,Rio Fortuna,I,,0.0,Litoral Sul
+2457,Rio Fortuna,K,,1.0,Litoral Sul
+2458,Rio Fortuna,M,,-1.0,Litoral Sul
+2459,Rio Fortuna,P,,-1.0,Litoral Sul
+2460,Rio Fortuna,Q,1.0,,Litoral Sul
+2461,Rio Fortuna,S,,1.0,Litoral Sul
+2462,Rio Negrinho,A,-18.0,16.0,Planalto Norte
+2463,Rio Negrinho,C,-117.0,110.0,Planalto Norte
+2464,Rio Negrinho,E,,0.0,Planalto Norte
+2465,Rio Negrinho,F,-5.0,15.0,Planalto Norte
+2466,Rio Negrinho,G,-18.0,8.0,Planalto Norte
+2467,Rio Negrinho,H,2.0,15.0,Planalto Norte
+2468,Rio Negrinho,I,3.0,7.0,Planalto Norte
+2469,Rio Negrinho,J,0.0,3.0,Planalto Norte
+2470,Rio Negrinho,K,-2.0,1.0,Planalto Norte
+2471,Rio Negrinho,L,-2.0,0.0,Planalto Norte
+2472,Rio Negrinho,M,-7.0,1.0,Planalto Norte
+2473,Rio Negrinho,N,-47.0,-1.0,Planalto Norte
+2474,Rio Negrinho,O,-24.0,-22.0,Planalto Norte
+2475,Rio Negrinho,P,-1.0,7.0,Planalto Norte
+2476,Rio Negrinho,Q,-1.0,4.0,Planalto Norte
+2477,Rio Negrinho,S,5.0,1.0,Planalto Norte
+2478,Rio Rufino,C,-2.0,3.0,Serra Catarinense
+2479,Rio Rufino,G,-2.0,-2.0,Serra Catarinense
+2480,Rio Rufino,I,,1.0,Serra Catarinense
+2481,Rio Rufino,J,,-1.0,Serra Catarinense
+2482,Rio Rufino,K,1.0,,Serra Catarinense
+2483,Riqueza,A,-1.0,1.0,Oeste
+2484,Riqueza,C,-12.0,24.0,Oeste
+2485,Riqueza,F,-2.0,,Oeste
+2486,Riqueza,G,7.0,5.0,Oeste
+2487,Riqueza,H,2.0,1.0,Oeste
+2488,Riqueza,I,,2.0,Oeste
+2489,Riqueza,M,-1.0,1.0,Oeste
+2490,Riqueza,N,-1.0,-2.0,Oeste
+2491,Riqueza,P,,-1.0,Oeste
+2492,Riqueza,Q,1.0,0.0,Oeste
+2493,Riqueza,S,,-1.0,Oeste
+2494,Rodeio,A,,-1.0,Vale do Itajaí
+2495,Rodeio,B,,-1.0,Vale do Itajaí
+2496,Rodeio,C,-38.0,33.0,Vale do Itajaí
+2497,Rodeio,E,,2.0,Vale do Itajaí
+2498,Rodeio,F,,3.0,Vale do Itajaí
+2499,Rodeio,G,6.0,-2.0,Vale do Itajaí
+2500,Rodeio,H,-1.0,3.0,Vale do Itajaí
+2501,Rodeio,I,,2.0,Vale do Itajaí
+2502,Rodeio,M,,-1.0,Vale do Itajaí
+2503,Rodeio,N,,-1.0,Vale do Itajaí
+2504,Rodeio,P,-1.0,,Vale do Itajaí
+2505,Rodeio,Q,-1.0,,Vale do Itajaí
+2506,Rodeio,S,-2.0,-2.0,Vale do Itajaí
+2507,Romelândia,A,,-1.0,Oeste
+2508,Romelândia,D,,3.0,Oeste
+2509,Romelândia,F,-1.0,4.0,Oeste
+2510,Romelândia,G,-2.0,0.0,Oeste
+2511,Romelândia,H,0.0,,Oeste
+2512,Romelândia,K,,-1.0,Oeste
+2513,Romelândia,S,,4.0,Oeste
+2514,Salete,A,-1.0,0.0,Alto Vale do Itajaí
+2515,Salete,C,-56.0,26.0,Alto Vale do Itajaí
+2516,Salete,F,,-1.0,Alto Vale do Itajaí
+2517,Salete,G,1.0,6.0,Alto Vale do Itajaí
+2518,Salete,H,-2.0,5.0,Alto Vale do Itajaí
+2519,Salete,I,-2.0,1.0,Alto Vale do Itajaí
+2520,Salete,M,,1.0,Alto Vale do Itajaí
+2521,Salete,N,,2.0,Alto Vale do Itajaí
+2522,Salete,Q,,1.0,Alto Vale do Itajaí
+2523,Salete,R,-1.0,,Alto Vale do Itajaí
+2524,Salete,S,,0.0,Alto Vale do Itajaí
+2525,Saltinho,A,,-1.0,Oeste
+2526,Saltinho,C,-5.0,16.0,Oeste
+2527,Saltinho,F,,-1.0,Oeste
+2528,Saltinho,G,2.0,2.0,Oeste
+2529,Saltinho,H,,1.0,Oeste
+2530,Saltinho,I,,1.0,Oeste
+2531,Salto Veloso,A,0.0,2.0,Centro-Norte
+2532,Salto Veloso,C,-33.0,29.0,Centro-Norte
+2533,Salto Veloso,F,0.0,1.0,Centro-Norte
+2534,Salto Veloso,G,3.0,4.0,Centro-Norte
+2535,Salto Veloso,H,2.0,1.0,Centro-Norte
+2536,Salto Veloso,I,-1.0,5.0,Centro-Norte
+2537,Salto Veloso,M,,-1.0,Centro-Norte
+2538,Salto Veloso,N,-1.0,1.0,Centro-Norte
+2539,Salto Veloso,Q,,1.0,Centro-Norte
+2540,Salto Veloso,S,,-1.0,Centro-Norte
+2541,Sangão,C,-8.0,68.0,Litoral Sul
+2542,Sangão,E,,1.0,Litoral Sul
+2543,Sangão,F,-1.0,7.0,Litoral Sul
+2544,Sangão,G,7.0,10.0,Litoral Sul
+2545,Sangão,H,1.0,10.0,Litoral Sul
+2546,Sangão,I,4.0,-1.0,Litoral Sul
+2547,Sangão,N,-4.0,-2.0,Litoral Sul
+2548,Sangão,P,1.0,-1.0,Litoral Sul
+2549,Santa Cecília,A,-23.0,-3.0,Centro-Norte
+2550,Santa Cecília,C,-36.0,-5.0,Centro-Norte
+2551,Santa Cecília,E,-1.0,,Centro-Norte
+2552,Santa Cecília,F,-2.0,-2.0,Centro-Norte
+2553,Santa Cecília,G,-2.0,12.0,Centro-Norte
+2554,Santa Cecília,H,1.0,0.0,Centro-Norte
+2555,Santa Cecília,I,0.0,0.0,Centro-Norte
+2556,Santa Cecília,J,,-2.0,Centro-Norte
+2557,Santa Cecília,K,1.0,,Centro-Norte
+2558,Santa Cecília,M,-2.0,4.0,Centro-Norte
+2559,Santa Cecília,N,-4.0,-2.0,Centro-Norte
+2560,Santa Cecília,P,,1.0,Centro-Norte
+2561,Santa Cecília,Q,-2.0,-2.0,Centro-Norte
+2562,Santa Cecília,R,,1.0,Centro-Norte
+2563,Santa Cecília,S,,0.0,Centro-Norte
+2564,Santa Helena,C,-9.0,2.0,Extremo Oeste
+2565,Santa Helena,G,3.0,1.0,Extremo Oeste
+2566,Santa Helena,H,,-1.0,Extremo Oeste
+2567,Santa Helena,I,,-1.0,Extremo Oeste
+2568,Santa Helena,J,,1.0,Extremo Oeste
+2569,Santa Helena,M,,-7.0,Extremo Oeste
+2570,Santa Rosa de Lima,C,2.0,3.0,Litoral Sul
+2571,Santa Rosa de Lima,G,,-1.0,Litoral Sul
+2572,Santa Rosa de Lima,H,,-1.0,Litoral Sul
+2573,Santa Rosa de Lima,K,-1.0,,Litoral Sul
+2574,Santa Rosa de Lima,M,-1.0,1.0,Litoral Sul
+2575,Santa Rosa de Lima,S,,-1.0,Litoral Sul
+2576,Santa Rosa do Sul,C,0.0,1.0,Sul
+2577,Santa Rosa do Sul,F,-3.0,-3.0,Sul
+2578,Santa Rosa do Sul,G,5.0,2.0,Sul
+2579,Santa Rosa do Sul,H,0.0,11.0,Sul
+2580,Santa Rosa do Sul,I,0.0,-1.0,Sul
+2581,Santa Rosa do Sul,K,1.0,,Sul
+2582,Santa Rosa do Sul,M,-1.0,-1.0,Sul
+2583,Santa Rosa do Sul,N,-1.0,2.0,Sul
+2584,Santa Rosa do Sul,Q,,1.0,Sul
+2585,Santa Rosa do Sul,S,,3.0,Sul
+2586,Santa Terezinha,C,-8.0,3.0,Alto Vale do Itajaí
+2587,Santa Terezinha,F,,0.0,Alto Vale do Itajaí
+2588,Santa Terezinha,G,9.0,11.0,Alto Vale do Itajaí
+2589,Santa Terezinha,H,0.0,-1.0,Alto Vale do Itajaí
+2590,Santa Terezinha,I,2.0,1.0,Alto Vale do Itajaí
+2591,Santa Terezinha,J,,-1.0,Alto Vale do Itajaí
+2592,Santa Terezinha,K,1.0,-1.0,Alto Vale do Itajaí
+2593,Santa Terezinha,M,1.0,,Alto Vale do Itajaí
+2594,Santa Terezinha,N,,2.0,Alto Vale do Itajaí
+2595,Santa Terezinha,Q,,0.0,Alto Vale do Itajaí
+2596,Santa Terezinha,S,1.0,1.0,Alto Vale do Itajaí
+2597,Santa Terezinha do Progresso,A,-1.0,,Oeste
+2598,Santa Terezinha do Progresso,C,2.0,2.0,Oeste
+2599,Santa Terezinha do Progresso,D,1.0,,Oeste
+2600,Santa Terezinha do Progresso,F,,3.0,Oeste
+2601,Santa Terezinha do Progresso,K,,-1.0,Oeste
+2602,Santiago do Sul,C,6.0,1.0,Oeste
+2603,Santiago do Sul,F,,1.0,Oeste
+2604,Santiago do Sul,G,2.0,1.0,Oeste
+2605,Santiago do Sul,H,-2.0,1.0,Oeste
+2606,Santiago do Sul,K,-1.0,,Oeste
+2607,Santo Amaro da Imperatriz,A,1.0,,Sudeste
+2608,Santo Amaro da Imperatriz,C,19.0,31.0,Sudeste
+2609,Santo Amaro da Imperatriz,F,-18.0,3.0,Sudeste
+2610,Santo Amaro da Imperatriz,G,9.0,1.0,Sudeste
+2611,Santo Amaro da Imperatriz,H,3.0,-6.0,Sudeste
+2612,Santo Amaro da Imperatriz,I,1.0,22.0,Sudeste
+2613,Santo Amaro da Imperatriz,J,,3.0,Sudeste
+2614,Santo Amaro da Imperatriz,K,,1.0,Sudeste
+2615,Santo Amaro da Imperatriz,M,1.0,1.0,Sudeste
+2616,Santo Amaro da Imperatriz,N,-1.0,-19.0,Sudeste
+2617,Santo Amaro da Imperatriz,O,-108.0,138.0,Sudeste
+2618,Santo Amaro da Imperatriz,P,1.0,4.0,Sudeste
+2619,Santo Amaro da Imperatriz,Q,-2.0,2.0,Sudeste
+2620,Santo Amaro da Imperatriz,R,-1.0,4.0,Sudeste
+2621,Santo Amaro da Imperatriz,S,0.0,0.0,Sudeste
+2622,São Bento do Sul,A,-1.0,0.0,Planalto Norte
+2623,São Bento do Sul,C,-448.0,355.0,Planalto Norte
+2624,São Bento do Sul,D,,2.0,Planalto Norte
+2625,São Bento do Sul,E,-2.0,-1.0,Planalto Norte
+2626,São Bento do Sul,F,-16.0,20.0,Planalto Norte
+2627,São Bento do Sul,G,1.0,41.0,Planalto Norte
+2628,São Bento do Sul,H,-7.0,13.0,Planalto Norte
+2629,São Bento do Sul,I,1.0,6.0,Planalto Norte
+2630,São Bento do Sul,J,0.0,8.0,Planalto Norte
+2631,São Bento do Sul,K,8.0,-4.0,Planalto Norte
+2632,São Bento do Sul,L,-2.0,1.0,Planalto Norte
+2633,São Bento do Sul,M,-5.0,-51.0,Planalto Norte
+2634,São Bento do Sul,N,4.0,6.0,Planalto Norte
+2635,São Bento do Sul,O,-3.0,-27.0,Planalto Norte
+2636,São Bento do Sul,P,-14.0,-6.0,Planalto Norte
+2637,São Bento do Sul,Q,11.0,24.0,Planalto Norte
+2638,São Bento do Sul,R,,1.0,Planalto Norte
+2639,São Bento do Sul,S,-15.0,10.0,Planalto Norte
+2640,São Bernardino,C,-3.0,-5.0,Oeste
+2641,São Bernardino,G,0.0,,Oeste
+2642,São Bernardino,H,,1.0,Oeste
+2643,São Bonifácio,C,-4.0,-3.0,Sudeste
+2644,São Bonifácio,G,0.0,2.0,Sudeste
+2645,São Bonifácio,I,-1.0,,Sudeste
+2646,São Bonifácio,J,,1.0,Sudeste
+2647,São Bonifácio,S,1.0,1.0,Sudeste
+2648,São Carlos,A,0.0,,Oeste
+2649,São Carlos,C,-6.0,12.0,Oeste
+2650,São Carlos,F,-12.0,-9.0,Oeste
+2651,São Carlos,G,4.0,-5.0,Oeste
+2652,São Carlos,H,-1.0,-1.0,Oeste
+2653,São Carlos,I,-1.0,,Oeste
+2654,São Carlos,J,-1.0,,Oeste
+2655,São Carlos,P,-2.0,-1.0,Oeste
+2656,São Carlos,Q,-1.0,15.0,Oeste
+2657,São Carlos,R,1.0,,Oeste
+2658,São Carlos,S,-1.0,2.0,Oeste
+2659,São Cristovão do Sul,A,-3.0,-2.0,Centro-Norte
+2660,São Cristovão do Sul,B,0.0,-2.0,Centro-Norte
+2661,São Cristovão do Sul,C,-25.0,16.0,Centro-Norte
+2662,São Cristovão do Sul,F,-1.0,3.0,Centro-Norte
+2663,São Cristovão do Sul,G,0.0,-2.0,Centro-Norte
+2664,São Cristovão do Sul,H,-2.0,-1.0,Centro-Norte
+2665,São Cristovão do Sul,I,0.0,3.0,Centro-Norte
+2666,São Cristovão do Sul,N,-1.0,,Centro-Norte
+2667,São Domingos,A,1.0,,Oeste
+2668,São Domingos,C,-3.0,2.0,Oeste
+2669,São Domingos,F,-1.0,-1.0,Oeste
+2670,São Domingos,G,3.0,2.0,Oeste
+2671,São Domingos,H,-7.0,9.0,Oeste
+2672,São Domingos,I,1.0,,Oeste
+2673,São Domingos,J,-1.0,,Oeste
+2674,São Domingos,K,,1.0,Oeste
+2675,São Domingos,M,-1.0,-1.0,Oeste
+2676,São Domingos,N,1.0,0.0,Oeste
+2677,São Domingos,O,-1.0,-1.0,Oeste
+2678,São Francisco do Sul,B,0.0,,Norte-Nordeste
+2679,São Francisco do Sul,C,-23.0,-5.0,Norte-Nordeste
+2680,São Francisco do Sul,E,1.0,1.0,Norte-Nordeste
+2681,São Francisco do Sul,F,-4.0,16.0,Norte-Nordeste
+2682,São Francisco do Sul,G,113.0,-14.0,Norte-Nordeste
+2683,São Francisco do Sul,H,16.0,70.0,Norte-Nordeste
+2684,São Francisco do Sul,I,38.0,-17.0,Norte-Nordeste
+2685,São Francisco do Sul,J,,2.0,Norte-Nordeste
+2686,São Francisco do Sul,K,1.0,-2.0,Norte-Nordeste
+2687,São Francisco do Sul,L,1.0,2.0,Norte-Nordeste
+2688,São Francisco do Sul,M,-1.0,1.0,Norte-Nordeste
+2689,São Francisco do Sul,N,-3.0,-1.0,Norte-Nordeste
+2690,São Francisco do Sul,O,,0.0,Norte-Nordeste
+2691,São Francisco do Sul,P,-17.0,11.0,Norte-Nordeste
+2692,São Francisco do Sul,Q,7.0,-5.0,Norte-Nordeste
+2693,São Francisco do Sul,R,-1.0,2.0,Norte-Nordeste
+2694,São Francisco do Sul,S,1.0,14.0,Norte-Nordeste
+2695,São João Batista,B,-1.0,,Sudeste
+2696,São João Batista,C,-411.0,324.0,Sudeste
+2697,São João Batista,E,,3.0,Sudeste
+2698,São João Batista,F,-7.0,6.0,Sudeste
+2699,São João Batista,G,-3.0,14.0,Sudeste
+2700,São João Batista,H,2.0,-2.0,Sudeste
+2701,São João Batista,I,4.0,4.0,Sudeste
+2702,São João Batista,J,-1.0,3.0,Sudeste
+2703,São João Batista,K,-1.0,,Sudeste
+2704,São João Batista,L,,1.0,Sudeste
+2705,São João Batista,M,-1.0,1.0,Sudeste
+2706,São João Batista,N,0.0,7.0,Sudeste
+2707,São João Batista,P,-1.0,-3.0,Sudeste
+2708,São João Batista,Q,1.0,2.0,Sudeste
+2709,São João Batista,R,20.0,-15.0,Sudeste
+2710,São João Batista,S,-2.0,3.0,Sudeste
+2711,São João do Itaperiú,A,,-1.0,Vale do Itapocu
+2712,São João do Itaperiú,B,2.0,0.0,Vale do Itapocu
+2713,São João do Itaperiú,C,-4.0,4.0,Vale do Itapocu
+2714,São João do Itaperiú,E,,-1.0,Vale do Itapocu
+2715,São João do Itaperiú,F,2.0,1.0,Vale do Itapocu
+2716,São João do Itaperiú,G,1.0,-1.0,Vale do Itapocu
+2717,São João do Itaperiú,H,7.0,12.0,Vale do Itapocu
+2718,São João do Itaperiú,I,,-1.0,Vale do Itapocu
+2719,São João do Itaperiú,K,-1.0,,Vale do Itapocu
+2720,São João do Itaperiú,R,1.0,,Vale do Itapocu
+2721,São João do Oeste,A,,2.0,Extremo Oeste
+2722,São João do Oeste,C,6.0,19.0,Extremo Oeste
+2723,São João do Oeste,F,-3.0,-1.0,Extremo Oeste
+2724,São João do Oeste,G,9.0,4.0,Extremo Oeste
+2725,São João do Oeste,H,-5.0,7.0,Extremo Oeste
+2726,São João do Oeste,I,-1.0,3.0,Extremo Oeste
+2727,São João do Oeste,K,1.0,,Extremo Oeste
+2728,São João do Oeste,N,1.0,-1.0,Extremo Oeste
+2729,São João do Oeste,Q,1.0,-1.0,Extremo Oeste
+2730,São João do Oeste,R,,-1.0,Extremo Oeste
+2731,São João do Oeste,S,,1.0,Extremo Oeste
+2732,São João do Sul,C,-4.0,20.0,Sul
+2733,São João do Sul,F,,0.0,Sul
+2734,São João do Sul,G,4.0,31.0,Sul
+2735,São João do Sul,I,0.0,4.0,Sul
+2736,São João do Sul,J,,1.0,Sul
+2737,São João do Sul,M,3.0,0.0,Sul
+2738,São João do Sul,N,,1.0,Sul
+2739,São João do Sul,S,-1.0,0.0,Sul
+2740,São Joaquim,A,-17.0,257.0,Serra Catarinense
+2741,São Joaquim,C,2.0,0.0,Serra Catarinense
+2742,São Joaquim,F,2.0,6.0,Serra Catarinense
+2743,São Joaquim,G,6.0,64.0,Serra Catarinense
+2744,São Joaquim,H,-1.0,-3.0,Serra Catarinense
+2745,São Joaquim,I,-4.0,10.0,Serra Catarinense
+2746,São Joaquim,J,1.0,-1.0,Serra Catarinense
+2747,São Joaquim,K,,-1.0,Serra Catarinense
+2748,São Joaquim,L,-1.0,2.0,Serra Catarinense
+2749,São Joaquim,M,2.0,1.0,Serra Catarinense
+2750,São Joaquim,N,0.0,,Serra Catarinense
+2751,São Joaquim,P,-5.0,6.0,Serra Catarinense
+2752,São Joaquim,Q,1.0,9.0,Serra Catarinense
+2753,São Joaquim,R,,2.0,Serra Catarinense
+2754,São Joaquim,S,-2.0,-2.0,Serra Catarinense
+2755,São José,B,-1.0,0.0,Sudeste
+2756,São José,C,-42.0,148.0,Sudeste
+2757,São José,D,-4.0,10.0,Sudeste
+2758,São José,E,3.0,11.0,Sudeste
+2759,São José,F,-196.0,34.0,Sudeste
+2760,São José,G,214.0,162.0,Sudeste
+2761,São José,H,6.0,37.0,Sudeste
+2762,São José,I,29.0,134.0,Sudeste
+2763,São José,J,20.0,252.0,Sudeste
+2764,São José,K,17.0,1.0,Sudeste
+2765,São José,L,0.0,9.0,Sudeste
+2766,São José,M,-26.0,208.0,Sudeste
+2767,São José,N,623.0,257.0,Sudeste
+2768,São José,P,-74.0,160.0,Sudeste
+2769,São José,Q,20.0,41.0,Sudeste
+2770,São José,R,11.0,-12.0,Sudeste
+2771,São José,S,-4.0,11.0,Sudeste
+2772,São José do Cedro,A,1.0,,Extremo Oeste
+2773,São José do Cedro,C,-6.0,29.0,Extremo Oeste
+2774,São José do Cedro,F,-3.0,-1.0,Extremo Oeste
+2775,São José do Cedro,G,0.0,0.0,Extremo Oeste
+2776,São José do Cedro,H,-2.0,4.0,Extremo Oeste
+2777,São José do Cedro,I,-2.0,4.0,Extremo Oeste
+2778,São José do Cedro,J,,1.0,Extremo Oeste
+2779,São José do Cedro,K,1.0,0.0,Extremo Oeste
+2780,São José do Cedro,M,0.0,5.0,Extremo Oeste
+2781,São José do Cedro,N,0.0,0.0,Extremo Oeste
+2782,São José do Cedro,P,-3.0,1.0,Extremo Oeste
+2783,São José do Cedro,Q,0.0,-1.0,Extremo Oeste
+2784,São José do Cedro,S,-2.0,3.0,Extremo Oeste
+2785,São José do Cerrito,A,-2.0,-2.0,Serra Catarinense
+2786,São José do Cerrito,C,-4.0,5.0,Serra Catarinense
+2787,São José do Cerrito,F,,2.0,Serra Catarinense
+2788,São José do Cerrito,G,-2.0,1.0,Serra Catarinense
+2789,São José do Cerrito,H,-1.0,-3.0,Serra Catarinense
+2790,São José do Cerrito,K,2.0,1.0,Serra Catarinense
+2791,São José do Cerrito,M,-1.0,1.0,Serra Catarinense
+2792,São Lourenço do Oeste,A,3.0,2.0,Oeste
+2793,São Lourenço do Oeste,B,,1.0,Oeste
+2794,São Lourenço do Oeste,C,-196.0,157.0,Oeste
+2795,São Lourenço do Oeste,E,-1.0,1.0,Oeste
+2796,São Lourenço do Oeste,F,2.0,7.0,Oeste
+2797,São Lourenço do Oeste,G,23.0,30.0,Oeste
+2798,São Lourenço do Oeste,H,-3.0,8.0,Oeste
+2799,São Lourenço do Oeste,I,-1.0,-1.0,Oeste
+2800,São Lourenço do Oeste,J,3.0,1.0,Oeste
+2801,São Lourenço do Oeste,K,-2.0,-1.0,Oeste
+2802,São Lourenço do Oeste,L,-2.0,1.0,Oeste
+2803,São Lourenço do Oeste,M,-8.0,11.0,Oeste
+2804,São Lourenço do Oeste,N,2.0,2.0,Oeste
+2805,São Lourenço do Oeste,P,-1.0,8.0,Oeste
+2806,São Lourenço do Oeste,Q,3.0,1.0,Oeste
+2807,São Lourenço do Oeste,R,-1.0,-2.0,Oeste
+2808,São Lourenço do Oeste,S,1.0,-1.0,Oeste
+2809,São Ludgero,A,-2.0,-1.0,Litoral Sul
+2810,São Ludgero,C,-62.0,51.0,Litoral Sul
+2811,São Ludgero,D,,3.0,Litoral Sul
+2812,São Ludgero,E,-10.0,8.0,Litoral Sul
+2813,São Ludgero,F,2.0,6.0,Litoral Sul
+2814,São Ludgero,G,3.0,21.0,Litoral Sul
+2815,São Ludgero,H,6.0,1.0,Litoral Sul
+2816,São Ludgero,I,0.0,2.0,Litoral Sul
+2817,São Ludgero,J,-3.0,1.0,Litoral Sul
+2818,São Ludgero,M,0.0,2.0,Litoral Sul
+2819,São Ludgero,N,,2.0,Litoral Sul
+2820,São Ludgero,P,1.0,6.0,Litoral Sul
+2821,São Ludgero,Q,,-1.0,Litoral Sul
+2822,São Ludgero,R,,1.0,Litoral Sul
+2823,São Ludgero,S,-1.0,7.0,Litoral Sul
+2824,São Martinho,C,-1.0,12.0,Litoral Sul
+2825,São Martinho,G,-1.0,3.0,Litoral Sul
+2826,São Martinho,H,2.0,,Litoral Sul
+2827,São Martinho,I,2.0,-1.0,Litoral Sul
+2828,São Martinho,N,,2.0,Litoral Sul
+2829,São Martinho,S,,1.0,Litoral Sul
+2830,São Miguel da Boa Vista,F,,3.0,Oeste
+2831,São Miguel da Boa Vista,G,-1.0,1.0,Oeste
+2832,São Miguel do Oeste,A,6.0,-1.0,Extremo Oeste
+2833,São Miguel do Oeste,B,0.0,-4.0,Extremo Oeste
+2834,São Miguel do Oeste,C,-40.0,25.0,Extremo Oeste
+2835,São Miguel do Oeste,D,2.0,6.0,Extremo Oeste
+2836,São Miguel do Oeste,F,-13.0,33.0,Extremo Oeste
+2837,São Miguel do Oeste,G,-10.0,49.0,Extremo Oeste
+2838,São Miguel do Oeste,H,8.0,18.0,Extremo Oeste
+2839,São Miguel do Oeste,I,0.0,9.0,Extremo Oeste
+2840,São Miguel do Oeste,J,3.0,-10.0,Extremo Oeste
+2841,São Miguel do Oeste,K,10.0,7.0,Extremo Oeste
+2842,São Miguel do Oeste,L,3.0,2.0,Extremo Oeste
+2843,São Miguel do Oeste,M,-6.0,5.0,Extremo Oeste
+2844,São Miguel do Oeste,N,7.0,5.0,Extremo Oeste
+2845,São Miguel do Oeste,P,-21.0,17.0,Extremo Oeste
+2846,São Miguel do Oeste,Q,7.0,4.0,Extremo Oeste
+2847,São Miguel do Oeste,R,1.0,5.0,Extremo Oeste
+2848,São Miguel do Oeste,S,5.0,2.0,Extremo Oeste
+2849,São Pedro de Alcântara,A,-1.0,1.0,Sudeste
+2850,São Pedro de Alcântara,C,-2.0,,Sudeste
+2851,São Pedro de Alcântara,G,-2.0,10.0,Sudeste
+2852,São Pedro de Alcântara,H,1.0,5.0,Sudeste
+2853,São Pedro de Alcântara,I,,1.0,Sudeste
+2854,São Pedro de Alcântara,O,-76.0,52.0,Sudeste
+2855,São Pedro de Alcântara,P,3.0,1.0,Sudeste
+2856,São Pedro de Alcântara,S,,2.0,Sudeste
+2857,Saudades,A,-2.0,,Oeste
+2858,Saudades,C,-27.0,-1.0,Oeste
+2859,Saudades,D,0.0,27.0,Oeste
+2860,Saudades,E,0.0,0.0,Oeste
+2861,Saudades,F,0.0,,Oeste
+2862,Saudades,G,-6.0,-8.0,Oeste
+2863,Saudades,H,0.0,0.0,Oeste
+2864,Saudades,I,1.0,0.0,Oeste
+2865,Saudades,J,,-1.0,Oeste
+2866,Saudades,K,,-1.0,Oeste
+2867,Saudades,M,1.0,1.0,Oeste
+2868,Saudades,Q,-1.0,2.0,Oeste
+2869,Saudades,R,,1.0,Oeste
+2870,Saudades,S,2.0,1.0,Oeste
+2871,Schroeder,C,-70.0,82.0,Vale do Itapocu
+2872,Schroeder,E,,1.0,Vale do Itapocu
+2873,Schroeder,F,-3.0,4.0,Vale do Itapocu
+2874,Schroeder,G,5.0,-6.0,Vale do Itapocu
+2875,Schroeder,H,9.0,6.0,Vale do Itapocu
+2876,Schroeder,I,-1.0,0.0,Vale do Itapocu
+2877,Schroeder,M,-1.0,-2.0,Vale do Itapocu
+2878,Schroeder,N,,0.0,Vale do Itapocu
+2879,Schroeder,O,-84.0,52.0,Vale do Itapocu
+2880,Schroeder,P,-2.0,4.0,Vale do Itapocu
+2881,Schroeder,Q,1.0,1.0,Vale do Itapocu
+2882,Schroeder,S,0.0,1.0,Vale do Itapocu
+2883,Seara,A,18.0,-2.0,Alto Uruguai Catarinense
+2884,Seara,B,,-1.0,Alto Uruguai Catarinense
+2885,Seara,C,-34.0,90.0,Alto Uruguai Catarinense
+2886,Seara,E,-2.0,2.0,Alto Uruguai Catarinense
+2887,Seara,F,-2.0,-3.0,Alto Uruguai Catarinense
+2888,Seara,G,-2.0,7.0,Alto Uruguai Catarinense
+2889,Seara,H,8.0,14.0,Alto Uruguai Catarinense
+2890,Seara,I,-3.0,2.0,Alto Uruguai Catarinense
+2891,Seara,J,-1.0,0.0,Alto Uruguai Catarinense
+2892,Seara,K,1.0,,Alto Uruguai Catarinense
+2893,Seara,L,,1.0,Alto Uruguai Catarinense
+2894,Seara,M,1.0,4.0,Alto Uruguai Catarinense
+2895,Seara,N,-4.0,9.0,Alto Uruguai Catarinense
+2896,Seara,P,,-2.0,Alto Uruguai Catarinense
+2897,Seara,Q,-1.0,2.0,Alto Uruguai Catarinense
+2898,Seara,R,,3.0,Alto Uruguai Catarinense
+2899,Seara,S,2.0,1.0,Alto Uruguai Catarinense
+2900,Serra Alta,C,-1.0,8.0,Oeste
+2901,Serra Alta,F,-2.0,1.0,Oeste
+2902,Serra Alta,G,-1.0,1.0,Oeste
+2903,Serra Alta,H,0.0,1.0,Oeste
+2904,Serra Alta,I,,1.0,Oeste
+2905,Serra Alta,P,,1.0,Oeste
+2906,Siderópolis,B,2.0,0.0,Sul
+2907,Siderópolis,C,9.0,12.0,Sul
+2908,Siderópolis,D,1.0,,Sul
+2909,Siderópolis,F,-22.0,-85.0,Sul
+2910,Siderópolis,G,-6.0,8.0,Sul
+2911,Siderópolis,H,6.0,6.0,Sul
+2912,Siderópolis,I,1.0,0.0,Sul
+2913,Siderópolis,L,,1.0,Sul
+2914,Siderópolis,M,-1.0,,Sul
+2915,Siderópolis,N,,-1.0,Sul
+2916,Siderópolis,O,,63.0,Sul
+2917,Siderópolis,P,,1.0,Sul
+2918,Siderópolis,Q,,1.0,Sul
+2919,Siderópolis,S,-11.0,2.0,Sul
+2920,Sombrio,B,-1.0,-1.0,Sul
+2921,Sombrio,C,24.0,139.0,Sul
+2922,Sombrio,E,16.0,0.0,Sul
+2923,Sombrio,F,1.0,-4.0,Sul
+2924,Sombrio,G,62.0,33.0,Sul
+2925,Sombrio,H,-3.0,3.0,Sul
+2926,Sombrio,I,2.0,14.0,Sul
+2927,Sombrio,J,0.0,-4.0,Sul
+2928,Sombrio,L,-1.0,1.0,Sul
+2929,Sombrio,M,1.0,4.0,Sul
+2930,Sombrio,N,11.0,-5.0,Sul
+2931,Sombrio,P,-1.0,5.0,Sul
+2932,Sombrio,Q,2.0,3.0,Sul
+2933,Sombrio,S,3.0,12.0,Sul
+2934,Sul Brasil,A,,-1.0,Oeste
+2935,Sul Brasil,C,-7.0,2.0,Oeste
+2936,Sul Brasil,F,,1.0,Oeste
+2937,Sul Brasil,G,-2.0,3.0,Oeste
+2938,Sul Brasil,H,-2.0,,Oeste
+2939,Sul Brasil,P,,0.0,Oeste
+2940,Taió,A,3.0,-5.0,Alto Vale do Itajaí
+2941,Taió,C,-63.0,12.0,Alto Vale do Itajaí
+2942,Taió,E,,-1.0,Alto Vale do Itajaí
+2943,Taió,F,-1.0,-1.0,Alto Vale do Itajaí
+2944,Taió,G,-8.0,12.0,Alto Vale do Itajaí
+2945,Taió,H,0.0,-5.0,Alto Vale do Itajaí
+2946,Taió,I,0.0,2.0,Alto Vale do Itajaí
+2947,Taió,J,-1.0,2.0,Alto Vale do Itajaí
+2948,Taió,K,,1.0,Alto Vale do Itajaí
+2949,Taió,M,-8.0,1.0,Alto Vale do Itajaí
+2950,Taió,N,-6.0,-2.0,Alto Vale do Itajaí
+2951,Taió,P,-1.0,-1.0,Alto Vale do Itajaí
+2952,Taió,Q,5.0,-8.0,Alto Vale do Itajaí
+2953,Taió,R,2.0,-1.0,Alto Vale do Itajaí
+2954,Taió,S,-1.0,3.0,Alto Vale do Itajaí
+2955,Tangará,A,-1.0,-2.0,Centro-Oeste
+2956,Tangará,C,-28.0,2.0,Centro-Oeste
+2957,Tangará,E,-5.0,0.0,Centro-Oeste
+2958,Tangará,F,-3.0,4.0,Centro-Oeste
+2959,Tangará,G,-5.0,3.0,Centro-Oeste
+2960,Tangará,H,0.0,4.0,Centro-Oeste
+2961,Tangará,I,-2.0,,Centro-Oeste
+2962,Tangará,K,-1.0,2.0,Centro-Oeste
+2963,Tangará,M,1.0,-1.0,Centro-Oeste
+2964,Tangará,N,1.0,,Centro-Oeste
+2965,Tangará,O,,-1.0,Centro-Oeste
+2966,Tangará,Q,,-2.0,Centro-Oeste
+2967,Tangará,S,-1.0,2.0,Centro-Oeste
+2968,Tigrinhos,C,-1.0,11.0,Oeste
+2969,Tigrinhos,F,-1.0,,Oeste
+2970,Tigrinhos,G,-3.0,3.0,Oeste
+2971,Tigrinhos,H,-2.0,2.0,Oeste
+2972,Tigrinhos,N,0.0,,Oeste
+2973,Tijucas,A,2.0,-4.0,Sudeste
+2974,Tijucas,B,0.0,0.0,Sudeste
+2975,Tijucas,C,-85.0,95.0,Sudeste
+2976,Tijucas,E,-1.0,-2.0,Sudeste
+2977,Tijucas,F,-7.0,14.0,Sudeste
+2978,Tijucas,G,15.0,109.0,Sudeste
+2979,Tijucas,H,10.0,10.0,Sudeste
+2980,Tijucas,I,-4.0,24.0,Sudeste
+2981,Tijucas,J,2.0,-1.0,Sudeste
+2982,Tijucas,K,,3.0,Sudeste
+2983,Tijucas,L,-2.0,3.0,Sudeste
+2984,Tijucas,M,5.0,4.0,Sudeste
+2985,Tijucas,N,-5.0,11.0,Sudeste
+2986,Tijucas,P,1.0,20.0,Sudeste
+2987,Tijucas,Q,3.0,10.0,Sudeste
+2988,Tijucas,R,0.0,0.0,Sudeste
+2989,Tijucas,S,-7.0,6.0,Sudeste
+2990,Timbé do Sul,B,-1.0,,Sul
+2991,Timbé do Sul,C,-1.0,-1.0,Sul
+2992,Timbé do Sul,F,-10.0,-2.0,Sul
+2993,Timbé do Sul,G,1.0,3.0,Sul
+2994,Timbé do Sul,J,1.0,,Sul
+2995,Timbé do Sul,N,,1.0,Sul
+2996,Timbé do Sul,P,0.0,,Sul
+2997,Timbé do Sul,Q,1.0,,Sul
+2998,Timbé do Sul,S,-3.0,5.0,Sul
+2999,Timbó,A,0.0,0.0,Vale do Itajaí
+3000,Timbó,B,,2.0,Vale do Itajaí
+3001,Timbó,C,-367.0,297.0,Vale do Itajaí
+3002,Timbó,E,-1.0,1.0,Vale do Itajaí
+3003,Timbó,F,-8.0,8.0,Vale do Itajaí
+3004,Timbó,G,-11.0,4.0,Vale do Itajaí
+3005,Timbó,H,2.0,5.0,Vale do Itajaí
+3006,Timbó,I,-1.0,7.0,Vale do Itajaí
+3007,Timbó,J,5.0,0.0,Vale do Itajaí
+3008,Timbó,K,-2.0,4.0,Vale do Itajaí
+3009,Timbó,L,-1.0,1.0,Vale do Itajaí
+3010,Timbó,M,-1.0,3.0,Vale do Itajaí
+3011,Timbó,N,0.0,3.0,Vale do Itajaí
+3012,Timbó,O,-1.0,,Vale do Itajaí
+3013,Timbó,P,-15.0,15.0,Vale do Itajaí
+3014,Timbó,Q,2.0,8.0,Vale do Itajaí
+3015,Timbó,R,-1.0,1.0,Vale do Itajaí
+3016,Timbó,S,4.0,14.0,Vale do Itajaí
+3017,Timbó,T,,2.0,Vale do Itajaí
+3018,Timbó Grande,A,-9.0,-2.0,Centro-Norte
+3019,Timbó Grande,C,-41.0,-4.0,Centro-Norte
+3020,Timbó Grande,G,-2.0,12.0,Centro-Norte
+3021,Timbó Grande,I,,-1.0,Centro-Norte
+3022,Timbó Grande,J,,1.0,Centro-Norte
+3023,Timbó Grande,N,1.0,-3.0,Centro-Norte
+3024,Timbó Grande,S,,2.0,Centro-Norte
+3025,Três Barras,A,-15.0,17.0,Centro-Norte
+3026,Três Barras,B,,0.0,Centro-Norte
+3027,Três Barras,C,-107.0,51.0,Centro-Norte
+3028,Três Barras,F,-124.0,-8.0,Centro-Norte
+3029,Três Barras,G,7.0,18.0,Centro-Norte
+3030,Três Barras,H,-11.0,17.0,Centro-Norte
+3031,Três Barras,I,-4.0,3.0,Centro-Norte
+3032,Três Barras,J,,-1.0,Centro-Norte
+3033,Três Barras,M,,-1.0,Centro-Norte
+3034,Três Barras,N,,1.0,Centro-Norte
+3035,Três Barras,O,-120.0,0.0,Centro-Norte
+3036,Três Barras,P,-3.0,0.0,Centro-Norte
+3037,Três Barras,Q,8.0,5.0,Centro-Norte
+3038,Três Barras,S,-3.0,2.0,Centro-Norte
+3039,Treviso,B,6.0,7.0,Sul
+3040,Treviso,C,-11.0,7.0,Sul
+3041,Treviso,D,-1.0,1.0,Sul
+3042,Treviso,F,0.0,0.0,Sul
+3043,Treviso,G,-1.0,-2.0,Sul
+3044,Treviso,H,0.0,-4.0,Sul
+3045,Treviso,Q,,-7.0,Sul
+3046,Treviso,S,,1.0,Sul
+3047,Treze de Maio,C,-17.0,39.0,Litoral Sul
+3048,Treze de Maio,D,-1.0,-2.0,Litoral Sul
+3049,Treze de Maio,F,-4.0,4.0,Litoral Sul
+3050,Treze de Maio,G,-5.0,15.0,Litoral Sul
+3051,Treze de Maio,H,-1.0,6.0,Litoral Sul
+3052,Treze de Maio,K,1.0,,Litoral Sul
+3053,Treze de Maio,L,-1.0,,Litoral Sul
+3054,Treze de Maio,M,63.0,-10.0,Litoral Sul
+3055,Treze de Maio,N,,1.0,Litoral Sul
+3056,Treze de Maio,P,,1.0,Litoral Sul
+3057,Treze de Maio,Q,1.0,1.0,Litoral Sul
+3058,Treze de Maio,R,,2.0,Litoral Sul
+3059,Treze Tílias,A,-3.0,0.0,Centro-Oeste
+3060,Treze Tílias,B,-1.0,-2.0,Centro-Oeste
+3061,Treze Tílias,C,-40.0,35.0,Centro-Oeste
+3062,Treze Tílias,F,-1.0,8.0,Centro-Oeste
+3063,Treze Tílias,G,-9.0,10.0,Centro-Oeste
+3064,Treze Tílias,H,-2.0,-1.0,Centro-Oeste
+3065,Treze Tílias,I,-1.0,7.0,Centro-Oeste
+3066,Treze Tílias,J,,0.0,Centro-Oeste
+3067,Treze Tílias,K,1.0,0.0,Centro-Oeste
+3068,Treze Tílias,M,7.0,0.0,Centro-Oeste
+3069,Treze Tílias,N,4.0,1.0,Centro-Oeste
+3070,Treze Tílias,O,-13.0,19.0,Centro-Oeste
+3071,Treze Tílias,P,2.0,-1.0,Centro-Oeste
+3072,Treze Tílias,Q,,1.0,Centro-Oeste
+3073,Treze Tílias,R,-5.0,2.0,Centro-Oeste
+3074,Treze Tílias,S,1.0,2.0,Centro-Oeste
+3075,Trombudo Central,B,-2.0,2.0,Alto Vale do Itajaí
+3076,Trombudo Central,C,-35.0,18.0,Alto Vale do Itajaí
+3077,Trombudo Central,F,-1.0,1.0,Alto Vale do Itajaí
+3078,Trombudo Central,G,-3.0,5.0,Alto Vale do Itajaí
+3079,Trombudo Central,H,-2.0,0.0,Alto Vale do Itajaí
+3080,Trombudo Central,I,-1.0,2.0,Alto Vale do Itajaí
+3081,Trombudo Central,J,-1.0,-1.0,Alto Vale do Itajaí
+3082,Trombudo Central,K,,-1.0,Alto Vale do Itajaí
+3083,Trombudo Central,M,-2.0,2.0,Alto Vale do Itajaí
+3084,Trombudo Central,N,-9.0,-1.0,Alto Vale do Itajaí
+3085,Trombudo Central,P,,-1.0,Alto Vale do Itajaí
+3086,Trombudo Central,Q,1.0,2.0,Alto Vale do Itajaí
+3087,Trombudo Central,S,-1.0,7.0,Alto Vale do Itajaí
+3088,Tubarão,A,,0.0,Litoral Sul
+3089,Tubarão,B,-1.0,1.0,Litoral Sul
+3090,Tubarão,C,-151.0,148.0,Litoral Sul
+3091,Tubarão,D,1.0,3.0,Litoral Sul
+3092,Tubarão,E,-1.0,4.0,Litoral Sul
+3093,Tubarão,F,-1.0,38.0,Litoral Sul
+3094,Tubarão,G,107.0,84.0,Litoral Sul
+3095,Tubarão,H,2.0,63.0,Litoral Sul
+3096,Tubarão,I,8.0,28.0,Litoral Sul
+3097,Tubarão,J,5.0,14.0,Litoral Sul
+3098,Tubarão,K,4.0,5.0,Litoral Sul
+3099,Tubarão,L,-4.0,-5.0,Litoral Sul
+3100,Tubarão,M,-6.0,-2.0,Litoral Sul
+3101,Tubarão,N,-28.0,37.0,Litoral Sul
+3102,Tubarão,P,-84.0,106.0,Litoral Sul
+3103,Tubarão,Q,-8.0,22.0,Litoral Sul
+3104,Tubarão,R,-25.0,2.0,Litoral Sul
+3105,Tubarão,S,18.0,30.0,Litoral Sul
+3106,Tunápolis,A,1.0,5.0,Extremo Oeste
+3107,Tunápolis,C,-7.0,1.0,Extremo Oeste
+3108,Tunápolis,F,,-1.0,Extremo Oeste
+3109,Tunápolis,G,2.0,5.0,Extremo Oeste
+3110,Tunápolis,H,-2.0,-1.0,Extremo Oeste
+3111,Tunápolis,I,-1.0,,Extremo Oeste
+3112,Tunápolis,N,1.0,,Extremo Oeste
+3113,Tunápolis,Q,0.0,1.0,Extremo Oeste
+3114,Tunápolis,R,,-1.0,Extremo Oeste
+3115,Tunápolis,S,-1.0,2.0,Extremo Oeste
+3116,Turvo,A,-2.0,5.0,Sul
+3117,Turvo,C,-14.0,35.0,Sul
+3118,Turvo,D,1.0,0.0,Sul
+3119,Turvo,F,0.0,3.0,Sul
+3120,Turvo,G,14.0,13.0,Sul
+3121,Turvo,H,3.0,-9.0,Sul
+3122,Turvo,I,-2.0,0.0,Sul
+3123,Turvo,J,1.0,-1.0,Sul
+3124,Turvo,K,1.0,-2.0,Sul
+3125,Turvo,L,,1.0,Sul
+3126,Turvo,M,2.0,2.0,Sul
+3127,Turvo,N,1.0,2.0,Sul
+3128,Turvo,P,-1.0,4.0,Sul
+3129,Turvo,Q,-1.0,4.0,Sul
+3130,Turvo,S,3.0,-3.0,Sul
+3131,União do Oeste,A,-2.0,-2.0,Oeste
+3132,União do Oeste,C,-2.0,8.0,Oeste
+3133,União do Oeste,G,1.0,-1.0,Oeste
+3134,União do Oeste,H,-3.0,,Oeste
+3135,União do Oeste,K,,1.0,Oeste
+3136,União do Oeste,S,-1.0,,Oeste
+3137,Urubici,A,,20.0,Serra Catarinense
+3138,Urubici,C,1.0,3.0,Serra Catarinense
+3139,Urubici,F,,0.0,Serra Catarinense
+3140,Urubici,G,10.0,10.0,Serra Catarinense
+3141,Urubici,H,,1.0,Serra Catarinense
+3142,Urubici,I,12.0,9.0,Serra Catarinense
+3143,Urubici,J,,2.0,Serra Catarinense
+3144,Urubici,K,,0.0,Serra Catarinense
+3145,Urubici,L,1.0,,Serra Catarinense
+3146,Urubici,M,,-1.0,Serra Catarinense
+3147,Urubici,N,,-1.0,Serra Catarinense
+3148,Urubici,Q,-2.0,1.0,Serra Catarinense
+3149,Urubici,R,2.0,,Serra Catarinense
+3150,Urubici,S,-6.0,6.0,Serra Catarinense
+3151,Urupema,A,-53.0,47.0,Serra Catarinense
+3152,Urupema,C,,17.0,Serra Catarinense
+3153,Urupema,G,,5.0,Serra Catarinense
+3154,Urupema,I,2.0,1.0,Serra Catarinense
+3155,Urupema,K,0.0,,Serra Catarinense
+3156,Urupema,N,,1.0,Serra Catarinense
+3157,Urussanga,A,2.0,-1.0,Sul
+3158,Urussanga,B,-2.0,-1.0,Sul
+3159,Urussanga,C,-53.0,71.0,Sul
+3160,Urussanga,E,-1.0,,Sul
+3161,Urussanga,F,-5.0,6.0,Sul
+3162,Urussanga,G,11.0,-9.0,Sul
+3163,Urussanga,H,0.0,1.0,Sul
+3164,Urussanga,I,-2.0,2.0,Sul
+3165,Urussanga,J,1.0,0.0,Sul
+3166,Urussanga,M,-2.0,0.0,Sul
+3167,Urussanga,N,-1.0,14.0,Sul
+3168,Urussanga,O,1.0,,Sul
+3169,Urussanga,P,1.0,10.0,Sul
+3170,Urussanga,Q,3.0,2.0,Sul
+3171,Urussanga,R,,1.0,Sul
+3172,Urussanga,S,-1.0,3.0,Sul
+3173,Vargeão,A,1.0,-3.0,Oeste
+3174,Vargeão,C,-12.0,19.0,Oeste
+3175,Vargeão,F,-1.0,0.0,Oeste
+3176,Vargeão,G,-2.0,2.0,Oeste
+3177,Vargeão,H,-1.0,2.0,Oeste
+3178,Vargeão,I,0.0,,Oeste
+3179,Vargeão,M,,-1.0,Oeste
+3180,Vargeão,N,,1.0,Oeste
+3181,Vargeão,O,-2.0,,Oeste
+3182,Vargeão,Q,,-1.0,Oeste
+3183,Vargem,A,,-1.0,Centro-Oeste
+3184,Vargem,C,2.0,1.0,Centro-Oeste
+3185,Vargem,F,-1.0,76.0,Centro-Oeste
+3186,Vargem,G,0.0,0.0,Centro-Oeste
+3187,Vargem,H,,1.0,Centro-Oeste
+3188,Vargem,S,,0.0,Centro-Oeste
+3189,Vargem Bonita,A,,5.0,Centro-Oeste
+3190,Vargem Bonita,B,0.0,1.0,Centro-Oeste
+3191,Vargem Bonita,C,-6.0,17.0,Centro-Oeste
+3192,Vargem Bonita,F,1.0,2.0,Centro-Oeste
+3193,Vargem Bonita,G,-4.0,4.0,Centro-Oeste
+3194,Vargem Bonita,H,1.0,4.0,Centro-Oeste
+3195,Vargem Bonita,I,1.0,2.0,Centro-Oeste
+3196,Vargem Bonita,N,-1.0,,Centro-Oeste
+3197,Vargem Bonita,S,1.0,1.0,Centro-Oeste
+3198,Vidal Ramos,A,0.0,-1.0,Vale do Itajaí Mirim
+3199,Vidal Ramos,B,0.0,4.0,Vale do Itajaí Mirim
+3200,Vidal Ramos,C,2.0,7.0,Vale do Itajaí Mirim
+3201,Vidal Ramos,F,,2.0,Vale do Itajaí Mirim
+3202,Vidal Ramos,G,-3.0,15.0,Vale do Itajaí Mirim
+3203,Vidal Ramos,H,-1.0,1.0,Vale do Itajaí Mirim
+3204,Vidal Ramos,I,0.0,-2.0,Vale do Itajaí Mirim
+3205,Vidal Ramos,M,-1.0,,Vale do Itajaí Mirim
+3206,Vidal Ramos,N,-1.0,,Vale do Itajaí Mirim
+3207,Vidal Ramos,Q,,1.0,Vale do Itajaí Mirim
+3208,Vidal Ramos,S,,1.0,Vale do Itajaí Mirim
+3209,Videira,A,-21.0,31.0,Centro-Norte
+3210,Videira,B,,-1.0,Centro-Norte
+3211,Videira,C,-253.0,106.0,Centro-Norte
+3212,Videira,E,-5.0,0.0,Centro-Norte
+3213,Videira,F,-13.0,-53.0,Centro-Norte
+3214,Videira,G,-15.0,25.0,Centro-Norte
+3215,Videira,H,-18.0,-11.0,Centro-Norte
+3216,Videira,I,-1.0,23.0,Centro-Norte
+3217,Videira,J,1.0,3.0,Centro-Norte
+3218,Videira,K,1.0,12.0,Centro-Norte
+3219,Videira,L,1.0,5.0,Centro-Norte
+3220,Videira,M,-9.0,4.0,Centro-Norte
+3221,Videira,N,-34.0,54.0,Centro-Norte
+3222,Videira,O,-103.0,115.0,Centro-Norte
+3223,Videira,P,-10.0,21.0,Centro-Norte
+3224,Videira,Q,8.0,18.0,Centro-Norte
+3225,Videira,R,,1.0,Centro-Norte
+3226,Videira,S,-5.0,7.0,Centro-Norte
+3227,Videira,T,1.0,,Centro-Norte
+3228,Vitor Meireles,A,,-1.0,Alto Vale do Itajaí
+3229,Vitor Meireles,C,-16.0,5.0,Alto Vale do Itajaí
+3230,Vitor Meireles,E,0.0,4.0,Alto Vale do Itajaí
+3231,Vitor Meireles,F,,1.0,Alto Vale do Itajaí
+3232,Vitor Meireles,G,0.0,0.0,Alto Vale do Itajaí
+3233,Vitor Meireles,H,-4.0,-7.0,Alto Vale do Itajaí
+3234,Vitor Meireles,K,0.0,,Alto Vale do Itajaí
+3235,Vitor Meireles,P,-1.0,2.0,Alto Vale do Itajaí
+3236,Vitor Meireles,Q,-1.0,,Alto Vale do Itajaí
+3237,Vitor Meireles,S,1.0,1.0,Alto Vale do Itajaí
+3238,Witmarsum,C,-18.0,9.0,Alto Vale do Itajaí
+3239,Witmarsum,G,-1.0,6.0,Alto Vale do Itajaí
+3240,Witmarsum,H,-1.0,2.0,Alto Vale do Itajaí
+3241,Witmarsum,M,,1.0,Alto Vale do Itajaí
+3242,Witmarsum,Q,0.0,0.0,Alto Vale do Itajaí
+3243,Witmarsum,S,,-1.0,Alto Vale do Itajaí
+3244,Xanxerê,A,4.0,7.0,Oeste
+3245,Xanxerê,C,-97.0,73.0,Oeste
+3246,Xanxerê,D,-9.0,1.0,Oeste
+3247,Xanxerê,E,-7.0,8.0,Oeste
+3248,Xanxerê,F,-41.0,0.0,Oeste
+3249,Xanxerê,G,-13.0,47.0,Oeste
+3250,Xanxerê,H,-12.0,-4.0,Oeste
+3251,Xanxerê,I,7.0,2.0,Oeste
+3252,Xanxerê,J,2.0,2.0,Oeste
+3253,Xanxerê,K,-3.0,1.0,Oeste
+3254,Xanxerê,L,-1.0,2.0,Oeste
+3255,Xanxerê,M,-1.0,6.0,Oeste
+3256,Xanxerê,N,-19.0,28.0,Oeste
+3257,Xanxerê,O,-94.0,116.0,Oeste
+3258,Xanxerê,P,-26.0,60.0,Oeste
+3259,Xanxerê,Q,12.0,13.0,Oeste
+3260,Xanxerê,R,0.0,-2.0,Oeste
+3261,Xanxerê,S,1.0,22.0,Oeste
+3262,Xavantina,A,1.0,0.0,Alto Uruguai Catarinense
+3263,Xavantina,C,,2.0,Alto Uruguai Catarinense
+3264,Xavantina,G,0.0,2.0,Alto Uruguai Catarinense
+3265,Xavantina,H,4.0,-2.0,Alto Uruguai Catarinense
+3266,Xavantina,I,,-1.0,Alto Uruguai Catarinense
+3267,Xavantina,K,,1.0,Alto Uruguai Catarinense
+3268,Xavantina,Q,-1.0,,Alto Uruguai Catarinense
+3269,Xavantina,S,,1.0,Alto Uruguai Catarinense
+3270,Xaxim,A,18.0,-6.0,Oeste
+3271,Xaxim,C,-25.0,106.0,Oeste
+3272,Xaxim,E,,-1.0,Oeste
+3273,Xaxim,F,-24.0,40.0,Oeste
+3274,Xaxim,G,-5.0,24.0,Oeste
+3275,Xaxim,H,7.0,23.0,Oeste
+3276,Xaxim,I,-5.0,5.0,Oeste
+3277,Xaxim,J,3.0,2.0,Oeste
+3278,Xaxim,K,-4.0,26.0,Oeste
+3279,Xaxim,L,,0.0,Oeste
+3280,Xaxim,M,-2.0,0.0,Oeste
+3281,Xaxim,N,1.0,14.0,Oeste
+3282,Xaxim,P,1.0,3.0,Oeste
+3283,Xaxim,Q,0.0,8.0,Oeste
+3284,Xaxim,R,-2.0,,Oeste
+3285,Xaxim,S,-1.0,5.0,Oeste
+3286,Zortéa,A,0.0,0.0,Centro-Oeste
+3287,Zortéa,F,-2.0,0.0,Centro-Oeste
+3288,Zortéa,G,0.0,0.0,Centro-Oeste
+3289,Zortéa,H,-3.0,,Centro-Oeste
+3290,Zortéa,M,1.0,,Centro-Oeste
+3291,Zortéa,S,,1.0,Centro-Oeste
